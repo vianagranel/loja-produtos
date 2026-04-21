@@ -1,0 +1,1955 @@
+[
+ {
+   "categoria": "Açúcar",
+   "nome": "Açúcar Mascavado",
+   "preco": 9.6,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_57e9bb2e9c994a7b9cde3527e72b36e6~mv2.jpg"
+ },
+ {
+   "categoria": "Açúcar",
+   "nome": "Açúcar Coco ",
+   "preco": 18,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_31d610d0b11248f290f99f4615f2cfd8~mv2.jpg"
+ },
+ {
+   "categoria": "Açúcar",
+   "nome": "Mel de Cana",
+   "preco": 3.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_883652265a9145c68d33829c06108fdc~mv2.jpg"
+ },
+ {
+   "categoria": "Açúcar",
+   "nome": "Geleia Agave",
+   "preco": 3.25,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_7d051b9002b343cf9157741a148d6a54~mv2.jpg"
+ },
+ {
+   "categoria": "Açúcar",
+   "nome": "Açúcar Integral  ",
+   "preco": 9,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_723416f27656404e8e241030399c9edd~mv2.jpg"
+ },
+ {
+   "categoria": "Azeite",
+   "nome": "Azeite c/ Salicórnia",
+   "preco": 7.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_97b887c838d04b85b894be83dd7f454f~mv2.avif"
+ },
+ {
+   "categoria": "Azeite",
+   "nome": "Azeite Virge Extra Bio ",
+   "preco": 14.4,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_2128f7ac9a9f41efb493fe480a67756d~mv2.jpg"
+ },
+ {
+   "categoria": "Azeite",
+   "nome": "Azeite Aromatizado - Saladas",
+   "preco": 7,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_9814e6c957ed40c99d2161ea64092ced~mv2.jpg"
+ },
+ {
+   "categoria": "Azeite",
+   "nome": "Óleo Coco",
+   "preco": 5.95,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_a0964118826c4e6d970b6e339dc04117~mv2.jpg"
+ },
+ {
+   "categoria": "Azeite",
+   "nome": "Lata - 100ml",
+   "preco": 5.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_e8ac56072b5d49008e7bb8bede98d9ef~mv2.jpg"
+ },
+ {
+   "categoria": "Azeite",
+   "nome": "Lata - 200ml",
+   "preco": 6.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_583648c3d5eb4e50a9725b171e56f7d9~mv2.jpg"
+ },
+ {
+   "categoria": "Azeite",
+   "nome": "Óleo Sésamo",
+   "preco": 5.4,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_043e61f187e546749e0f3c87556bb300~mv2.jpg"
+ },
+ {
+   "categoria": "Azeite",
+   "nome": "Azeite Aromatizado - Peixe",
+   "preco": 7,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_2a5eff2c694c407b8ee08cdb49d931d7~mv2.jpg"
+ },
+ {
+   "categoria": "Azeite",
+   "nome": "Azeite Aromatizado - Massas",
+   "preco": 7,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_5fa9490681a043afb71c938453a39453~mv2.jpg"
+ },
+ {
+   "categoria": "Azeite",
+   "nome": "Azeite Aromatizado - Carne",
+   "preco": 7,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_e55689510a58439fa8aad2af31f1a493~mv2.jpg"
+ },
+ {
+   "categoria": "Bebidas",
+   "nome": "Vinho Porto",
+   "preco": 2.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_466a57c4bbf44081bbca1161bc6c47eb~mv2.jpg"
+ },
+ {
+   "categoria": "Bebidas",
+   "nome": "Licor Menta",
+   "preco": 10,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_0cdb4e7d528b47aca10d45ae416bbb77~mv2.jpg"
+ },
+ {
+   "categoria": "Bebidas",
+   "nome": "Licor Pessegueiro",
+   "preco": 10,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_ebd1d772dc3f4afcba60cfd8a444c62c~mv2.jpg"
+ },
+ {
+   "categoria": "Bebidas",
+   "nome": "Licor Figueira",
+   "preco": 10,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_786f9013099842dd9a496f68cb91e113~mv2.jpg"
+ },
+ {
+   "categoria": "Bebidas",
+   "nome": "Licor Café",
+   "preco": 4.4,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_d52f313271fd403181678c907b92538e~mv2.jpg"
+ },
+ {
+   "categoria": "Bebidas",
+   "nome": "Mateus Rosé",
+   "preco": 2.85,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_8531710c7a31420bb32e6094bf1b4168~mv2.jpg"
+ },
+ {
+   "categoria": "Bebidas",
+   "nome": "Licor Tangerina",
+   "preco": 4.4,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_51c7e4eff89d4237a2da8bdf1e2eb9c1~mv2.jpg"
+ },
+ {
+   "categoria": "Bebidas",
+   "nome": "Licor Ginja Óbidos",
+   "preco": 6,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_4d8314ea097946dab5f2027cadeb5134~mv2.jpg"
+ },
+ {
+   "categoria": "Bebidas",
+   "nome": "Licor Maracujá ",
+   "preco": 4.4,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_63c6a2079d3a4871803943f97d1db116~mv2.jpg"
+ },
+ {
+   "categoria": "Bebidas",
+   "nome": "Licor Mirtilo",
+   "preco": 4.4,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_a4d8227131c04df0b4c2d95ff7dd6ef6~mv2.jpg"
+ },
+ {
+   "categoria": "Bolachas",
+   "nome": "Biscoito Amêndoa",
+   "preco": 5.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_9fb66cbad3194cc0acc4d2528ed76791~mv2.jpg"
+ },
+ {
+   "categoria": "Bolachas",
+   "nome": "Biscoitos Chocolate",
+   "preco": 5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_dd04685a333c4501b4138ee40882dae3~mv2.webp"
+ },
+ {
+   "categoria": "Bolachas",
+   "nome": "Biscoitos Amêndoa",
+   "preco": 5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_e68a52c8e3e044da9a55e076e97b7441~mv2.webp"
+ },
+ {
+   "categoria": "Bolachas",
+   "nome": "Biscoitos Ananás e Gengibre",
+   "preco": 5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_0c8da4e533c84cfd9b3cbe71abb2dd98~mv2.webp"
+ },
+ {
+   "categoria": "Bolachas",
+   "nome": "Paciências",
+   "preco": 2.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_2bc4c88f11a948359f07cece5a911819~mv2.webp"
+ },
+ {
+   "categoria": "Bolachas",
+   "nome": "Biscoitos Noz",
+   "preco": 5.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_acb2900eb5dc4e9e9d02f08e26bc49bf~mv2.jpg"
+ },
+ {
+   "categoria": "Bolachas",
+   "nome": "Ondina Alho e Oregãos",
+   "preco": 3,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_7fc347f39d5941019354d13cfb7916da~mv2.jpg"
+ },
+ {
+   "categoria": "Bolachas",
+   "nome": "Palitos Simples",
+   "preco": 3,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_ebc8b4e322f9496fbd4a0202172cf5d4~mv2.jpg"
+ },
+ {
+   "categoria": "Bolachas",
+   "nome": "Biscoitos Aveia e Passas",
+   "preco": 4.75,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_ca3fc68aee474716ac74de3767b4ea81~mv2.jpg"
+ },
+ {
+   "categoria": "Bolachas",
+   "nome": "Biscoitos Chocolate",
+   "preco": 4.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_4d195f5051d44cec8646ea3b3ad69b56~mv2.jpg"
+ },
+ {
+   "categoria": "Bolachas",
+   "nome": "Palitos Azeitona",
+   "preco": 3,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_bf52025fd17c44ed818b3d15fb6dd771~mv2.jpg"
+ },
+ {
+   "categoria": "Bolachas ",
+   "nome": "Biscoitos Canela",
+   "preco": 4.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_d68273b054324435bab33c74a0dce1ae~mv2.jpg"
+ },
+ {
+   "categoria": "Bolachas ",
+   "nome": "Capinhas Doces",
+   "preco": 3.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_c145c9088cff4368b3ae37441b152f33~mv2.jpg"
+ },
+ {
+   "categoria": "Bolachas ",
+   "nome": "Capinhas Doces Canela",
+   "preco": 3.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_c1a1a47aadef467db7bfe1afefd7a17f~mv2.jpg"
+ },
+ {
+   "categoria": "Bolachas ",
+   "nome": "Bolacha Sete Folhas",
+   "preco": 3.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_a0b35f1307d949f89acdb4f7d2b199d4~mv2.jpg"
+ },
+ {
+   "categoria": "Bolachas ",
+   "nome": "Capinhas Chocolate",
+   "preco": 4,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_b2f029115bd543b4bfad73b771c4730c~mv2.jpg"
+ },
+ {
+   "categoria": "Café",
+   "nome": "Café Grão - Príncipe",
+   "preco": 7.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_984fe3db57284fbd81fe98999b0b5ae6~mv2.jpeg"
+ },
+ {
+   "categoria": "Café",
+   "nome": "Café Grão - Loreto",
+   "preco": 7.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_9f6d925a259a44289ad920c107c5bed6~mv2.jpeg"
+ },
+ {
+   "categoria": "Café",
+   "nome": "Café Moído - Príncipe",
+   "preco": 7.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_a6a684bc1d8e42a99ae3a33f8e628780~mv2.jpg"
+ },
+ {
+   "categoria": "Café",
+   "nome": "Café Moído - Loreto",
+   "preco": 7.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_7844066047bf44e783f0739698c2fd3a~mv2.jpg"
+ },
+ {
+   "categoria": "Café",
+   "nome": "Café Cápsulas - Honduras",
+   "preco": 9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_c401a2c2b0aa48adb8eacd8cb2ce45b9~mv2.jpg"
+ },
+ {
+   "categoria": "Café",
+   "nome": "Café Cápsulas - Peru",
+   "preco": 9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_1c1fe84de8964b8e93ac9bf78cce2564~mv2.jpg"
+ },
+ {
+   "categoria": "Cereais",
+   "nome": "Arroz Vermelho",
+   "preco": 2.75,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_d6bc2e13d4bd4e8787c7dbe466b26f38~mv2.jpg"
+ },
+ {
+   "categoria": "Cereais",
+   "nome": "Arroz Preto",
+   "preco": 3.2,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_a42d10d3ddc54c8e93c2ce4f827e9b98~mv2.jpg"
+ },
+ {
+   "categoria": "Cereais",
+   "nome": "Sêmola de Milho",
+   "preco": 6,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_719085fff4714affa61271b70b947e54~mv2.jpg"
+ },
+ {
+   "categoria": "Cereais",
+   "nome": "Quinoa Vermelha ",
+   "preco": 12,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_9a6a08db9f8948618dc5e07f853207ae~mv2.jpg"
+ },
+ {
+   "categoria": "Cereais",
+   "nome": "Arroz Jasmim ",
+   "preco": 2.85,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_546a2754d2e9457c8787a207d8507b8e~mv2.jpg"
+ },
+ {
+   "categoria": "Cereais",
+   "nome": "Milho ",
+   "preco": 4.8,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_d1fb962e3a5c4987a0c668a35794c742~mv2.jpg"
+ },
+ {
+   "categoria": "Cereais",
+   "nome": "Cuscuz Trigo Integral",
+   "preco": 6,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_2fe036647a3a47cfb733ddc1ca85c13d~mv2.jpg"
+ },
+ {
+   "categoria": "Cereais  ",
+   "nome": "Amaranto ",
+   "preco": 7.5,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_17494216c2b54ca59119caf084cd9c7f~mv2.jpg"
+ },
+ {
+   "categoria": "Cereais  ",
+   "nome": "Bulgur ",
+   "preco": 6,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_98d3c5d20e7b453c9ce4578c6ce7e651~mv2.jpg"
+ },
+ {
+   "categoria": "Cereais  ",
+   "nome": "Millet  ",
+   "preco": 7,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_6c1d81f228b84ebbbac3d200bbddd01c~mv2.jpg"
+ },
+ {
+   "categoria": "Cereais  ",
+   "nome": "Quinoa Branca",
+   "preco": 9,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_787bd1037b5b4765a4f611d8a4e23676~mv2.jpg"
+ },
+ {
+   "categoria": "Cereais Peq Almoço",
+   "nome": "Corn Flakes ",
+   "preco": 14,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_f48e50eea4334e44a49acbb829a165ac~mv2.jpg"
+ },
+ {
+   "categoria": "Cereais Peq Almoço",
+   "nome": "Flocos Aveia ",
+   "preco": 4,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_cdf1592023594106bb3b8fd3a55b1a69~mv2.jpg"
+ },
+ {
+   "categoria": "Cereais Peq Almoço",
+   "nome": "Muesli",
+   "preco": 9,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_95af052c82504c9fad556fc2fe0c2aa4~mv2.jpg"
+ },
+ {
+   "categoria": "Cereais Peq Almoço",
+   "nome": "Granola 3 Cereais",
+   "preco": 17,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_93acf1176b794525a14143dd556a3128~mv2.jpg"
+ },
+ {
+   "categoria": "Champô",
+   "nome": "Champô Sólido Homem",
+   "preco": 9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_3d8577ac21a2492d9ed2cafa496ad05b~mv2.jpg"
+ },
+ {
+   "categoria": "Champô",
+   "nome": "Champô Sólido - Seco",
+   "preco": 6.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_1a9e0c2d44e246aa8cc5031c025f6bb6~mv2.jpg"
+ },
+ {
+   "categoria": "Champô",
+   "nome": "Champô Sólido - Oleoso",
+   "preco": 6.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_a2cbbc1829ec4c7295c4718faa941365~mv2.jpg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Caramelo Salgado",
+   "preco": 5.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_0e99bababdfe4ac9b956cd93fa413bdd~mv2.jpeg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Infusão Pêra",
+   "preco": 5.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_4bfdb839a9c6440fb7be726933db6822~mv2.jpeg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Infusão Erva Doce",
+   "preco": 5.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_71f456bfc5ff41c39b4ce6e37d018946~mv2.jpeg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Infusão Romã",
+   "preco": 5.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_fb69286d0ea044ea9f712b69d4c80709~mv2.jpeg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Infusor",
+   "preco": 2.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_dbddf18782b24356908b730afff28de9~mv2.jpeg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Erva Cidreira",
+   "preco": 30,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_3bed8836d3374b49a4745b8bfa52963f~mv2.jpg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Limonete",
+   "preco": 44,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_4002789e432248668c442e99bfb230dc~mv2.jpg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Verde Sencha",
+   "preco": 60,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_410912248e1c45b1855de9abe5d55da9~mv2.jpg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Laranja e Menta",
+   "preco": 50,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_d43bb5fcb64647628933791e71b3d1a5~mv2.jpg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Infusão Banana/Baunilha",
+   "preco": 5.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_5e798f5a96844b5f8bb06b06139d9a0a~mv2.png"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Infusão Rooibos",
+   "preco": 5.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_dbddf18782b24356908b730afff28de9~mv2.jpeg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Erva Príncipe",
+   "preco": 24,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_ce83597164084f0da9ecb4a88e9d7554~mv2.jpg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Canela e Gengibre",
+   "preco": 37.5,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_c8efa27c1bd24aa697a5c45c1b7d5da0~mv2.jpg"
+ },
+ {
+   "categoria": "Chás ",
+   "nome": "Preto Assam",
+   "preco": 60,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_41d4cd055b044155ae1f0b67076949ab~mv2.jpg"
+ },
+ {
+   "categoria": "Chás ",
+   "nome": "Preto Himalaya",
+   "preco": 55,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_96596f1ea3e84441ae51ee83a79b3731~mv2.jpg"
+ },
+ {
+   "categoria": "Chás ",
+   "nome": "Camomila",
+   "preco": 44,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_0d4996b86aae4a74b4d386fcd2f37d4d~mv2.jpg"
+ },
+ {
+   "categoria": "Chás ",
+   "nome": "Cavalinha",
+   "preco": 19,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_3e2c18e5aa2143a1876997a59a83f3c1~mv2.jpg"
+ },
+ {
+   "categoria": "Chás ",
+   "nome": "Tília",
+   "preco": 61,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_7c6712fd2835446dabacbf6fe9dddcc2~mv2.jpg"
+ },
+ {
+   "categoria": "Chás ",
+   "nome": "Carqueja",
+   "preco": 25,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_5888cf27ac71469f998cc858f4a58674~mv2.jpg"
+ },
+ {
+   "categoria": "Chás ",
+   "nome": "Vento do Sul",
+   "preco": 4.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_b4103629fa3848eb9a69983a53268191~mv2.jpg"
+ },
+ {
+   "categoria": "Chás ",
+   "nome": "Sombra do Sobreiro",
+   "preco": 4.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_66eaf3ac11dc42d193cfbe67f29a25ef~mv2.jpg"
+ },
+ {
+   "categoria": "Chás ",
+   "nome": "Hibisco",
+   "preco": 22,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_b5213540dec94ddf930c5db06966c689~mv2.jpg"
+ },
+ {
+   "categoria": "Chás ",
+   "nome": "Limão e Gengibre",
+   "preco": 75,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_8f1276f664e34502b7ba6862949079a3~mv2.jpg"
+ },
+ {
+   "categoria": "Chocolates",
+   "nome": "Tablete Viana",
+   "preco": 3.3,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_fe9d485ad51a41d7a5a981a4513ee334~mv2.jpg"
+ },
+ {
+   "categoria": "Chocolates",
+   "nome": "Amêndoas c/ Chocolate Negro",
+   "preco": 6.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_bc8d8a4186c143edba6bc509024d418a~mv2.jpg"
+ },
+ {
+   "categoria": "Chocolates",
+   "nome": "Cacau Pó Cru",
+   "preco": 47,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_092d425edccf40ac9b82b4d39e11c393~mv2.jpg"
+ },
+ {
+   "categoria": "Compotas",
+   "nome": "Ameixa Escorrida",
+   "preco": 19.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_4705dbce6a434225a420cb941fe207cc~mv2.webp"
+ },
+ {
+   "categoria": "Compotas",
+   "nome": "Doce Figo",
+   "preco": 9.6,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_051d8e272fb24157a674e5da2289f9a0~mv2.webp"
+ },
+ {
+   "categoria": "Compotas",
+   "nome": "Geleia",
+   "preco": 5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_57b694844a324b1891faedd6be426f9a~mv2.jpg"
+ },
+ {
+   "categoria": "Compotas",
+   "nome": "Doce de Ginja  ",
+   "preco": 6.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_2d67010ad56c40a3981957b935f3331b~mv2.jpg"
+ },
+ {
+   "categoria": "Compotas",
+   "nome": "Figo Escorrido",
+   "preco": 19.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_c647eb02015b4533b77c0eb9c91391f3~mv2.webp"
+ },
+ {
+   "categoria": "Compotas",
+   "nome": "Compota Pêssego",
+   "preco": 5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_babcc544653a44e28c359ba8249a9bf6~mv2.jpg"
+ },
+ {
+   "categoria": "Compotas",
+   "nome": "Compota Tomate",
+   "preco": 5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_ef7ba942496845a5967cc45a27eb5d5f~mv2.jpg"
+ },
+ {
+   "categoria": "Compotas",
+   "nome": "Ameixa Calda",
+   "preco": 9.6,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_5304e5bdcbb04f9abfa3dff3894a39cc~mv2.jpg"
+ },
+ {
+   "categoria": "Compotas",
+   "nome": "Doce Ameixa",
+   "preco": 9.6,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_e3988370d3164d9984ebf969611d5869~mv2.webp"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Coco Ralado",
+   "preco": 9,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_0bd55ddcbf504f03a8745639cec35bd5~mv2.jpg"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Figo Seco ",
+   "preco": 9,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_0ec2667cc5b24226bc824a7a9407379b~mv2.jpg"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Tomate Seco",
+   "preco": 30,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_077a5b9f4454477da804a40bfbdc2436~mv2.jpg"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Fruta Italiana",
+   "preco": 13,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_7e86dd3701524af4905961dfc144818d~mv2.jpg"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Mirtilos",
+   "preco": 30,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_c5d6a0f78d154e3a99e613c6fabd5492~mv2.jpg"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Alperce ",
+   "preco": 27,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_98852edfc2bd49b5af19136939aa8794~mv2.jpg"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Ameixa s/ Caroço",
+   "preco": 12,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_0aba91e60651424c8f95a8565cbce4d0~mv2.jpg"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Arandos ",
+   "preco": 15,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_b561f2b34a574075a6162dccc418c256~mv2.jpg"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Banana Chips",
+   "preco": 12,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_d6aaeb4d94f04892889500c9868bd32d~mv2.jpg"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Gengibre Cubos",
+   "preco": 19,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_fd13a74747af444d99fc21ca51d22f0f~mv2.jpg"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Passas Corintos",
+   "preco": 8.8,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_9d17af877731427c894b4b3fb54bb0f3~mv2.jpg"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Tâmaras Medjool",
+   "preco": 22,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_e203e3c46d674f11837a34f3df066007~mv2.jpg"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Alho Laminado",
+   "preco": 15.6,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_dc4848020670411fb505eb0e68afc702~mv2.jpg"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Cebola Desidratada",
+   "preco": 11.6,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_aa607318a83543f59be3ecf6538a1401~mv2.jpg"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Espinafre ",
+   "preco": 22.6,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_6048da65d6384777950b29a4cb32c570~mv2.jpg"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Cogumelos Desidratados",
+   "preco": 6,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_884c2c50a7094952abfadae591ca2a69~mv2.avif"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Laranja Desidratada Rodelas",
+   "preco": 38,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_b7929cbd4df34f44886d3a646218a289~mv2.jpg"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Sultanas",
+   "preco": 10,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_8639a4f0746a4e5ca798a6e95f4b6373~mv2.jpg"
+ },
+ {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Mistura Condimento Saladas",
+   "preco": 91,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_39398d1de3994b11b0f14a6c1973d615~mv2.jpg"
+ },
+ {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Coentros",
+   "preco": 77,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_7979992401bc481a98918581d7daabab~mv2.jpg"
+ },
+ {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Tomilho Limão",
+   "preco": 28,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_161ce6229bde4c13b3a3b9fb34224b08~mv2.jpg"
+ },
+ {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Coentro Semente",
+   "preco": 15,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_35a09768363248cc963352aa68cbf1e7~mv2.jpg"
+ },
+ {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Alecrim ",
+   "preco": 17,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_c7ba8a10eeb2423db4648b09509ef72c~mv2.jpg"
+ },
+ {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Cebolinho ",
+   "preco": 59,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_fca6f6e4fb454156a1ff73db404f6704~mv2.jpg"
+ },
+ {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Hortelã-Pimenta ",
+   "preco": 44,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_278505836d7d490aac917105aa7dcdb2~mv2.jpg"
+ },
+ {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Louro ",
+   "preco": 62,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_b8b49dc6b7f44c57a1466f5c20161dbe~mv2.jpg"
+ },
+ {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Manjericão ",
+   "preco": 36,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_4f8f747f03c549a0a0e5a456221d04ec~mv2.jpg"
+ },
+ {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Salsa ",
+   "preco": 48,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_ffd811e74d964a9a94ac5dce275d3d44~mv2.jpg"
+ },
+ {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Tomilho Vulgar ",
+   "preco": 41,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_b610304804594b8aae97c07105d720b3~mv2.jpg"
+ },
+ {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Oregãos ",
+   "preco": 18,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_e11d2b04003a44e38b49bb4fdf5b11bb~mv2.jpg"
+ },
+ {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Endro",
+   "preco": 58,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_157d0f569f8245c991ffecb5e3724920~mv2.jpg"
+ },
+ {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Funcho",
+   "preco": 13,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_6bcc563e576542e398cd08232f4640b2~mv2.jpg"
+ },
+ {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Ervas Provence",
+   "preco": 16,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_f731123ae89b4718aa410bd4c85b6090~mv2.jpg"
+ },
+ {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Ervas p/ Azeitonas e Carnes",
+   "preco": 3.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_03f384d11cb44e6fb70c10078d9b010e~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Cajun",
+   "preco": 25,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_489c3ff51f2e43aea0395fd29196ce9d~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Paprika Picante Fumada",
+   "preco": 23,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_7a2a30f27d614ac197c18ea9e72c9288~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Anis Estrelado",
+   "preco": 3.95,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_7429c0f635014d308b59b66dc88c7c68~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Bicarbonato de Sódio",
+   "preco": 3,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_ba73f60b592c4e049036278685ab46ed~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Golden",
+   "preco": 23,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_2ceaff6619ae4b539cfbeae4a8125c88~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Cominhos Grão ",
+   "preco": 2,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_8f2e6237c61548e5918104d0e41fa10b~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Gengibre Pó",
+   "preco": 25,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_c34a2d37e02c472aaedbf1a35892a7d6~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Alho Granulado",
+   "preco": 18,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_57c93ec57aa04a0eaca2323369b3df94~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Tikka Masala",
+   "preco": 25,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_a205276d48714de48e4fb307299bfe05~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Especiarias p/ Bolos e Bolachas",
+   "preco": 26,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_dfbe27ef4f804d09803101b515ac0a4e~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Ras el Hanout",
+   "preco": 24,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_d529dd1161284c4ea4682a7c9ae0f486~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Mistura Italiana",
+   "preco": 23.8,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_ef633335be184b6896baad5b27330e3e~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Pimenta Preta Grão",
+   "preco": 29.8,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_67599d102893492b9fc73468a7c2cb36~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Bolonhesa",
+   "preco": 35.4,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_b2640925bf8048a78b8cd65bb62dfea9~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Lemon Pepper",
+   "preco": 25,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_1baed0b8cebf4e88b6272596df2c12b4~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Mostarda Grão",
+   "preco": 13.6,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_1697edec404e4b6b8be1e4979b2282e1~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Noz Moscada Grão",
+   "preco": 1.35,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_4176ed36380f409bac48ab11767f0c4e~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Paprika Fumada",
+   "preco": 23,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_4f0bd3e5994c4b0284a723e1cfc0c02e~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Piri Piri ",
+   "preco": 20,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_72c20dbff55c4bf8af5b2fb63e95d2cc~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Caril Verde",
+   "preco": 25,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_9a2958785b4c4e299d805f5ead113ee8~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Soudani Harissa",
+   "preco": 23.6,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_0031245b5fb0496eb1668123158db44a~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias ",
+   "nome": "Chimichurri",
+   "preco": 26,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_1fe74e01d9bc452f8627636ceb3ccfca~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias ",
+   "nome": "Cravinho ",
+   "preco": 54,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_19df3e20fc9d474ebe5c538d8858f547~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias  ",
+   "nome": "Caril Índia",
+   "preco": 25,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_862ff16ece964bcb85303012db3a0e61~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias  ",
+   "nome": "Curcuma ",
+   "preco": 20,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_d8d6ce725b364286a66e0af4eac0a47e~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias  ",
+   "nome": "Pimentão Doce ",
+   "preco": 15.4,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_f98c5310744346c0b91d5f5777b20b1a~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias  ",
+   "nome": "Pimenta Preta Pó ",
+   "preco": 26,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_97e07f3c92a9454289312f3f352b9930~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias  ",
+   "nome": "Pimenta Caiena ",
+   "preco": 61.8,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_a931eb4c9b81492a9a4f13b3ac904ac6~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias  ",
+   "nome": "Gengibre Raiz ",
+   "preco": 46.8,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_1616105af26043098e6e084a742ab106~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias  ",
+   "nome": "Canela Ceilão Pó ",
+   "preco": 34,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_ea9b9268c2084c0ab1386ff86673ef5e~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias  ",
+   "nome": "Canela Ceilão Pau  ",
+   "preco": 70,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_8fe68f8e71694cbdbbcdb3fb46339dae~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias  ",
+   "nome": "Cominhos",
+   "preco": 24,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_6ba72e6efa51400d9398a97c5bf17482~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias  ",
+   "nome": "Noz Moscada Pó ",
+   "preco": 120,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_e2dc13bdfd814d7caddaec3880ee0175~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias  ",
+   "nome": "Pimenta Branca Grão ",
+   "preco": 76,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_0138feaeed6548a585611992ea9947e2~mv2.jpg"
+ },
+ {
+   "categoria": "Farinhas",
+   "nome": "Farinha Espelta",
+   "preco": 2.85,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_0b264849c78547fd9381861ba4b6f9a2~mv2.jpg"
+ },
+ {
+   "categoria": "Farinhas",
+   "nome": "Farinha Trigo Integral",
+   "preco": 1.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_4bf6efc625b24694bf8bcbf0bc6e786b~mv2.jpg"
+ },
+ {
+   "categoria": "Farinhas",
+   "nome": "Farinha Centeio Integral",
+   "preco": 1.7,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_e0c0ee941c5c4151be24d1c5f65c18ad~mv2.jpg"
+ },
+ {
+   "categoria": "Farinhas",
+   "nome": "Farinha Trigo Sarraceno",
+   "preco": 4.6,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_8baf805401b244dcbadf7f8c1ab75618~mv2.jpg"
+ },
+ {
+   "categoria": "Farinhas",
+   "nome": "Farinha Aveia Integral",
+   "preco": 2.4,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_60cb7adfa7be45abb3fdd42d48f40ea0~mv2.jpg"
+ },
+ {
+   "categoria": "Farinhas",
+   "nome": "Farinha Beterraba",
+   "preco": 4.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_99bc57c2615d4868a80d475dbe76a004~mv2.jpg"
+ },
+ {
+   "categoria": "Farinhas",
+   "nome": "Farinha Grão Bico",
+   "preco": 2.3,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_ad084f274c5340debe7dade540a4c11c~mv2.jpg"
+ },
+ {
+   "categoria": "Farinhas",
+   "nome": "Goma Xantana",
+   "preco": 4.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_93e39de0b5534a1e8a5af97cb464cdf1~mv2.jpg"
+ },
+ {
+   "categoria": "Frescos",
+   "nome": "Veden Fumado",
+   "preco": 9.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_0320ba70a7254cdb9aa0396ca572cf35~mv2.webp"
+ },
+ {
+   "categoria": "Frescos",
+   "nome": "Curado Boletos",
+   "preco": 9.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_4c07c0e4a58c407194ade26f7e9c66e5~mv2.webp"
+ },
+ {
+   "categoria": "Frescos",
+   "nome": "Tofu Oriental",
+   "preco": 2.65,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_09e7491ba54749a3af57451580d739e6~mv2.jpg"
+ },
+ {
+   "categoria": "Frescos",
+   "nome": "Tofu Bio",
+   "preco": 2.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_b3daacbf91574037961a08bd8ca28cea~mv2.jpg"
+ },
+ {
+   "categoria": "Frescos",
+   "nome": "Tofu Multi-Algas",
+   "preco": 2.75,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_c2aaacaf58f84b91b5caf8b71e1a2297~mv2.jpg"
+ },
+ {
+   "categoria": "Frescos",
+   "nome": "Seitan",
+   "preco": 3,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_c5d19a620c8042e69a3e2bddb89c830f~mv2.jpg"
+ },
+ {
+   "categoria": "Frescos",
+   "nome": "Alheira Vegetariana",
+   "preco": 3.3,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_68a49bc8ff654358854b695034f327c8~mv2.jpg"
+ },
+ {
+   "categoria": "Frescos",
+   "nome": "Alheira s/ Glúten",
+   "preco": 3.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_624687476a234994a64b55f084d0cff2~mv2.jpg"
+ },
+ {
+   "categoria": "Frutos Secos",
+   "nome": "Amêndoa s/ Pele",
+   "preco": 23,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_1f3c6ceefe8c4e9a8f0595ed9ae0b427~mv2.jpg"
+ },
+ {
+   "categoria": "Frutos Secos",
+   "nome": "Miolo Noz Pecan",
+   "preco": 30,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_77f3090437d2474f8e093d9b1f65af1f~mv2.jpg"
+ },
+ {
+   "categoria": "Frutos Secos ",
+   "nome": "Amendoim Torrado",
+   "preco": 13,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_f4a3d782dff74f56afd6d8eca0070a1b~mv2.jpg"
+ },
+ {
+   "categoria": "Frutos Secos ",
+   "nome": "Amêndoa c/ Pele",
+   "preco": 20,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_0939b6f921dd4df687f675f3abe6fb54~mv2.jpg"
+ },
+ {
+   "categoria": "Frutos Secos ",
+   "nome": "Avelã Torrada",
+   "preco": 35,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_98a6d47c2e0d4b96a46cfd2654173f2e~mv2.jpg"
+ },
+ {
+   "categoria": "Frutos Secos ",
+   "nome": "Caju Torrado",
+   "preco": 33,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_6f7a4525f3b149b98f143120bd43f7c2~mv2.jpg"
+ },
+ {
+   "categoria": "Frutos Secos  ",
+   "nome": "Caju Natural",
+   "preco": 24,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_f712f00891e546f78a1c7619067efd1e~mv2.jpg"
+ },
+ {
+   "categoria": "Frutos Secos  ",
+   "nome": "Miolo Noz",
+   "preco": 24,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_7a29dc143ab94a38b778b7f3fae8a19e~mv2.jpg"
+ },
+ {
+   "categoria": "Frutos Secos  ",
+   "nome": "Castanha Maranhão",
+   "preco": 41,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_011bfda11c9d4381b944099d92f93935~mv2.jpg"
+ },
+ {
+   "categoria": "Leguminosas",
+   "nome": "Lentilha Branca",
+   "preco": 5,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_7e2edcec317f44af9adeaa0923c1ee4e~mv2.jpg"
+ },
+ {
+   "categoria": "Leguminosas",
+   "nome": "Feijão Azuki ",
+   "preco": 8.5,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_68ea1c22c25643629ea1e01f7b71ee9f~mv2.jpg"
+ },
+ {
+   "categoria": "Leguminosas",
+   "nome": "Feijão Vermelho ",
+   "preco": 5,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_d8bc2fc8fcea4c7f9ad401663ecb3b97~mv2.jpg"
+ },
+ {
+   "categoria": "Leguminosas",
+   "nome": "Feijão Branco ",
+   "preco": 6,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_fc3582ec08f24271ac6f26abbcf13809~mv2.jpg"
+ },
+ {
+   "categoria": "Leguminosas",
+   "nome": "Feijão Preto",
+   "preco": 5.5,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_55dc7be25b904287971e90b91c438e30~mv2.jpg"
+ },
+ {
+   "categoria": "Leguminosas",
+   "nome": "Grão de Bico",
+   "preco": 5,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_39ce5af937de406585261f73ba861160~mv2.jpg"
+ },
+ {
+   "categoria": "Leguminosas",
+   "nome": "Lentilha Coral ",
+   "preco": 6,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_d3d2287b98f24ddaa7623749465be764~mv2.jpg"
+ },
+ {
+   "categoria": "Leguminosas",
+   "nome": "Lentilha Verde ",
+   "preco": 5,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_90728637586945bb8e60f9671838f5e7~mv2.jpg"
+ },
+ {
+   "categoria": "Leguminosas",
+   "nome": "Lentilha Castanha",
+   "preco": 7,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_3d9a8f6c464240cc99f69c3c01e1f527~mv2.jpg"
+ },
+ {
+   "categoria": "Leguminosas",
+   "nome": "Feijão Frade",
+   "preco": 5,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_25cc6b46299b4ade93568f67aeb26276~mv2.jpg"
+ },
+ {
+   "categoria": "Leguminosas",
+   "nome": "Feijão Manteiga",
+   "preco": 5,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_6e2b00a18cbc4681b2bcafd16e2c987f~mv2.jpg"
+ },
+ {
+   "categoria": "Leguminosas",
+   "nome": "Feijoca",
+   "preco": 6,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_085d2d1181a343dbb9490c11159c4ac3~mv2.jpg"
+ },
+ {
+   "categoria": "Leguminosas",
+   "nome": "Feijão de Soja",
+   "preco": 6,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_dac926355f7c4e7d8944b4bba03677e6~mv2.jpg"
+ },
+ {
+   "categoria": "Leguminosas",
+   "nome": "Ervilhas Secas",
+   "preco": 5.8,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_7c084dfe1683434e843257ae330fd82e~mv2.jpg"
+ },
+ {
+   "categoria": "Leguminosas",
+   "nome": "Feijão Mung",
+   "preco": 10,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_363454bd178a4d14a211597169faea1c~mv2.jpg"
+ },
+ {
+   "categoria": "Massas",
+   "nome": "Espirais Tricolores ",
+   "preco": 10,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_b61c5772566a4c829229c20f5c8bc021~mv2.jpg"
+ },
+ {
+   "categoria": "Mel",
+   "nome": "Mel Rosmaninho ",
+   "preco": 6.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_431116bc6bdc471a92d5b77dfd24edd1~mv2.jpg"
+ },
+ {
+   "categoria": "Mel",
+   "nome": "Mel Urze ",
+   "preco": 6.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_70dec1f30d3449c4919a1a1aa33dd0ca~mv2.jpg"
+ },
+ {
+   "categoria": "Mel",
+   "nome": "Mel Castanheiro ",
+   "preco": 6.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_650d6c130b934e388c61453e91c73a4e~mv2.jpg"
+ },
+ {
+   "categoria": "Mel",
+   "nome": "Mel Castanheiro ",
+   "preco": 4.6,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_1fb0b17ccd0f4b23b4c67f2419aad990~mv2.jpg"
+ },
+ {
+   "categoria": "Mel",
+   "nome": "Colher de Mel",
+   "preco": 2.3,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_c22fceb3776e49d3b10d007e81b49f22~mv2.jpg"
+ },
+ {
+   "categoria": "Molhos",
+   "nome": "Molho de Soja",
+   "preco": 3.95,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_688c9503bf96444ab666763852e65bad~mv2.jpg"
+ },
+ {
+   "categoria": "Pão",
+   "nome": "Pão Cenoura",
+   "preco": 3.75,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_2f3323da8e554e2d9fb244bd4d964f64~mv2.jpg"
+ },
+ {
+   "categoria": "Pão",
+   "nome": "Pão Arroz integral",
+   "preco": 3.75,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_5a463df30a064566b35103967cf1792f~mv2.jpg"
+ },
+ {
+   "categoria": "Pão",
+   "nome": "Pãp Espelta e Centeio Integral c/ Sementes",
+   "preco": 4.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_48251c3c19e845e784c5ab32af18b345~mv2.jpg"
+ },
+ {
+   "categoria": "Pão",
+   "nome": "Pão Avelã e Trigo Sarraceno",
+   "preco": 4,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_ad22be215bf74e918ae58169afda0da3~mv2.jpg"
+ },
+ {
+   "categoria": "Pão",
+   "nome": "Pão Tâmara c/ Nozes",
+   "preco": 4.95,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_c2800b269786495294668b6631417663~mv2.jpg"
+ },
+ {
+   "categoria": "Pão",
+   "nome": "Pão Alfarroba",
+   "preco": 4.35,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_c4501cb3e52d437ba7607d4cc887ae50~mv2.jpg"
+ },
+ {
+   "categoria": "Pão",
+   "nome": "Pão Azeitonas",
+   "preco": 4.15,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_2089bf2c012043a9b7386fc17207e2dc~mv2.jpg"
+ },
+ {
+   "categoria": "Pão",
+   "nome": "Pão Espelta",
+   "preco": 3.75,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_48f83511fbf94e27b0562e25236f264a~mv2.jpg"
+ },
+ {
+   "categoria": "Pão",
+   "nome": "Pão Espelta e Centeio Integral",
+   "preco": 3.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_06f8d985f456497dbc2f1a6bfb0c4b01~mv2.jpg"
+ },
+ {
+   "categoria": "Pão",
+   "nome": "Pão Kamut c/ Sementes",
+   "preco": 4.85,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_642156843b754aa0a678e4b1eb1310e1~mv2.jpg"
+ },
+ {
+   "categoria": "Pão",
+   "nome": "Pão Ralado",
+   "preco": 1.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_9534380a08234ab78bfbffacb618809a~mv2.jpg"
+ },
+ {
+   "categoria": "Pão",
+   "nome": "Pão Aveia Integral",
+   "preco": 3.75,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_50bc4c2aa21845ec994fd9bfe59bd44c~mv2.jpg"
+ },
+ {
+   "categoria": "Pão",
+   "nome": "Pão Batata Doce e Milho",
+   "preco": 3.75,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_6950311713be43d3a8e4aa635aab886d~mv2.jpg"
+ },
+ {
+   "categoria": "Patês",
+   "nome": "Pasta Azeitona Galega",
+   "preco": 2.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_0552660b1b1441679fd63969175fe001~mv2.jpg"
+ },
+ {
+   "categoria": "Patês",
+   "nome": "Pasta Azeitona Preta",
+   "preco": 2.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_a1dd984134724ff990155a73620ee81f~mv2.jpg"
+ },
+ {
+   "categoria": "Patês",
+   "nome": "Pasta Azeitona Verde",
+   "preco": 2.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_3f7d5a8cd25b430db6da1815db650506~mv2.jpg"
+ },
+ {
+   "categoria": "Perfumaria",
+   "nome": "Colónia Lavanda",
+   "preco": 24,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_e28caaa2230444dfa1e422fa211e6137~mv2.jpg"
+ },
+ {
+   "categoria": "Perfumaria",
+   "nome": "Colónia Magnólia",
+   "preco": 25,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_60829091c5d1462390770ae45a21bdbf~mv2.jpg"
+ },
+ {
+   "categoria": "Refeições",
+   "nome": "Hamburguer Tremoço / Azeitona",
+   "preco": 3.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_32a43479cb1340dfba94c14db8b2acc7~mv2.jpg"
+ },
+ {
+   "categoria": "Refeições",
+   "nome": "Hamburguer Tremoço / Barbecue",
+   "preco": 3.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_4961b342ab174968a962d8e8a3ae52ef~mv2.jpg"
+ },
+ {
+   "categoria": "Refeições",
+   "nome": "Hamburguer Tremoço / Mediterrâneo",
+   "preco": 3.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_817862061f824388ab6877669ad3df1d~mv2.jpg"
+ },
+ {
+   "categoria": "Refeições",
+   "nome": "Hamburguer Tremoço / Pimento Vermelho",
+   "preco": 3.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_f0423883aeac46c5ad9d9db9783643c7~mv2.jpg"
+ },
+ {
+   "categoria": "Sabonetes",
+   "nome": "Sabonete Alcatrão",
+   "preco": 2.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_9eb39a90c6b848b6ab740b3cc850117b~mv2.jpg"
+ },
+ {
+   "categoria": "Sabonetes",
+   "nome": "Sabonete Pedras Pomes",
+   "preco": 2.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_553a642c73504bce85599bcd4a4a2375~mv2.jpg"
+ },
+ {
+   "categoria": "Sabonetes",
+   "nome": "Sabonete Carvão",
+   "preco": 6,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_5fd57d04a7024b0587345ea076df15a7~mv2.jpg"
+ },
+ {
+   "categoria": "Sabonetes",
+   "nome": "Sabonete Mel",
+   "preco": 6,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_529df0cfd2a14e81a78c55c3b47f3773~mv2.jpg"
+ },
+ {
+   "categoria": "Sabonetes",
+   "nome": "Sabonete Campestre",
+   "preco": 6,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_eb73b9e366bc40ef835def29a02a09a5~mv2.jpg"
+ },
+ {
+   "categoria": "Sabonetes",
+   "nome": "Sabonete Índia",
+   "preco": 6,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_8a76985072f6492a9aae2f146e02fe50~mv2.jpg"
+ },
+ {
+   "categoria": "Sabonetes",
+   "nome": "Sabonete Barba",
+   "preco": 6,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_27c040d8b18b4b06bf638dcacfcf282f~mv2.jpg"
+ },
+ {
+   "categoria": "Sabonetes",
+   "nome": "Sabonete Norte",
+   "preco": 10,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_1dd0f7a6a33c42e8b1e934283eaf0b32~mv2.jpg"
+ },
+ {
+   "categoria": "Sabonetes",
+   "nome": "Sabonete Portugal ",
+   "preco": 10,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_b329dd8a6f3c41c2b2f65251b4306a6d~mv2.jpg"
+ },
+ {
+   "categoria": "Sabonetes",
+   "nome": "Sais Banho",
+   "preco": 3.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_3d7aefc832854839b28d5002a8ebf37f~mv2.avif"
+ },
+ {
+   "categoria": "Sabonetes",
+   "nome": "Sabonete Sal",
+   "preco": 4.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_17f4abe7dffd4b11878f85ef842e7048~mv2.avif"
+ },
+ {
+   "categoria": "Sabonetes",
+   "nome": "Sabonete Artesanal",
+   "preco": 3.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_86f5995a0188404299ac2ae92879d1f1~mv2.avif"
+ },
+ {
+   "categoria": "Sal",
+   "nome": "Sal Marinho Atlântico ",
+   "preco": 0.85,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_34f3b99d7c744eea9835aeff916df1c4~mv2.jpg"
+ },
+ {
+   "categoria": "Sal",
+   "nome": "Flor de Sal - Copo",
+   "preco": 5.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_d271cf63d4f842e1a51f0c85f97482e9~mv2.avif"
+ },
+ {
+   "categoria": "Sal",
+   "nome": "Flor Sal - Frasco",
+   "preco": 3.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_4e637dc006df4b0e95ba2887ba70f76a~mv2.avif"
+ },
+ {
+   "categoria": "Sal",
+   "nome": "Salicórnia",
+   "preco": 6.5,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_143f5bce90844b26a08dae08568a0183~mv2.avif"
+ },
+ {
+   "categoria": "Sal",
+   "nome": "Flor Sal / 5 Pimentas",
+   "preco": 3.95,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_8976da52b3e34d2489354556c811b253~mv2.avif"
+ },
+ {
+   "categoria": "Sal",
+   "nome": "Flor Sal / Ervas Aromáticas",
+   "preco": 3.95,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_68a1a8ee29cb4e9db0d3e1d5e1cfe647~mv2.avif"
+ },
+ {
+   "categoria": "Sal",
+   "nome": "Flor Sal / Marrakech",
+   "preco": 3.95,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_dd228672c45f4df8a99451cee2328273~mv2.avif"
+ },
+ {
+   "categoria": "Sal",
+   "nome": "Flor Sal / Meditarrânica",
+   "preco": 3.95,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_05db9bcd2f5043269cd5d69f5c05f940~mv2.avif"
+ },
+ {
+   "categoria": "Sal",
+   "nome": "Sal Rosa Himalaias Fino",
+   "preco": 1.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_abd2c7d41ff44c1f9929f89e569d3ae3~mv2.png"
+ },
+ {
+   "categoria": "Sal",
+   "nome": "Sal e Oregãos",
+   "preco": 4.7,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_de06c5db2543431894e5b8d3dca47f0d~mv2.jpg"
+ },
+ {
+   "categoria": "Sal",
+   "nome": "Sal e Tomilho",
+   "preco": 4.7,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_2b66aaf0ed53417f8a0ff6b27beea2be~mv2.jpg"
+ },
+ {
+   "categoria": "Sal ",
+   "nome": "Sal e Alecrim",
+   "preco": 4.7,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_fa0cbf71aee845b0879b7fddcd225a1d~mv2.jpg"
+ },
+ {
+   "categoria": "Sementes",
+   "nome": "Trigo Sarraceno ",
+   "preco": 8,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_515f5e1c25f046fc82c21134d84d6436~mv2.jpg"
+ },
+ {
+   "categoria": "Sementes",
+   "nome": "Sementes Cânhamo ",
+   "preco": 32,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_5c65904905e34f3e994e53a1dd79da2b~mv2.jpg"
+ },
+ {
+   "categoria": "Sementes",
+   "nome": "Sementes Girassol ",
+   "preco": 6,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_1a7230c964f844079707f34836d5fc21~mv2.jpg"
+ },
+ {
+   "categoria": "Sementes",
+   "nome": "Sementes Linhaça Castanha ",
+   "preco": 6,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_64f17b44ff0f4c06b1742f69f08630f6~mv2.jpg"
+ },
+ {
+   "categoria": "Sementes",
+   "nome": "Sementes Sésamo ",
+   "preco": 10,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_bdea8e90afb84ee2877d4fffbf1b83b4~mv2.jpg"
+ },
+ {
+   "categoria": "Sementes",
+   "nome": "Sementes Chia ",
+   "preco": 14,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_90f09cfc5a2743aebc52588661023487~mv2.jpg"
+ },
+ {
+   "categoria": "Sementes",
+   "nome": "Sementes Abóbora ",
+   "preco": 11,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_04659e4816f84252be1d259dd73e2896~mv2.jpg"
+ },
+ {
+   "categoria": "Sementes",
+   "nome": "Sementes Linhaça Dourada",
+   "preco": 6,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_78ad9a075e374ac9bf3e9358e6269520~mv2.jpg"
+ },
+ {
+   "categoria": "Sementes",
+   "nome": "Sementes Papoila",
+   "preco": 14.4,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_01393dc91beb47479e24dac4326c49b6~mv2.jpg"
+ },
+ {
+   "categoria": "Sementes",
+   "nome": "Sementes Sésamo Negro",
+   "preco": 11,
+   "tipo": "gramas",
+   "imagem": "https://static.wixstatic.com/media/16f718_b0be069a3851417a81f4b58d284a5a6a~mv2.jpg"
+ },
+ {
+   "categoria": "SuperAlimentos",
+   "nome": "Alga Nori",
+   "preco": 2.6,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_6883d8786b9643198ffb87563694d1c5~mv2.jpg"
+ },
+ {
+   "categoria": "SuperAlimentos",
+   "nome": "Levedura Nutricional",
+   "preco": 6.2,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_d42c8ce39e9b4b38a2e580c5729a7a2b~mv2.jpg"
+ },
+ {
+   "categoria": "SuperAlimentos",
+   "nome": "Psyllium",
+   "preco": 4.9,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_b3e6d93b979748f7b3fd911d6a614ef3~mv2.jpg"
+ },
+ {
+   "categoria": "SuperAlimentos",
+   "nome": "Mix Algas ",
+   "preco": 3.2,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_8bc50b68235f460982e343e68847c3d1~mv2.jpg"
+ },
+ {
+   "categoria": "SuperAlimentos",
+   "nome": "Alga Kombu ",
+   "preco": 2.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_bd5e0762a2b24d16b84f3139590ffb2e~mv2.jpg"
+ },
+ {
+   "categoria": "Vinagre",
+   "nome": "Vinagre c/ Baunilha e Canela",
+   "preco": 9.6,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_d150fbaaa4274dac9c756ef94b41203a~mv2.jpg"
+ },
+ {
+   "categoria": "Vinagre",
+   "nome": "Vinagre Maçã ",
+   "preco": 1.2,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_4aded5d766b745a6b6df36b0f283fd7e~mv2.jpg"
+ },
+ {
+   "categoria": "Vinagre",
+   "nome": "Vinagre Balsâmico ",
+   "preco": 2.4,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_9c2e15c669ca4d38b8f0cf4299314812~mv2.jpg"
+ }
+]
