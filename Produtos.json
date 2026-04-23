@@ -252,35 +252,35 @@
    "imagem": "https://static.wixstatic.com/media/16f718_bf52025fd17c44ed818b3d15fb6dd771~mv2.jpg"
  },
  {
-   "categoria": "Bolachas ",
+   "categoria": "Bolachas",
    "nome": "Biscoitos Canela",
    "preco": 4.8,
    "tipo": "unidade",
    "imagem": "https://static.wixstatic.com/media/16f718_d68273b054324435bab33c74a0dce1ae~mv2.jpg"
  },
  {
-   "categoria": "Bolachas ",
+   "categoria": "Bolachas",
    "nome": "Capinhas Doces",
    "preco": 3.5,
    "tipo": "unidade",
    "imagem": "https://static.wixstatic.com/media/16f718_c145c9088cff4368b3ae37441b152f33~mv2.jpg"
  },
  {
-   "categoria": "Bolachas ",
+   "categoria": "Bolachas",
    "nome": "Capinhas Doces Canela",
    "preco": 3.5,
    "tipo": "unidade",
    "imagem": "https://static.wixstatic.com/media/16f718_c1a1a47aadef467db7bfe1afefd7a17f~mv2.jpg"
  },
  {
-   "categoria": "Bolachas ",
+   "categoria": "Bolachas",
    "nome": "Bolacha Sete Folhas",
    "preco": 3.5,
    "tipo": "unidade",
    "imagem": "https://static.wixstatic.com/media/16f718_a0b35f1307d949f89acdb4f7d2b199d4~mv2.jpg"
  },
  {
-   "categoria": "Bolachas ",
+   "categoria": "Bolachas",
    "nome": "Capinhas Chocolate",
    "preco": 4,
    "tipo": "unidade",
@@ -378,28 +378,28 @@
    "imagem": "https://static.wixstatic.com/media/16f718_2fe036647a3a47cfb733ddc1ca85c13d~mv2.jpg"
  },
  {
-   "categoria": "Cereais  ",
+   "categoria": "Cereais",
    "nome": "Amaranto ",
    "preco": 7.5,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_17494216c2b54ca59119caf084cd9c7f~mv2.jpg"
  },
  {
-   "categoria": "Cereais  ",
+   "categoria": "Cereais",
    "nome": "Bulgur ",
    "preco": 6,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_98d3c5d20e7b453c9ce4578c6ce7e651~mv2.jpg"
  },
  {
-   "categoria": "Cereais  ",
+   "categoria": "Cereais",
    "nome": "Millet  ",
    "preco": 7,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_6c1d81f228b84ebbbac3d200bbddd01c~mv2.jpg"
  },
  {
-   "categoria": "Cereais  ",
+   "categoria": "Cereais",
    "nome": "Quinoa Branca",
    "preco": 9,
    "tipo": "gramas",
@@ -546,70 +546,70 @@
    "imagem": "https://static.wixstatic.com/media/16f718_c8efa27c1bd24aa697a5c45c1b7d5da0~mv2.jpg"
  },
  {
-   "categoria": "Chás ",
+   "categoria": "Chás",
    "nome": "Preto Assam",
    "preco": 60,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_41d4cd055b044155ae1f0b67076949ab~mv2.jpg"
  },
  {
-   "categoria": "Chás ",
+   "categoria": "Chás",
    "nome": "Preto Himalaya",
    "preco": 55,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_96596f1ea3e84441ae51ee83a79b3731~mv2.jpg"
  },
  {
-   "categoria": "Chás ",
+   "categoria": "Chás",
    "nome": "Camomila",
    "preco": 44,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_0d4996b86aae4a74b4d386fcd2f37d4d~mv2.jpg"
  },
  {
-   "categoria": "Chás ",
+   "categoria": "Chás",
    "nome": "Cavalinha",
    "preco": 19,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_3e2c18e5aa2143a1876997a59a83f3c1~mv2.jpg"
  },
  {
-   "categoria": "Chás ",
+   "categoria": "Chás",
    "nome": "Tília",
    "preco": 61,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_7c6712fd2835446dabacbf6fe9dddcc2~mv2.jpg"
  },
  {
-   "categoria": "Chás ",
+   "categoria": "Chás",
    "nome": "Carqueja",
    "preco": 25,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_5888cf27ac71469f998cc858f4a58674~mv2.jpg"
  },
  {
-   "categoria": "Chás ",
+   "categoria": "Chás",
    "nome": "Vento do Sul",
    "preco": 4.9,
    "tipo": "unidade",
    "imagem": "https://static.wixstatic.com/media/16f718_b4103629fa3848eb9a69983a53268191~mv2.jpg"
  },
  {
-   "categoria": "Chás ",
+   "categoria": "Chás",
    "nome": "Sombra do Sobreiro",
    "preco": 4.9,
    "tipo": "unidade",
    "imagem": "https://static.wixstatic.com/media/16f718_66eaf3ac11dc42d193cfbe67f29a25ef~mv2.jpg"
  },
  {
-   "categoria": "Chás ",
+   "categoria": "Chás",
    "nome": "Hibisco",
    "preco": 22,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_b5213540dec94ddf930c5db06966c689~mv2.jpg"
  },
  {
-   "categoria": "Chás ",
+   "categoria": "Chás",
    "nome": "Limão e Gengibre",
    "preco": 75,
    "tipo": "gramas",
@@ -1085,91 +1085,91 @@
    "imagem": "https://static.wixstatic.com/media/16f718_0031245b5fb0496eb1668123158db44a~mv2.jpg"
  },
  {
-   "categoria": "Especiarias ",
+   "categoria": "Especiarias",
    "nome": "Chimichurri",
    "preco": 26,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_1fe74e01d9bc452f8627636ceb3ccfca~mv2.jpg"
  },
  {
-   "categoria": "Especiarias ",
+   "categoria": "Especiarias",
    "nome": "Cravinho ",
    "preco": 54,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_19df3e20fc9d474ebe5c538d8858f547~mv2.jpg"
  },
  {
-   "categoria": "Especiarias  ",
+   "categoria": "Especiarias",
    "nome": "Caril Índia",
    "preco": 25,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_862ff16ece964bcb85303012db3a0e61~mv2.jpg"
  },
  {
-   "categoria": "Especiarias  ",
+   "categoria": "Especiarias",
    "nome": "Curcuma ",
    "preco": 20,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_d8d6ce725b364286a66e0af4eac0a47e~mv2.jpg"
  },
  {
-   "categoria": "Especiarias  ",
+   "categoria": "Especiarias",
    "nome": "Pimentão Doce ",
    "preco": 15.4,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_f98c5310744346c0b91d5f5777b20b1a~mv2.jpg"
  },
  {
-   "categoria": "Especiarias  ",
+   "categoria": "Especiarias",
    "nome": "Pimenta Preta Pó ",
    "preco": 26,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_97e07f3c92a9454289312f3f352b9930~mv2.jpg"
  },
  {
-   "categoria": "Especiarias  ",
+   "categoria": "Especiarias",
    "nome": "Pimenta Caiena ",
    "preco": 61.8,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_a931eb4c9b81492a9a4f13b3ac904ac6~mv2.jpg"
  },
  {
-   "categoria": "Especiarias  ",
+   "categoria": "Especiarias",
    "nome": "Gengibre Raiz ",
    "preco": 46.8,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_1616105af26043098e6e084a742ab106~mv2.jpg"
  },
  {
-   "categoria": "Especiarias  ",
+   "categoria": "Especiarias",
    "nome": "Canela Ceilão Pó ",
    "preco": 34,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_ea9b9268c2084c0ab1386ff86673ef5e~mv2.jpg"
  },
  {
-   "categoria": "Especiarias  ",
+   "categoria": "Especiarias",
    "nome": "Canela Ceilão Pau  ",
    "preco": 70,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_8fe68f8e71694cbdbbcdb3fb46339dae~mv2.jpg"
  },
  {
-   "categoria": "Especiarias  ",
+   "categoria": "Especiarias",
    "nome": "Cominhos",
    "preco": 24,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_6ba72e6efa51400d9398a97c5bf17482~mv2.jpg"
  },
  {
-   "categoria": "Especiarias  ",
+   "categoria": "Especiarias",
    "nome": "Noz Moscada Pó ",
    "preco": 120,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_e2dc13bdfd814d7caddaec3880ee0175~mv2.jpg"
  },
  {
-   "categoria": "Especiarias  ",
+   "categoria": "Especiarias",
    "nome": "Pimenta Branca Grão ",
    "preco": 76,
    "tipo": "gramas",
@@ -1302,49 +1302,49 @@
    "imagem": "https://static.wixstatic.com/media/16f718_77f3090437d2474f8e093d9b1f65af1f~mv2.jpg"
  },
  {
-   "categoria": "Frutos Secos ",
+   "categoria": "Frutos Secos",
    "nome": "Amendoim Torrado",
    "preco": 13,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_f4a3d782dff74f56afd6d8eca0070a1b~mv2.jpg"
  },
  {
-   "categoria": "Frutos Secos ",
+   "categoria": "Frutos Secos",
    "nome": "Amêndoa c/ Pele",
    "preco": 20,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_0939b6f921dd4df687f675f3abe6fb54~mv2.jpg"
  },
  {
-   "categoria": "Frutos Secos ",
+   "categoria": "Frutos Secos",
    "nome": "Avelã Torrada",
    "preco": 35,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_98a6d47c2e0d4b96a46cfd2654173f2e~mv2.jpg"
  },
  {
-   "categoria": "Frutos Secos ",
+   "categoria": "Frutos Secos",
    "nome": "Caju Torrado",
    "preco": 33,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_6f7a4525f3b149b98f143120bd43f7c2~mv2.jpg"
  },
  {
-   "categoria": "Frutos Secos  ",
+   "categoria": "Frutos Secos",
    "nome": "Caju Natural",
    "preco": 24,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_f712f00891e546f78a1c7619067efd1e~mv2.jpg"
  },
  {
-   "categoria": "Frutos Secos  ",
+   "categoria": "Frutos Secos",
    "nome": "Miolo Noz",
    "preco": 24,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_7a29dc143ab94a38b778b7f3fae8a19e~mv2.jpg"
  },
  {
-   "categoria": "Frutos Secos  ",
+   "categoria": "Frutos Secos",
    "nome": "Castanha Maranhão",
    "preco": 41,
    "tipo": "gramas",
@@ -1820,7 +1820,7 @@
    "imagem": "https://static.wixstatic.com/media/16f718_2b66aaf0ed53417f8a0ff6b27beea2be~mv2.jpg"
  },
  {
-   "categoria": "Sal ",
+   "categoria": "Sal",
    "nome": "Sal e Alecrim",
    "preco": 4.7,
    "tipo": "unidade",
