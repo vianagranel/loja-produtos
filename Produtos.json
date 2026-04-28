@@ -267,13 +267,6 @@
  },
  {
    "categoria": "Bolachas",
-   "nome": "Capinhas Doces Canela",
-   "preco": 3.5,
-   "tipo": "unidade",
-   "imagem": "https://static.wixstatic.com/media/16f718_c1a1a47aadef467db7bfe1afefd7a17f~mv2.jpg"
- },
- {
-   "categoria": "Bolachas",
    "nome": "Bolacha Sete Folhas",
    "preco": 3.5,
    "tipo": "unidade",
@@ -779,7 +772,7 @@
  {
    "categoria": "Desidratados",
    "nome": "Tâmaras Medjool",
-   "preco": 22,
+   "preco": 26,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_e203e3c46d674f11837a34f3df066007~mv2.jpg"
  },
@@ -855,56 +848,56 @@
  },
  {
    "categoria": "Ervas Aromáticas",
-   "nome": "Alecrim ",
+   "nome": "Alecrim",
    "preco": 17,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_c7ba8a10eeb2423db4648b09509ef72c~mv2.jpg"
  },
  {
    "categoria": "Ervas Aromáticas",
-   "nome": "Cebolinho ",
+   "nome": "Cebolinho",
    "preco": 59,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_fca6f6e4fb454156a1ff73db404f6704~mv2.jpg"
  },
  {
    "categoria": "Ervas Aromáticas",
-   "nome": "Hortelã-Pimenta ",
+   "nome": "Hortelã-Pimenta",
    "preco": 44,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_278505836d7d490aac917105aa7dcdb2~mv2.jpg"
  },
  {
    "categoria": "Ervas Aromáticas",
-   "nome": "Louro ",
+   "nome": "Louro",
    "preco": 62,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_b8b49dc6b7f44c57a1466f5c20161dbe~mv2.jpg"
  },
  {
    "categoria": "Ervas Aromáticas",
-   "nome": "Manjericão ",
+   "nome": "Manjericão",
    "preco": 36,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_4f8f747f03c549a0a0e5a456221d04ec~mv2.jpg"
  },
  {
    "categoria": "Ervas Aromáticas",
-   "nome": "Salsa ",
+   "nome": "Salsa",
    "preco": 48,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_ffd811e74d964a9a94ac5dce275d3d44~mv2.jpg"
  },
  {
    "categoria": "Ervas Aromáticas",
-   "nome": "Tomilho Vulgar ",
+   "nome": "Tomilho Vulgar",
    "preco": 41,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_b610304804594b8aae97c07105d720b3~mv2.jpg"
  },
  {
    "categoria": "Ervas Aromáticas",
-   "nome": "Oregãos ",
+   "nome": "Oregãos",
    "preco": 18,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_e11d2b04003a44e38b49bb4fdf5b11bb~mv2.jpg"
@@ -950,13 +943,6 @@
    "preco": 23,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_7a2a30f27d614ac197c18ea9e72c9288~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Anis Estrelado",
-   "preco": 3.95,
-   "tipo": "unidade",
-   "imagem": "https://static.wixstatic.com/media/16f718_7429c0f635014d308b59b66dc88c7c68~mv2.jpg"
  },
  {
    "categoria": "Especiarias",
@@ -1065,7 +1051,7 @@
  },
  {
    "categoria": "Especiarias",
-   "nome": "Piri Piri ",
+   "nome": "Piri Piri",
    "preco": 20,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_72c20dbff55c4bf8af5b2fb63e95d2cc~mv2.jpg"
@@ -1093,7 +1079,7 @@
  },
  {
    "categoria": "Especiarias",
-   "nome": "Cravinho ",
+   "nome": "Cravinho",
    "preco": 54,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_19df3e20fc9d474ebe5c538d8858f547~mv2.jpg"
@@ -1107,49 +1093,49 @@
  },
  {
    "categoria": "Especiarias",
-   "nome": "Curcuma ",
+   "nome": "Curcuma",
    "preco": 20,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_d8d6ce725b364286a66e0af4eac0a47e~mv2.jpg"
  },
  {
    "categoria": "Especiarias",
-   "nome": "Pimentão Doce ",
+   "nome": "Pimentão Doce",
    "preco": 15.4,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_f98c5310744346c0b91d5f5777b20b1a~mv2.jpg"
  },
  {
    "categoria": "Especiarias",
-   "nome": "Pimenta Preta Pó ",
+   "nome": "Pimenta Preta Pó",
    "preco": 26,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_97e07f3c92a9454289312f3f352b9930~mv2.jpg"
  },
  {
    "categoria": "Especiarias",
-   "nome": "Pimenta Caiena ",
+   "nome": "Pimenta Caiena",
    "preco": 61.8,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_a931eb4c9b81492a9a4f13b3ac904ac6~mv2.jpg"
  },
  {
    "categoria": "Especiarias",
-   "nome": "Gengibre Raiz ",
+   "nome": "Gengibre Raiz",
    "preco": 46.8,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_1616105af26043098e6e084a742ab106~mv2.jpg"
  },
  {
    "categoria": "Especiarias",
-   "nome": "Canela Ceilão Pó ",
+   "nome": "Canela Ceilão Pó",
    "preco": 34,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_ea9b9268c2084c0ab1386ff86673ef5e~mv2.jpg"
  },
  {
    "categoria": "Especiarias",
-   "nome": "Canela Ceilão Pau  ",
+   "nome": "Canela Ceilão Pau",
    "preco": 70,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_8fe68f8e71694cbdbbcdb3fb46339dae~mv2.jpg"
@@ -1163,14 +1149,14 @@
  },
  {
    "categoria": "Especiarias",
-   "nome": "Noz Moscada Pó ",
+   "nome": "Noz Moscada Pó",
    "preco": 120,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_e2dc13bdfd814d7caddaec3880ee0175~mv2.jpg"
  },
  {
    "categoria": "Especiarias",
-   "nome": "Pimenta Branca Grão ",
+   "nome": "Pimenta Branca Grão",
    "preco": 76,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_0138feaeed6548a585611992ea9947e2~mv2.jpg"
@@ -1240,31 +1226,10 @@
  },
  {
    "categoria": "Frescos",
-   "nome": "Curado Boletos",
-   "preco": 9.9,
-   "tipo": "unidade",
-   "imagem": "https://static.wixstatic.com/media/16f718_4c07c0e4a58c407194ade26f7e9c66e5~mv2.webp"
- },
- {
-   "categoria": "Frescos",
-   "nome": "Tofu Oriental",
-   "preco": 2.65,
-   "tipo": "unidade",
-   "imagem": "https://static.wixstatic.com/media/16f718_09e7491ba54749a3af57451580d739e6~mv2.jpg"
- },
- {
-   "categoria": "Frescos",
    "nome": "Tofu Bio",
    "preco": 2.5,
    "tipo": "unidade",
    "imagem": "https://static.wixstatic.com/media/16f718_b3daacbf91574037961a08bd8ca28cea~mv2.jpg"
- },
- {
-   "categoria": "Frescos",
-   "nome": "Tofu Multi-Algas",
-   "preco": 2.75,
-   "tipo": "unidade",
-   "imagem": "https://static.wixstatic.com/media/16f718_c2aaacaf58f84b91b5caf8b71e1a2297~mv2.jpg"
  },
  {
    "categoria": "Frescos",
@@ -1359,21 +1324,21 @@
  },
  {
    "categoria": "Leguminosas",
-   "nome": "Feijão Azuki ",
+   "nome": "Feijão Azuki",
    "preco": 8.5,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_68ea1c22c25643629ea1e01f7b71ee9f~mv2.jpg"
  },
  {
    "categoria": "Leguminosas",
-   "nome": "Feijão Vermelho ",
+   "nome": "Feijão Vermelho",
    "preco": 5,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_d8bc2fc8fcea4c7f9ad401663ecb3b97~mv2.jpg"
  },
  {
    "categoria": "Leguminosas",
-   "nome": "Feijão Branco ",
+   "nome": "Feijão Branco",
    "preco": 6,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_fc3582ec08f24271ac6f26abbcf13809~mv2.jpg"
@@ -1394,14 +1359,14 @@
  },
  {
    "categoria": "Leguminosas",
-   "nome": "Lentilha Coral ",
+   "nome": "Lentilha Coral",
    "preco": 6,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_d3d2287b98f24ddaa7623749465be764~mv2.jpg"
  },
  {
    "categoria": "Leguminosas",
-   "nome": "Lentilha Verde ",
+   "nome": "Lentilha Verde",
    "preco": 5,
    "tipo": "gramas",
    "imagem": "https://static.wixstatic.com/media/16f718_90728637586945bb8e60f9671838f5e7~mv2.jpg"
@@ -1940,14 +1905,14 @@
  },
  {
    "categoria": "Vinagre",
-   "nome": "Vinagre Maçã ",
+   "nome": "Vinagre Maçã",
    "preco": 1.2,
    "tipo": "unidade",
    "imagem": "https://static.wixstatic.com/media/16f718_4aded5d766b745a6b6df36b0f283fd7e~mv2.jpg"
  },
  {
    "categoria": "Vinagre",
-   "nome": "Vinagre Balsâmico ",
+   "nome": "Vinagre Balsâmico",
    "preco": 2.4,
    "tipo": "unidade",
    "imagem": "https://static.wixstatic.com/media/16f718_9c2e15c669ca4d38b8f0cf4299314812~mv2.jpg"
