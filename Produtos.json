@@ -22,13 +22,6 @@
  },
  {
    "categoria": "Açúcar",
-   "nome": "Geleia Agave",
-   "preco": 3.25,
-   "tipo": "unidade",
-   "imagem": "https://static.wixstatic.com/media/16f718_7d051b9002b343cf9157741a148d6a54~mv2.jpg"
- },
- {
-   "categoria": "Açúcar",
    "nome": "Açúcar Integral  ",
    "preco": 9,
    "tipo": "gramas",
@@ -1195,13 +1188,6 @@
    "preco": 2.4,
    "tipo": "unidade",
    "imagem": "https://static.wixstatic.com/media/16f718_60cb7adfa7be45abb3fdd42d48f40ea0~mv2.jpg"
- },
- {
-   "categoria": "Farinhas",
-   "nome": "Farinha Beterraba",
-   "preco": 4.9,
-   "tipo": "unidade",
-   "imagem": "https://static.wixstatic.com/media/16f718_99bc57c2615d4868a80d475dbe76a004~mv2.jpg"
  },
  {
    "categoria": "Farinhas",
