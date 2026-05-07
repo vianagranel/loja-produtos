@@ -686,6 +686,13 @@
    "imagem": "https://static.wixstatic.com/media/16f718_e3988370d3164d9984ebf969611d5869~mv2.webp"
  },
  {
+   "categoria": "Compotas",
+   "nome": "Marmelada",
+   "preco": 4.4,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_ce5405f40123483dbdde87b7e4c6d040~mv2.webp"
+ },
+ {
    "categoria": "Desidratados",
    "nome": "Coco Ralado",
    "preco": 9,
@@ -1673,6 +1680,20 @@
    "imagem": "https://static.wixstatic.com/media/16f718_f0423883aeac46c5ad9d9db9783643c7~mv2.jpg"
  },
  {
+   "categoria": "Refeições",
+   "nome": "Tremoços",
+   "preco": 3.25,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_374cec7af3d147ee82b9b25e24237d70~mv2.jpg"
+ },
+  {
+   "categoria": "Refeições",
+   "nome": "Azeitona Verde",
+   "preco": 2.8,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_615941983eb6493786d9eaa7d5fbc060~mv2.jpg"
+ },
+ {
    "categoria": "Sabonetes",
    "nome": "Sabonete Alcatrão",
    "preco": 2.5,
@@ -1706,13 +1727,6 @@
    "preco": 6,
    "tipo": "unidade",
    "imagem": "https://static.wixstatic.com/media/16f718_eb73b9e366bc40ef835def29a02a09a5~mv2.jpg"
- },
- {
-   "categoria": "Sabonetes",
-   "nome": "Sabonete Índia",
-   "preco": 6,
-   "tipo": "unidade",
-   "imagem": "https://static.wixstatic.com/media/16f718_8a76985072f6492a9aae2f146e02fe50~mv2.jpg"
  },
  {
    "categoria": "Sabonetes",
