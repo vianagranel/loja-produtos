@@ -4,6 +4,7 @@
    "nome": "Açúcar Mascavado",
    "preco": 9.6,
    "tipo": "gramas",
+  "stock": 1, 
    "imagem": "https://static.wixstatic.com/media/16f718_57e9bb2e9c994a7b9cde3527e72b36e6~mv2.jpg"
  },
  {
