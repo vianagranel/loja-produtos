@@ -1035,6 +1035,13 @@
    "tipo": "unidade",
    "imagem": "https://static.wixstatic.com/media/16f718_4176ed36380f409bac48ab11767f0c4e~mv2.jpg"
  },
+  {
+   "categoria": "Especiarias",
+   "nome": "Anis Estrelado",
+   "preco": 3.95,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_7429c0f635014d308b59b66dc88c7c68~mv2.jpg"
+ },
  {
    "categoria": "Especiarias",
    "nome": "Paprika Fumada",
@@ -1210,19 +1217,75 @@
    "tipo": "unidade",
    "imagem": "https://static.wixstatic.com/media/16f718_0320ba70a7254cdb9aa0396ca572cf35~mv2.webp"
  },
+  {
+   "categoria": "Frescos",
+   "nome": "Veden",
+   "preco": 8.95,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_2edc177be9f946089eb3a1ec731a2f89~mv2.webp"
+ },
  {
    "categoria": "Frescos",
-   "nome": "Tofu Bio",
-   "preco": 2.5,
+   "nome": "Curado Boletos",
+   "preco": 9.90,
    "tipo": "unidade",
-   "imagem": "https://static.wixstatic.com/media/16f718_b3daacbf91574037961a08bd8ca28cea~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_4c07c0e4a58c407194ade26f7e9c66e5~mv2.webp"
+ },
+   {
+   "categoria": "Frescos",
+   "nome": "Cremoso Fumado",
+   "preco": 5.50,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_aa92e8c86b734ce59523b2d745471dbe~mv2.jpg"
+ }, 
+    {
+   "categoria": "Frescos",
+   "nome": "Cremoso Alho e Ervas",
+   "preco": 5.50,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_434f2117f8bc4cc2949af677cdd903b0~mv2.jpg"
+ }, 
+     {
+   "categoria": "Frescos",
+   "nome": "Cajuberto",
+   "preco": 8.90,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_c043d4c2d1374674a24b01adb949e7a5~mv2.webp"
+ }, 
+      {
+   "categoria": "Frescos",
+   "nome": "Brito",
+   "preco": 8.90,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_d7d9533fe4c94955a57cccf70cb26245~mv2.webp"
+ }, 
+  {
+   "categoria": "Frescos",
+   "nome": "Tofu Primavera",
+   "preco": 2.70,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_3dc09b19fafe49e3baea4f979471fa87~mv2.jpg"
+ },
+ {
+   "categoria": "Frescos",
+   "nome": "Tofu Natural",
+   "preco": 2.50,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_fbf813c320dd480c879b5bc2639ce643~mv2.jpg"
+ },
+ {
+   "categoria": "Frescos",
+   "nome": "Tofu Marinho",
+   "preco": 2.6,
+   "tipo": "unidade",
+   "imagem": "https://static.wixstatic.com/media/16f718_82eecf73f8fc49ca8299293b8a5871dc~mv2.jpg"
  },
  {
    "categoria": "Frescos",
    "nome": "Seitan",
    "preco": 3,
    "tipo": "unidade",
-   "imagem": "https://static.wixstatic.com/media/16f718_c5d19a620c8042e69a3e2bddb89c830f~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_e01fb486a0cf4920bcebf5467b3ac688~mv2.jpg"
  },
  {
    "categoria": "Frescos",
