@@ -1933,13 +1933,6 @@
  },
  {
    "categoria": "SuperAlimentos",
-   "nome": "Mix Algas ",
-   "preco": 3.2,
-   "tipo": "unidade",
-   "imagem": "https://static.wixstatic.com/media/16f718_8bc50b68235f460982e343e68847c3d1~mv2.jpg"
- },
- {
-   "categoria": "SuperAlimentos",
    "nome": "Alga Kombu ",
    "preco": 2.8,
    "tipo": "unidade",
