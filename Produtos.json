@@ -228,7 +228,7 @@
    "nome": "Paciências",
    "preco": 2.9,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_2bc4c88f11a948359f07cece5a911819~mv2.webp"
  },
  {
@@ -442,7 +442,7 @@
  {
    "categoria": "Cereais",
    "nome": "Quinoa Branca",
-   "preco": 9,
+   "preco": 14,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_787bd1037b5b4765a4f611d8a4e23676~mv2.jpg"
@@ -1450,7 +1450,7 @@
   {
    "categoria": "Frescos",
    "nome": "Tofu Primavera",
-   "preco": 2.70,
+   "preco": 2.75,
    "tipo": "unidade",
    "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_3dc09b19fafe49e3baea4f979471fa87~mv2.jpg"
@@ -1466,7 +1466,7 @@
  {
    "categoria": "Frescos",
    "nome": "Tofu Marinho",
-   "preco": 2.6,
+   "preco": 2.65,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_82eecf73f8fc49ca8299293b8a5871dc~mv2.jpg"
