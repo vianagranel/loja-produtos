@@ -476,7 +476,7 @@
    "nome": "Granola 3 Cereais",
    "preco": 17,
    "tipo": "gramas",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_93acf1176b794525a14143dd556a3128~mv2.jpg"
  },
  {
@@ -686,6 +686,14 @@
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_8f1276f664e34502b7ba6862949079a3~mv2.jpg"
+ },
+  {
+   "categoria": "Chás",
+   "nome": "Tisana Calmante",
+   "preco": 55,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "​https://static.wixstatic.com/media/16f718_6818cab147734f4fb98a24f689485324~mv2.jpg"
  },
  {
    "categoria": "Chocolates",
@@ -1444,7 +1452,7 @@
    "nome": "Brito",
    "preco": 8.90,
    "tipo": "unidade",
-       "stock": 1,
+       "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_d7d9533fe4c94955a57cccf70cb26245~mv2.webp"
  }, 
   {
@@ -1492,7 +1500,7 @@
    "nome": "Alheira s/ Glúten",
    "preco": 3.9,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_624687476a234994a64b55f084d0cff2~mv2.jpg"
  },
  {
@@ -2226,7 +2234,7 @@
  {
    "categoria": "Sementes",
    "nome": "Sementes Girassol ",
-   "preco": 6,
+   "preco": 8,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_1a7230c964f844079707f34836d5fc21~mv2.jpg"
