@@ -1401,6 +1401,22 @@
  },
  {
    "categoria": "Farinhas",
+   "nome": "Farinha Amêndoa",
+   "preco": 3.6,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_4d216f500bfa43ecaad9a2d15304f42e~mv2.jpg"
+ },
+ {
+   "categoria": "Farinhas",
+   "nome": "Farinha Beterraba",
+   "preco": 4.9,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_99bc57c2615d4868a80d475dbe76a004~mv2.jpg"
+ },
+ {
+   "categoria": "Farinhas",
    "nome": "Goma Xantana",
    "preco": 4.8,
    "tipo": "unidade",
