@@ -476,7 +476,7 @@
    "nome": "Granola 3 Cereais",
    "preco": 17,
    "tipo": "gramas",
-  "stock": 0,
+  "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_93acf1176b794525a14143dd556a3128~mv2.jpg"
  },
  {
@@ -892,7 +892,7 @@
    "nome": "Tâmaras Medjool",
    "preco": 26,
    "tipo": "gramas",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_e203e3c46d674f11837a34f3df066007~mv2.jpg"
  },
  {
@@ -1090,7 +1090,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Bicarbonato de Sódio",
-   "preco": 3,
+   "preco": 3.8,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_ba73f60b592c4e049036278685ab46ed~mv2.jpg"
@@ -1444,7 +1444,7 @@
    "nome": "Cajuberto",
    "preco": 8.90,
    "tipo": "unidade",
-      "stock": 1,
+      "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_c043d4c2d1374674a24b01adb949e7a5~mv2.webp"
  }, 
       {
@@ -1964,7 +1964,7 @@
    "nome": "Sabonete Carvão",
    "preco": 6,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_5fd57d04a7024b0587345ea076df15a7~mv2.jpg"
  },
  {
@@ -2044,7 +2044,7 @@
    "nome": "Sabonete Verbena",
    "preco": 4.5,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_52cea86349bd42bebe46786bbfd31cf2~mv2.avif"
  },
  {
