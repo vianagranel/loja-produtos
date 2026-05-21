@@ -1389,7 +1389,15 @@
    "preco": 2.3,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_ad084f274c5340debe7dade540a4c11c~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_453cd24e53924cb880fa2fd6e911066c~mv2.webp"
+ },
+ {
+   "categoria": "Farinhas",
+   "nome": "Farinha Alfarroba",
+   "preco": 1.9,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_207c6e31838647299dd6f8b9ff884d7f~mv2.jpg"
  },
  {
    "categoria": "Farinhas",
