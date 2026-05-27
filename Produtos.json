@@ -916,7 +916,7 @@
    "nome": "Espinafre ",
    "preco": 22.6,
    "tipo": "gramas",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_6048da65d6384777950b29a4cb32c570~mv2.jpg"
  },
  {
@@ -1460,7 +1460,7 @@
    "nome": "Cremoso Alho e Ervas",
    "preco": 5.50,
    "tipo": "unidade",
-     "stock": 1,
+     "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_434f2117f8bc4cc2949af677cdd903b0~mv2.jpg"
  }, 
      {
