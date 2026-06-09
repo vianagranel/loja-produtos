@@ -396,7 +396,7 @@
    "nome": "Café Moído - Príncipe",
    "preco": 7.9,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_a6a684bc1d8e42a99ae3a33f8e628780~mv2.jpg"
  },
  {
@@ -521,11 +521,27 @@
  },
  {
    "categoria": "Cereais Peq Almoço",
-   "nome": "Flocos Aveia ",
+   "nome": "Flocos Aveia",
    "preco": 4,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_cdf1592023594106bb3b8fd3a55b1a69~mv2.jpg"
+ },
+  {
+   "categoria": "Cereais Peq Almoço",
+   "nome": "Flocos Centeio",
+   "preco": 5,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_c3763cbff14e4af2a43f7069cea2541c~mv2.jpg"
+ },
+  {
+   "categoria": "Cereais Peq Almoço",
+   "nome": "Flocos Cevada",
+   "preco": 5,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_7f63af94be714da09acf99fe2d00d791~mv2.jpg"
  },
  {
    "categoria": "Cereais Peq Almoço",
