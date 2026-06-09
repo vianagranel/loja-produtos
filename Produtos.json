@@ -281,6 +281,22 @@
  },
  {
    "categoria": "Bolachas",
+   "nome": "Palitos Alho",
+   "preco": 3,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_f105ae9ddbef47abb0cb2fbcb1e06f19~mv2.jpg"
+ },
+  {
+   "categoria": "Bolachas",
+   "nome": "Palitos Sésamo",
+   "preco": 3,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_04c02657b2804d02b69292765efead2a~mv2.jpg"
+ },
+ {
+   "categoria": "Bolachas",
    "nome": "Biscoitos Canela",
    "preco": 4.8,
    "tipo": "unidade",
@@ -294,6 +310,46 @@
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_c145c9088cff4368b3ae37441b152f33~mv2.jpg"
+ },
+  {
+   "categoria": "Bolachas",
+   "nome": "Capinhas Doces Canela",
+   "preco": 3.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_c1a1a47aadef467db7bfe1afefd7a17f~mv2.jpg"
+ },
+  {
+   "categoria": "Bolachas",
+   "nome": "Capinhas Papoila",
+   "preco": 3.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_aa2c4139d73245a2b0e3b4ba1f794b4a~mv2.jpg"
+ },
+ {
+   "categoria": "Bolachas",
+   "nome": "Ondina Malagueta",
+   "preco": 3.0,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_f3053869a29c454686dee6ed29a1c817~mv2.jpg"
+ },
+  {
+   "categoria": "Bolachas",
+   "nome": "Ondina Mar",
+   "preco": 3.0,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_babb8776205246848b355192c4321a25~mv2.jpg"
+ },
+   {
+   "categoria": "Bolachas",
+   "nome": "Ondina Sésamo",
+   "preco": 3.0,
+   "tipo": "unidade",
+  "stock": 1,
+   "https://static.wixstatic.com/media/16f718_b550182277b14d83be675a2de16477cd~mv2.jpg"
  },
  {
    "categoria": "Bolachas",
@@ -310,6 +366,14 @@
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_b2f029115bd543b4bfad73b771c4730c~mv2.jpg"
+ },
+  {
+   "categoria": "Bolachas",
+   "nome": "Rolo Goiabada",
+   "preco": 11.8,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_ec9f0c1d10d742ce81bd577815a18ac9~mv2.webp"
  },
  {
    "categoria": "Café",
