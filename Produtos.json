@@ -9,7 +9,7 @@
  },
  {
    "categoria": "Açúcar",
-   "nome": "Açúcar Coco ",
+   "nome": "Açúcar Coco",
    "preco": 18,
    "tipo": "gramas",
   "stock": 1,
@@ -25,7 +25,7 @@
  },
  {
    "categoria": "Açúcar",
-   "nome": "Açúcar Integral  ",
+   "nome": "Açúcar Integral",
    "preco": 9,
    "tipo": "gramas",
   "stock": 1,
@@ -41,7 +41,7 @@
  },
  {
    "categoria": "Azeite",
-   "nome": "Azeite Virge Extra Bio ",
+   "nome": "Azeite Virgem Extra Bio",
    "preco": 14.4,
    "tipo": "unidade",
   "stock": 1,
@@ -177,7 +177,7 @@
  },
  {
    "categoria": "Bebidas",
-   "nome": "Licor Maracujá ",
+   "nome": "Licor Maracujá",
    "preco": 4.4,
    "tipo": "unidade",
   "stock": 1,
@@ -349,7 +349,7 @@
    "preco": 3,
    "tipo": "unidade",
   "stock": 1,
-   "https://static.wixstatic.com/media/16f718_b550182277b14d83be675a2de16477cd~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_b550182277b14d83be675a2de16477cd~mv2.jpg"
  },
  {
    "categoria": "Bolachas",
