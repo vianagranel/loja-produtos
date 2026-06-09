@@ -330,7 +330,7 @@
  {
    "categoria": "Bolachas",
    "nome": "Ondina Malagueta",
-   "preco": 3.0,
+   "preco": 3,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_f3053869a29c454686dee6ed29a1c817~mv2.jpg"
@@ -338,7 +338,7 @@
   {
    "categoria": "Bolachas",
    "nome": "Ondina Mar",
-   "preco": 3.0,
+   "preco": 3,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_babb8776205246848b355192c4321a25~mv2.jpg"
@@ -346,7 +346,7 @@
    {
    "categoria": "Bolachas",
    "nome": "Ondina Sésamo",
-   "preco": 3.0,
+   "preco": 3,
    "tipo": "unidade",
   "stock": 1,
    "https://static.wixstatic.com/media/16f718_b550182277b14d83be675a2de16477cd~mv2.jpg"
