@@ -588,7 +588,7 @@
    "nome": "Caramelo Salgado",
    "preco": 5.5,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_0e99bababdfe4ac9b956cd93fa413bdd~mv2.jpeg"
  },
  {
@@ -884,7 +884,7 @@
    "nome": "Coco Ralado",
    "preco": 9,
    "tipo": "gramas",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_0bd55ddcbf504f03a8745639cec35bd5~mv2.jpg"
  },
  {
@@ -1066,7 +1066,7 @@
  {
    "categoria": "Ervas Aromáticas",
    "nome": "Cebolinho",
-   "preco": 59,
+   "preco": 60,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_fca6f6e4fb454156a1ff73db404f6704~mv2.jpg"
@@ -1090,7 +1090,7 @@
  {
    "categoria": "Ervas Aromáticas",
    "nome": "Manjericão",
-   "preco": 36,
+   "preco": 35,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_4f8f747f03c549a0a0e5a456221d04ec~mv2.jpg"
@@ -1170,7 +1170,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Bicarbonato de Sódio",
-   "preco": 3.8,
+   "preco": 4,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_ba73f60b592c4e049036278685ab46ed~mv2.jpg"
@@ -1274,8 +1274,8 @@
  {
    "categoria": "Especiarias",
    "nome": "Noz Moscada Grão",
-   "preco": 1.35,
-   "tipo": "unidade",
+   "preco": 72,
+   "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_4176ed36380f409bac48ab11767f0c4e~mv2.jpg"
  },
@@ -1604,7 +1604,7 @@
    "nome": "Alheira s/ Glúten",
    "preco": 3.9,
    "tipo": "unidade",
-  "stock": 0,
+  "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_624687476a234994a64b55f084d0cff2~mv2.jpg"
  },
  {
@@ -1804,7 +1804,7 @@
    "nome": "Espirais Tricolores ",
    "preco": 10,
    "tipo": "gramas",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_b61c5772566a4c829229c20f5c8bc021~mv2.jpg"
  },
  {
@@ -1828,7 +1828,7 @@
    "nome": "Mel Castanheiro ",
    "preco": 6.9,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_650d6c130b934e388c61453e91c73a4e~mv2.jpg"
  },
  {
@@ -2386,7 +2386,7 @@
  {
    "categoria": "Sementes",
    "nome": "Sementes Papoila",
-   "preco": 14.4,
+   "preco": 15,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_01393dc91beb47479e24dac4326c49b6~mv2.jpg"
