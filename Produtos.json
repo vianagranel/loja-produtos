@@ -634,7 +634,7 @@
  {
    "categoria": "Chás",
    "nome": "Limonete",
-   "preco": 44,
+   "preco": 45,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_4002789e432248668c442e99bfb230dc~mv2.jpg"
@@ -1098,7 +1098,7 @@
  {
    "categoria": "Ervas Aromáticas",
    "nome": "Salsa",
-   "preco": 48,
+   "preco": 40,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_ffd811e74d964a9a94ac5dce275d3d44~mv2.jpg"
@@ -1202,7 +1202,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Alho Granulado",
-   "preco": 18,
+   "preco": 28,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_57c93ec57aa04a0eaca2323369b3df94~mv2.jpg"
@@ -1370,7 +1370,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Pimenta Caiena",
-   "preco": 61.8,
+   "preco": 17,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_a931eb4c9b81492a9a4f13b3ac904ac6~mv2.jpg"
@@ -1410,7 +1410,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Noz Moscada Pó",
-   "preco": 120,
+   "preco": 50,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_e2dc13bdfd814d7caddaec3880ee0175~mv2.jpg"
@@ -1418,7 +1418,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Pimenta Branca Grão",
-   "preco": 76,
+   "preco": 35,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_0138feaeed6548a585611992ea9947e2~mv2.jpg"
@@ -2394,7 +2394,7 @@
  {
    "categoria": "Sementes",
    "nome": "Sementes Sésamo Negro",
-   "preco": 11,
+   "preco": 13,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_b0be069a3851417a81f4b58d284a5a6a~mv2.jpg"
