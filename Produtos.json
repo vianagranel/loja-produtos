@@ -1679,6 +1679,22 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_011bfda11c9d4381b944099d92f93935~mv2.jpg"
  },
+  {
+   "categoria": "Frutos Secos",
+   "nome": "Pistachio Torrado s/ Sal",
+   "preco": 29,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_43cb1c64cd104574a00397d141bf01ea~mv2.jpg"
+ },
+ {
+   "categoria": "Frutos Secos",
+   "nome": "Aperitivo Japonês",
+   "preco": 20,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_0a093fadad9b45eb918663d9d686fe8e~mv2.jpg"
+ },
  {
    "categoria": "Leguminosas",
    "nome": "Lentilha Branca",
@@ -2046,6 +2062,14 @@
    "tipo": "unidade",
    "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_615941983eb6493786d9eaa7d5fbc060~mv2.jpg"
+ },
+ {
+   "categoria": "Refeições",
+   "nome": "Azeitona Preta",
+   "preco": 2.8,
+   "tipo": "unidade",
+   "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_55dee2aa00da4887a5945822c807954c~mv2.jpg"
  },
  {
    "categoria": "Sabonetes",
