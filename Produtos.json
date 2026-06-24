@@ -20,7 +20,7 @@
    "nome": "Mel de Cana",
    "preco": 3.8,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_883652265a9145c68d33829c06108fdc~mv2.jpg"
  },
  {
@@ -372,7 +372,7 @@
    "nome": "Rolo Goiabada",
    "preco": 11.8,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_373c2065e2a640ff8ef8fafac5b6edb3~mv2.jpg"
  },
  {
@@ -404,7 +404,7 @@
    "nome": "Café Moído - Loreto",
    "preco": 7.9,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_7844066047bf44e783f0739698c2fd3a~mv2.jpg"
  },
  {
@@ -612,7 +612,7 @@
    "nome": "Infusão Romã",
    "preco": 5.5,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_fb69286d0ea044ea9f712b69d4c80709~mv2.jpeg"
  },
  {
@@ -621,7 +621,7 @@
    "preco": 2.9,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_dbddf18782b24356908b730afff28de9~mv2.jpeg"
+   "imagem": "https://static.wixstatic.com/media/16f718_c2884f8d2a0445bfbfd8fbb56b16e1f0~mv2.jpg"
  },
  {
    "categoria": "Chás",
@@ -844,7 +844,7 @@
    "nome": "Compota Pêssego",
    "preco": 5,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_babcc544653a44e28c359ba8249a9bf6~mv2.jpg"
  },
  {
@@ -954,7 +954,7 @@
  {
    "categoria": "Desidratados",
    "nome": "Gengibre Cubos",
-   "preco": 19,
+   "preco": 20,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_fd13a74747af444d99fc21ca51d22f0f~mv2.jpg"
@@ -972,7 +972,7 @@
    "nome": "Tâmaras Medjool",
    "preco": 26,
    "tipo": "gramas",
-  "stock": 0,
+  "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_e203e3c46d674f11837a34f3df066007~mv2.jpg"
  },
  {
@@ -1338,7 +1338,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Caril Índia",
-   "preco": 25,
+   "preco": 28,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_862ff16ece964bcb85303012db3a0e61~mv2.jpg"
@@ -1466,7 +1466,7 @@
  {
    "categoria": "Farinhas",
    "nome": "Farinha Grão Bico",
-   "preco": 2.3,
+   "preco": 6.4,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_453cd24e53924cb880fa2fd6e911066c~mv2.webp"
@@ -1532,7 +1532,7 @@
    "nome": "Cremoso Fumado",
    "preco": 5.50,
    "tipo": "unidade",
-    "stock": 1,
+    "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_aa92e8c86b734ce59523b2d745471dbe~mv2.jpg"
  }, 
     {
@@ -1604,7 +1604,7 @@
    "nome": "Alheira s/ Glúten",
    "preco": 3.9,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_624687476a234994a64b55f084d0cff2~mv2.jpg"
  },
  {
@@ -1852,13 +1852,13 @@
    "nome": "Molho de Soja",
    "preco": 3.95,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_688c9503bf96444ab666763852e65bad~mv2.jpg"
  },
  {
    "categoria": "Pão",
    "nome": "Pão Cenoura",
-   "preco": 3.75,
+   "preco": 5.2,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_2f3323da8e554e2d9fb244bd4d964f64~mv2.jpg"
@@ -1868,7 +1868,7 @@
    "nome": "Pão Arroz integral",
    "preco": 3.75,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_5a463df30a064566b35103967cf1792f~mv2.jpg"
  },
  {
@@ -1884,23 +1884,23 @@
    "nome": "Pão Avelã e Trigo Sarraceno",
    "preco": 4,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_ad22be215bf74e918ae58169afda0da3~mv2.jpg"
  },
  {
    "categoria": "Pão",
    "nome": "Pão Tâmara c/ Nozes",
-   "preco": 4.95,
+   "preco": 5.5,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_c2800b269786495294668b6631417663~mv2.jpg"
  },
  {
    "categoria": "Pão",
    "nome": "Pão Alfarroba",
-   "preco": 4.35,
+   "preco": 5.25,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_c4501cb3e52d437ba7607d4cc887ae50~mv2.jpg"
  },
  {
@@ -2404,7 +2404,7 @@
    "nome": "Alga Nori",
    "preco": 2.6,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_6883d8786b9643198ffb87563694d1c5~mv2.jpg"
  },
  {
