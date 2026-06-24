@@ -113,6 +113,38 @@
  },
  {
    "categoria": "Bebidas",
+   "nome": "Pale Lager | Bio",
+   "preco": 3.3,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_f800776a524943af97788187193e5ef7~mv2.png"
+ },
+ {
+   "categoria": "Bebidas",
+   "nome": "Märzen | Rubi",
+   "preco": 2.8,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_18552a97b71c433aab4f5ca24fd547d5~mv2.png"
+ },
+ {
+   "categoria": "Bebidas",
+   "nome": "Schwarzbier | Preta",
+   "preco": 2.8,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_71b16cadd7754461be377b62b93e98f2~mv2.png"
+ },
+ {
+   "categoria": "Bebidas",
+   "nome": "Sidra Frutos Vermelhos",
+   "preco": 3.0,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_8553ec7b37c547cfbc093cb1c15c2738~mv2.png"
+ },
+ {
+   "categoria": "Bebidas",
    "nome": "Vinho Porto",
    "preco": 2.9,
    "tipo": "unidade",
