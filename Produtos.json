@@ -1461,7 +1461,7 @@
    "preco": 2.85,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_0b264849c78547fd9381861ba4b6f9a2~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_b38d1e019300482598f0bc53bd0c1bcf~mv2.webp"
  },
  {
    "categoria": "Farinhas",
@@ -1469,7 +1469,7 @@
    "preco": 1.8,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_4bf6efc625b24694bf8bcbf0bc6e786b~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_d5348ee842554940bb75b84040d46e1e~mv2.jpg"
  },
  {
    "categoria": "Farinhas",
@@ -1477,7 +1477,7 @@
    "preco": 1.7,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_e0c0ee941c5c4151be24d1c5f65c18ad~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_00ae9470b2cc43158f91b2295b47d29d~mv2.jpg"
  },
  {
    "categoria": "Farinhas",
@@ -1493,7 +1493,7 @@
    "preco": 2.4,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_60cb7adfa7be45abb3fdd42d48f40ea0~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_400e08912ce8409397750f3824098fc4~mv2.jpg"
  },
  {
    "categoria": "Farinhas",
@@ -1526,6 +1526,14 @@
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_99bc57c2615d4868a80d475dbe76a004~mv2.jpg"
+ },
+  {
+   "categoria": "Farinhas",
+   "nome": "Farinha Milho",
+   "preco": 3.2,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_eb893c234aa14f45ba4bd2488e3aa466~mv2.jpg"
  },
  {
    "categoria": "Farinhas",
