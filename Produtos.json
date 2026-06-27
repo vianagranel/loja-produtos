@@ -628,7 +628,7 @@
    "nome": "Infusão Pêra",
    "preco": 5.5,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_4bfdb839a9c6440fb7be726933db6822~mv2.jpeg"
  },
  {
@@ -852,7 +852,7 @@
    "nome": "Geleia",
    "preco": 5,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_57b694844a324b1891faedd6be426f9a~mv2.jpg"
  },
  {
@@ -970,7 +970,7 @@
  {
    "categoria": "Desidratados",
    "nome": "Arandos ",
-   "preco": 15,
+   "preco": 20,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_b561f2b34a574075a6162dccc418c256~mv2.jpg"
@@ -1066,7 +1066,7 @@
  {
    "categoria": "Ervas Aromáticas",
    "nome": "Coentros",
-   "preco": 77,
+   "preco": 25,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_7979992401bc481a98918581d7daabab~mv2.jpg"
@@ -1114,7 +1114,7 @@
  {
    "categoria": "Ervas Aromáticas",
    "nome": "Louro",
-   "preco": 62,
+   "preco": 60,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_b8b49dc6b7f44c57a1466f5c20161dbe~mv2.jpg"
@@ -1362,7 +1362,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Cravinho",
-   "preco": 54,
+   "preco": 40,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_19df3e20fc9d474ebe5c538d8858f547~mv2.jpg"
@@ -1524,7 +1524,7 @@
    "nome": "Farinha Beterraba",
    "preco": 4.9,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_99bc57c2615d4868a80d475dbe76a004~mv2.jpg"
  },
   {
