@@ -113,6 +113,38 @@
  },
  {
    "categoria": "Bebidas",
+   "nome": "Kombucha Gengibre",
+   "preco": 3.8,
+   "tipo": "unidade",
+  "stock": 1,
+   "https://static.wixstatic.com/media/16f718_362a8caf7f5944118f52e0a9df2e938b~mv2.png"
+ },
+{
+   "categoria": "Bebidas",
+   "nome": "Kombucha Limão e Hortelã",
+   "preco": 3.8,
+   "tipo": "unidade",
+  "stock": 1,
+   "https://static.wixstatic.com/media/16f718_6c14afdeb4df40b8b80ad05b77a13d5e~mv2.png"
+ },
+{
+   "categoria": "Bebidas",
+   "nome": "Kombucha Medronho",
+   "preco": 3.8,
+   "tipo": "unidade",
+  "stock": 1,
+   "https://static.wixstatic.com/media/16f718_71b5ca43537247e9b457dd17f4e2ceaa~mv2.png"
+ },
+{
+   "categoria": "Bebidas",
+   "nome": "Kombucha Cereja do Fundão",
+   "preco": 3.8,
+   "tipo": "unidade",
+  "stock": 1,
+   "https://static.wixstatic.com/media/16f718_4e2e20cc689748f9bb38f941b7016e16~mv2.png"
+ },
+ {
+   "categoria": "Bebidas",
    "nome": "Pale Lager | Bio",
    "preco": 3.3,
    "tipo": "unidade",
@@ -1990,14 +2022,6 @@
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_642156843b754aa0a678e4b1eb1310e1~mv2.jpg"
- },
- {
-   "categoria": "Pão",
-   "nome": "Pão Ralado",
-   "preco": 1.8,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_9534380a08234ab78bfbffacb618809a~mv2.jpg"
  },
  {
    "categoria": "Pão",
