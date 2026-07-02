@@ -117,7 +117,7 @@
    "preco": 3.8,
    "tipo": "unidade",
   "stock": 1,
-   "https://static.wixstatic.com/media/16f718_362a8caf7f5944118f52e0a9df2e938b~mv2.png"
+  "imagem": "https://static.wixstatic.com/media/16f718_362a8caf7f5944118f52e0a9df2e938b~mv2.png"
  },
 {
    "categoria": "Bebidas",
@@ -125,7 +125,7 @@
    "preco": 3.8,
    "tipo": "unidade",
   "stock": 1,
-   "https://static.wixstatic.com/media/16f718_6c14afdeb4df40b8b80ad05b77a13d5e~mv2.png"
+   "imagem": "https://static.wixstatic.com/media/16f718_6c14afdeb4df40b8b80ad05b77a13d5e~mv2.png"
  },
 {
    "categoria": "Bebidas",
@@ -133,7 +133,7 @@
    "preco": 3.8,
    "tipo": "unidade",
   "stock": 1,
-   "https://static.wixstatic.com/media/16f718_71b5ca43537247e9b457dd17f4e2ceaa~mv2.png"
+   "imagem": "https://static.wixstatic.com/media/16f718_71b5ca43537247e9b457dd17f4e2ceaa~mv2.png"
  },
 {
    "categoria": "Bebidas",
@@ -141,7 +141,7 @@
    "preco": 3.8,
    "tipo": "unidade",
   "stock": 1,
-   "https://static.wixstatic.com/media/16f718_4e2e20cc689748f9bb38f941b7016e16~mv2.png"
+  "imagem": "https://static.wixstatic.com/media/16f718_4e2e20cc689748f9bb38f941b7016e16~mv2.png"
  },
  {
    "categoria": "Bebidas",
