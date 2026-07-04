@@ -1113,16 +1113,8 @@
  },
  {
    "categoria": "Ervas Aromáticas",
-   "nome": "Coentro Semente",
-   "preco": 15,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_35a09768363248cc963352aa68cbf1e7~mv2.jpg"
- },
- {
-   "categoria": "Ervas Aromáticas",
    "nome": "Alecrim",
-   "preco": 17,
+   "preco": 20,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_c7ba8a10eeb2423db4648b09509ef72c~mv2.jpg"
@@ -1254,6 +1246,14 @@
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_8f2e6237c61548e5918104d0e41fa10b~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Coentros Grão",
+   "preco": 20,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_35a09768363248cc963352aa68cbf1e7~mv2.jpg"
  },
  {
    "categoria": "Especiarias",
@@ -1486,6 +1486,22 @@
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_0138feaeed6548a585611992ea9947e2~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Mistura 5 Pimentas",
+   "preco": 42,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_0eec47156b75464ca48d074e460fcf83~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Mistura Mediterrânea",
+   "preco": 30,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_6d72be56d93443f0815e4a9746ca2c3a~mv2.jpg"
  },
  {
    "categoria": "Farinhas",
