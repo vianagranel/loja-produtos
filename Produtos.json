@@ -690,7 +690,7 @@
  {
    "categoria": "Chás",
    "nome": "Erva Cidreira",
-   "preco": 30,
+   "preco": 40,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_3bed8836d3374b49a4745b8bfa52963f~mv2.jpg"
@@ -698,7 +698,7 @@
  {
    "categoria": "Chás",
    "nome": "Limonete",
-   "preco": 45,
+   "preco": 50,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_4002789e432248668c442e99bfb230dc~mv2.jpg"
@@ -738,7 +738,7 @@
  {
    "categoria": "Chás",
    "nome": "Erva Príncipe",
-   "preco": 24,
+   "preco": 30,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_ce83597164084f0da9ecb4a88e9d7554~mv2.jpg"
@@ -770,7 +770,7 @@
  {
    "categoria": "Chás",
    "nome": "Camomila",
-   "preco": 44,
+   "preco": 50,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_0d4996b86aae4a74b4d386fcd2f37d4d~mv2.jpg"
@@ -794,7 +794,7 @@
  {
    "categoria": "Chás",
    "nome": "Carqueja",
-   "preco": 25,
+   "preco": 45,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_5888cf27ac71469f998cc858f4a58674~mv2.jpg"
@@ -818,7 +818,7 @@
  {
    "categoria": "Chás",
    "nome": "Hibisco",
-   "preco": 22,
+   "preco": 30,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_b5213540dec94ddf930c5db06966c689~mv2.jpg"
@@ -1050,7 +1050,7 @@
  {
    "categoria": "Desidratados",
    "nome": "Cebola Desidratada",
-   "preco": 11.6,
+   "preco": 14,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_aa607318a83543f59be3ecf6538a1401~mv2.jpg"
@@ -1098,7 +1098,7 @@
  {
    "categoria": "Ervas Aromáticas",
    "nome": "Coentros",
-   "preco": 25,
+   "preco": 35,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_7979992401bc481a98918581d7daabab~mv2.jpg"
@@ -1106,7 +1106,7 @@
  {
    "categoria": "Ervas Aromáticas",
    "nome": "Tomilho Limão",
-   "preco": 28,
+   "preco": 45,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_161ce6229bde4c13b3a3b9fb34224b08~mv2.jpg"
@@ -1170,7 +1170,7 @@
  {
    "categoria": "Ervas Aromáticas",
    "nome": "Oregãos",
-   "preco": 18,
+   "preco": 30,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_e11d2b04003a44e38b49bb4fdf5b11bb~mv2.jpg"
@@ -1186,7 +1186,7 @@
  {
    "categoria": "Ervas Aromáticas",
    "nome": "Funcho",
-   "preco": 13,
+   "preco": 18,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_6bcc563e576542e398cd08232f4640b2~mv2.jpg"
@@ -1194,7 +1194,7 @@
  {
    "categoria": "Ervas Aromáticas",
    "nome": "Ervas Provence",
-   "preco": 16,
+   "preco": 20,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_f731123ae89b4718aa410bd4c85b6090~mv2.jpg"
@@ -1218,7 +1218,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Paprika Picante Fumada",
-   "preco": 23,
+   "preco": 26,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_7a2a30f27d614ac197c18ea9e72c9288~mv2.jpg"
@@ -1226,7 +1226,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Bicarbonato de Sódio",
-   "preco": 4,
+   "preco": 6,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_ba73f60b592c4e049036278685ab46ed~mv2.jpg"
@@ -1298,7 +1298,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Mistura Italiana",
-   "preco": 23.8,
+   "preco": 29,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_ef633335be184b6896baad5b27330e3e~mv2.jpg"
@@ -1306,7 +1306,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Pimenta Preta Grão",
-   "preco": 29.8,
+   "preco": 30,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_67599d102893492b9fc73468a7c2cb36~mv2.jpg"
@@ -1330,7 +1330,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Mostarda Grão",
-   "preco": 13.6,
+   "preco": 18,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_1697edec404e4b6b8be1e4979b2282e1~mv2.jpg"
@@ -1354,7 +1354,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Paprika Fumada",
-   "preco": 23,
+   "preco": 26,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_4f0bd3e5994c4b0284a723e1cfc0c02e~mv2.jpg"
@@ -1362,7 +1362,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Piri Piri",
-   "preco": 20,
+   "preco": 40,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_72c20dbff55c4bf8af5b2fb63e95d2cc~mv2.jpg"
@@ -1378,7 +1378,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Soudani Harissa",
-   "preco": 23.6,
+   "preco": 26,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_0031245b5fb0496eb1668123158db44a~mv2.jpg"
@@ -1386,7 +1386,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Chimichurri",
-   "preco": 26,
+   "preco": 30,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_1fe74e01d9bc452f8627636ceb3ccfca~mv2.jpg"
@@ -1394,7 +1394,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Cravinho",
-   "preco": 40,
+   "preco": 45,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_19df3e20fc9d474ebe5c538d8858f547~mv2.jpg"
@@ -1410,7 +1410,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Curcuma",
-   "preco": 20,
+   "preco": 25,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_d8d6ce725b364286a66e0af4eac0a47e~mv2.jpg"
@@ -1418,7 +1418,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Pimentão Doce",
-   "preco": 15.4,
+   "preco": 20,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_f98c5310744346c0b91d5f5777b20b1a~mv2.jpg"
@@ -1466,7 +1466,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Cominhos",
-   "preco": 24,
+   "preco": 26,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_6ba72e6efa51400d9398a97c5bf17482~mv2.jpg"
