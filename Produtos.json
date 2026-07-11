@@ -2,7 +2,7 @@
  {
    "categoria": "Açúcar",
    "nome": "Açúcar Mascavado",
-   "preco": 9.6,
+   "preco": 10,
    "tipo": "gramas",
   "stock": 1, 
    "imagem": "https://static.wixstatic.com/media/16f718_57e9bb2e9c994a7b9cde3527e72b36e6~mv2.jpg"
@@ -778,7 +778,7 @@
  {
    "categoria": "Chás",
    "nome": "Cavalinha",
-   "preco": 19,
+   "preco": 25,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_3e2c18e5aa2143a1876997a59a83f3c1~mv2.jpg"
@@ -1026,7 +1026,7 @@
  {
    "categoria": "Desidratados",
    "nome": "Passas Corintos",
-   "preco": 8.8,
+   "preco": 12,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_9d17af877731427c894b4b3fb54bb0f3~mv2.jpg"
@@ -1042,7 +1042,7 @@
  {
    "categoria": "Desidratados",
    "nome": "Alho Laminado",
-   "preco": 15.6,
+   "preco": 18,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_dc4848020670411fb505eb0e68afc702~mv2.jpg"
@@ -1082,7 +1082,7 @@
  {
    "categoria": "Desidratados",
    "nome": "Sultanas",
-   "preco": 10,
+   "preco": 13,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_8639a4f0746a4e5ca798a6e95f4b6373~mv2.jpg"
@@ -1316,7 +1316,7 @@
    "nome": "Bolonhesa",
    "preco": 35.4,
    "tipo": "gramas",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_b2640925bf8048a78b8cd65bb62dfea9~mv2.jpg"
  },
  {
@@ -1434,7 +1434,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Pimenta Caiena",
-   "preco": 17,
+   "preco": 25,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_a931eb4c9b81492a9a4f13b3ac904ac6~mv2.jpg"
@@ -1442,7 +1442,7 @@
  {
    "categoria": "Especiarias",
    "nome": "Gengibre Raiz",
-   "preco": 46.8,
+   "preco": 47,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_1616105af26043098e6e084a742ab106~mv2.jpg"
