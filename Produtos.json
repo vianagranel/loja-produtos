@@ -1063,22 +1063,79 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_077a5b9f4454477da804a40bfbdc2436~mv2.jpg"
  },
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
  {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Alecrim",
+   "preco": 20,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_c7ba8a10eeb2423db4648b09509ef72c~mv2.jpg"
+ },
+  {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Cebolinho",
+   "preco": 60,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_fca6f6e4fb454156a1ff73db404f6704~mv2.jpg"
+ },
+  {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Coentros",
+   "preco": 35,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_7979992401bc481a98918581d7daabab~mv2.jpg"
+ },
+  {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Endro",
+   "preco": 58,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_157d0f569f8245c991ffecb5e3724920~mv2.jpg"
+ },
+  {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Ervas Provence",
+   "preco": 20,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_f731123ae89b4718aa410bd4c85b6090~mv2.jpg"
+ },
+  {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Funcho",
+   "preco": 18,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_6bcc563e576542e398cd08232f4640b2~mv2.jpg"
+ },
+  {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Hortelã-Pimenta",
+   "preco": 44,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_278505836d7d490aac917105aa7dcdb2~mv2.jpg"
+ },
+  {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Louro",
+   "preco": 60,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_b8b49dc6b7f44c57a1466f5c20161dbe~mv2.jpg"
+ },
+  {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Manjericão",
+   "preco": 35,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_4f8f747f03c549a0a0e5a456221d04ec~mv2.jpg"
+ },
+  {
    "categoria": "Ervas Aromáticas",
    "nome": "Mistura Condimento Saladas",
    "preco": 91,
@@ -1088,11 +1145,27 @@
  },
  {
    "categoria": "Ervas Aromáticas",
-   "nome": "Coentros",
-   "preco": 35,
+   "nome": "Oregãos",
+   "preco": 30,
    "tipo": "gramas",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_7979992401bc481a98918581d7daabab~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_e11d2b04003a44e38b49bb4fdf5b11bb~mv2.jpg"
+ },
+  {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Salsa",
+   "preco": 40,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_ffd811e74d964a9a94ac5dce275d3d44~mv2.jpg"
+ },
+ {
+   "categoria": "Ervas Aromáticas",
+   "nome": "Tomilho",
+   "preco": 41,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_b610304804594b8aae97c07105d720b3~mv2.jpg"
  },
  {
    "categoria": "Ervas Aromáticas",
@@ -1104,155 +1177,11 @@
  },
  {
    "categoria": "Ervas Aromáticas",
-   "nome": "Alecrim",
-   "preco": 20,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_c7ba8a10eeb2423db4648b09509ef72c~mv2.jpg"
- },
- {
-   "categoria": "Ervas Aromáticas",
-   "nome": "Cebolinho",
-   "preco": 60,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_fca6f6e4fb454156a1ff73db404f6704~mv2.jpg"
- },
- {
-   "categoria": "Ervas Aromáticas",
-   "nome": "Hortelã-Pimenta",
-   "preco": 44,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_278505836d7d490aac917105aa7dcdb2~mv2.jpg"
- },
- {
-   "categoria": "Ervas Aromáticas",
-   "nome": "Louro",
-   "preco": 60,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_b8b49dc6b7f44c57a1466f5c20161dbe~mv2.jpg"
- },
- {
-   "categoria": "Ervas Aromáticas",
-   "nome": "Manjericão",
-   "preco": 35,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_4f8f747f03c549a0a0e5a456221d04ec~mv2.jpg"
- },
- {
-   "categoria": "Ervas Aromáticas",
-   "nome": "Salsa",
-   "preco": 40,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_ffd811e74d964a9a94ac5dce275d3d44~mv2.jpg"
- },
- {
-   "categoria": "Ervas Aromáticas",
-   "nome": "Tomilho Vulgar",
-   "preco": 41,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_b610304804594b8aae97c07105d720b3~mv2.jpg"
- },
- {
-   "categoria": "Ervas Aromáticas",
-   "nome": "Oregãos",
-   "preco": 30,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_e11d2b04003a44e38b49bb4fdf5b11bb~mv2.jpg"
- },
- {
-   "categoria": "Ervas Aromáticas",
-   "nome": "Endro",
-   "preco": 58,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_157d0f569f8245c991ffecb5e3724920~mv2.jpg"
- },
- {
-   "categoria": "Ervas Aromáticas",
-   "nome": "Funcho",
-   "preco": 18,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_6bcc563e576542e398cd08232f4640b2~mv2.jpg"
- },
- {
-   "categoria": "Ervas Aromáticas",
-   "nome": "Ervas Provence",
-   "preco": 20,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_f731123ae89b4718aa410bd4c85b6090~mv2.jpg"
- },
- {
-   "categoria": "Ervas Aromáticas",
    "nome": "Ervas p/ Azeitonas e Carnes",
    "preco": 3.8,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_03f384d11cb44e6fb70c10078d9b010e~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Cajun",
-   "preco": 25,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_489c3ff51f2e43aea0395fd29196ce9d~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Paprika Picante Fumada",
-   "preco": 26,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_7a2a30f27d614ac197c18ea9e72c9288~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Bicarbonato de Sódio",
-   "preco": 6,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_ba73f60b592c4e049036278685ab46ed~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Golden",
-   "preco": 23,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_2ceaff6619ae4b539cfbeae4a8125c88~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Cominhos Grão ",
-   "preco": 2,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_8f2e6237c61548e5918104d0e41fa10b~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Coentros Grão",
-   "preco": 20,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_35a09768363248cc963352aa68cbf1e7~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Gengibre Pó",
-   "preco": 25,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_c34a2d37e02c472aaedbf1a35892a7d6~mv2.jpg"
  },
  {
    "categoria": "Especiarias",
@@ -1264,101 +1193,45 @@
  },
  {
    "categoria": "Especiarias",
-   "nome": "Tikka Masala",
-   "preco": 25,
+   "nome": "Bicarbonato de Sódio",
+   "preco": 6,
    "tipo": "gramas",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_a205276d48714de48e4fb307299bfe05~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Especiarias p/ Bolos e Bolachas",
-   "preco": 26,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_dfbe27ef4f804d09803101b515ac0a4e~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Ras el Hanout",
-   "preco": 24,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_d529dd1161284c4ea4682a7c9ae0f486~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Mistura Italiana",
-   "preco": 29,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_ef633335be184b6896baad5b27330e3e~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Pimenta Preta Grão",
-   "preco": 30,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_67599d102893492b9fc73468a7c2cb36~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Bolonhesa",
-   "preco": 35.4,
-   "tipo": "gramas",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_b2640925bf8048a78b8cd65bb62dfea9~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Lemon Pepper",
-   "preco": 25,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_1baed0b8cebf4e88b6272596df2c12b4~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Mostarda Grão",
-   "preco": 18,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_1697edec404e4b6b8be1e4979b2282e1~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Noz Moscada Grão",
-   "preco": 72,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_4176ed36380f409bac48ab11767f0c4e~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_ba73f60b592c4e049036278685ab46ed~mv2.jpg"
  },
   {
    "categoria": "Especiarias",
-   "nome": "Anis Estrelado",
-   "preco": 3.95,
-   "tipo": "unidade",
-   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_7429c0f635014d308b59b66dc88c7c68~mv2.jpg"
+   "nome": "Cajun",
+   "preco": 25,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_489c3ff51f2e43aea0395fd29196ce9d~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Canela Ceilão Pau",
+   "preco": 70,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_8fe68f8e71694cbdbbcdb3fb46339dae~mv2.jpg"
  },
  {
    "categoria": "Especiarias",
-   "nome": "Paprika Fumada",
-   "preco": 26,
+   "nome": "Canela Ceilão Pó",
+   "preco": 34,
    "tipo": "gramas",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_4f0bd3e5994c4b0284a723e1cfc0c02e~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_ea9b9268c2084c0ab1386ff86673ef5e~mv2.jpg"
  },
- {
+  {
    "categoria": "Especiarias",
-   "nome": "Piri Piri",
-   "preco": 40,
+   "nome": "Caril Índia",
+   "preco": 28,
    "tipo": "gramas",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_72c20dbff55c4bf8af5b2fb63e95d2cc~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_862ff16ece964bcb85303012db3a0e61~mv2.jpg"
  },
- {
+  {
    "categoria": "Especiarias",
    "nome": "Caril Verde",
    "preco": 25,
@@ -1366,15 +1239,7 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_9a2958785b4c4e299d805f5ead113ee8~mv2.jpg"
  },
- {
-   "categoria": "Especiarias",
-   "nome": "Soudani Harissa",
-   "preco": 26,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_0031245b5fb0496eb1668123158db44a~mv2.jpg"
- },
- {
+  {
    "categoria": "Especiarias",
    "nome": "Chimichurri",
    "preco": 30,
@@ -1382,7 +1247,23 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_1fe74e01d9bc452f8627636ceb3ccfca~mv2.jpg"
  },
- {
+  {
+   "categoria": "Especiarias",
+   "nome": "Coentros Grão",
+   "preco": 20,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_35a09768363248cc963352aa68cbf1e7~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Cominhos",
+   "preco": 26,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_6ba72e6efa51400d9398a97c5bf17482~mv2.jpg"
+ },
+  {
    "categoria": "Especiarias",
    "nome": "Cravinho",
    "preco": 45,
@@ -1392,35 +1273,123 @@
  },
  {
    "categoria": "Especiarias",
-   "nome": "Caril Índia",
-   "preco": 28,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_862ff16ece964bcb85303012db3a0e61~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
    "nome": "Curcuma",
    "preco": 25,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_d8d6ce725b364286a66e0af4eac0a47e~mv2.jpg"
  },
- {
+  {
    "categoria": "Especiarias",
-   "nome": "Pimentão Doce",
-   "preco": 20,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_f98c5310744346c0b91d5f5777b20b1a~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Pimenta Preta Pó",
+   "nome": "Especiarias p/ Bolos e Bolachas",
    "preco": 26,
    "tipo": "gramas",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_97e07f3c92a9454289312f3f352b9930~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_dfbe27ef4f804d09803101b515ac0a4e~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Gengibre Pó",
+   "preco": 25,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_c34a2d37e02c472aaedbf1a35892a7d6~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Gengibre Raiz",
+   "preco": 47,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_1616105af26043098e6e084a742ab106~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Golden",
+   "preco": 23,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_2ceaff6619ae4b539cfbeae4a8125c88~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Lemon Pepper",
+   "preco": 25,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_1baed0b8cebf4e88b6272596df2c12b4~mv2.jpg"
+ },
+   {
+   "categoria": "Especiarias",
+   "nome": "Mistura 5 Pimentas",
+   "preco": 42,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_0eec47156b75464ca48d074e460fcf83~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Mistura Italiana",
+   "preco": 29,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_ef633335be184b6896baad5b27330e3e~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Mistura Mediterrânea",
+   "preco": 30,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_6d72be56d93443f0815e4a9746ca2c3a~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Mostarda Grão",
+   "preco": 18,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_1697edec404e4b6b8be1e4979b2282e1~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Noz Moscada Grão",
+   "preco": 72,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_4176ed36380f409bac48ab11767f0c4e~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Noz Moscada Pó",
+   "preco": 50,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_e2dc13bdfd814d7caddaec3880ee0175~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Paprika Fumada",
+   "preco": 26,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_4f0bd3e5994c4b0284a723e1cfc0c02e~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Paprika Picante Fumada",
+   "preco": 26,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_7a2a30f27d614ac197c18ea9e72c9288~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Pimenta Branca Grão",
+   "preco": 35,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_0138feaeed6548a585611992ea9947e2~mv2.jpg"
  },
  {
    "categoria": "Especiarias",
@@ -1432,67 +1401,75 @@
  },
  {
    "categoria": "Especiarias",
-   "nome": "Gengibre Raiz",
-   "preco": 47,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_1616105af26043098e6e084a742ab106~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Canela Ceilão Pó",
-   "preco": 34,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_ea9b9268c2084c0ab1386ff86673ef5e~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Canela Ceilão Pau",
-   "preco": 70,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_8fe68f8e71694cbdbbcdb3fb46339dae~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Cominhos",
-   "preco": 26,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_6ba72e6efa51400d9398a97c5bf17482~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Noz Moscada Pó",
-   "preco": 50,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_e2dc13bdfd814d7caddaec3880ee0175~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Pimenta Branca Grão",
-   "preco": 35,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_0138feaeed6548a585611992ea9947e2~mv2.jpg"
- },
-  {
-   "categoria": "Especiarias",
-   "nome": "Mistura 5 Pimentas",
-   "preco": 42,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_0eec47156b75464ca48d074e460fcf83~mv2.jpg"
- },
- {
-   "categoria": "Especiarias",
-   "nome": "Mistura Mediterrânea",
+   "nome": "Pimenta Preta Grão",
    "preco": 30,
    "tipo": "gramas",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_6d72be56d93443f0815e4a9746ca2c3a~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_67599d102893492b9fc73468a7c2cb36~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Pimenta Preta Pó",
+   "preco": 26,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_97e07f3c92a9454289312f3f352b9930~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Pimentão Doce",
+   "preco": 20,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_f98c5310744346c0b91d5f5777b20b1a~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Piri Piri",
+   "preco": 40,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_72c20dbff55c4bf8af5b2fb63e95d2cc~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Ras el Hanout",
+   "preco": 24,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_d529dd1161284c4ea4682a7c9ae0f486~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Soudani Harissa",
+   "preco": 26,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_0031245b5fb0496eb1668123158db44a~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Tikka Masala",
+   "preco": 25,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_a205276d48714de48e4fb307299bfe05~mv2.jpg"
+ },
+  {
+   "categoria": "Especiarias",
+   "nome": "Anis Estrelado",
+   "preco": 3.95,
+   "tipo": "unidade",
+   "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_7429c0f635014d308b59b66dc88c7c68~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Cominhos Grão ",
+   "preco": 2,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_8f2e6237c61548e5918104d0e41fa10b~mv2.jpg"
  },
  {
    "categoria": "Farinhas",
