@@ -921,29 +921,77 @@
  },
  {
    "categoria": "Compotas",
-   "nome": "Doce Ameixa",
-   "preco": 9.6,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_e3988370d3164d9984ebf969611d5869~mv2.webp"
- },
- {
-   "categoria": "Compotas",
    "nome": "Marmelada",
    "preco": 4.4,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_ce5405f40123483dbdde87b7e4c6d040~mv2.webp"
  },
- {
+  {
    "categoria": "Desidratados",
-   "nome": "Coco Ralado",
-   "preco": 9,
+   "nome": "Alho Laminado",
+   "preco": 18,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_dc4848020670411fb505eb0e68afc702~mv2.jpg"
+ },
+  {
+   "categoria": "Desidratados",
+   "nome": "Alperce ",
+   "preco": 27,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_98852edfc2bd49b5af19136939aa8794~mv2.jpg"
+ },
+  {
+   "categoria": "Desidratados",
+   "nome": "Ameixa s/ Caroço",
+   "preco": 12,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_0aba91e60651424c8f95a8565cbce4d0~mv2.jpg"
+ },
+  {
+   "categoria": "Desidratados",
+   "nome": "Arandos ",
+   "preco": 20,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_b561f2b34a574075a6162dccc418c256~mv2.jpg"
+ },
+  {
+   "categoria": "Desidratados",
+   "nome": "Banana Chips",
+   "preco": 12,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_d6aaeb4d94f04892889500c9868bd32d~mv2.jpg"
+ },
+  {
+   "categoria": "Desidratados",
+   "nome": "Cebola Desidratada",
+   "preco": 14,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_aa607318a83543f59be3ecf6538a1401~mv2.jpg"
+ },
+  {
+   "categoria": "Desidratados",
+   "nome": "Cogumelos Desidratados",
+   "preco": 6,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_884c2c50a7094952abfadae591ca2a69~mv2.avif"
+ },
+  {
+   "categoria": "Desidratados",
+   "nome": "Espinafre ",
+   "preco": 22.6,
    "tipo": "gramas",
   "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_0bd55ddcbf504f03a8745639cec35bd5~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_6048da65d6384777950b29a4cb32c570~mv2.jpg"
  },
- {
+  {
    "categoria": "Desidratados",
    "nome": "Figo Seco ",
    "preco": 9,
@@ -951,15 +999,7 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_0ec2667cc5b24226bc824a7a9407379b~mv2.jpg"
  },
- {
-   "categoria": "Desidratados",
-   "nome": "Tomate Seco",
-   "preco": 30,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_077a5b9f4454477da804a40bfbdc2436~mv2.jpg"
- },
- {
+  {
    "categoria": "Desidratados",
    "nome": "Fruta Italiana",
    "preco": 13,
@@ -967,7 +1007,23 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_7e86dd3701524af4905961dfc144818d~mv2.jpg"
  },
- {
+  {
+   "categoria": "Desidratados",
+   "nome": "Gengibre Cubos",
+   "preco": 20,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_fd13a74747af444d99fc21ca51d22f0f~mv2.jpg"
+ },
+  {
+   "categoria": "Desidratados",
+   "nome": "Laranja Desidratada Rodelas",
+   "preco": 38,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_b7929cbd4df34f44886d3a646218a289~mv2.jpg"
+ },
+  {
    "categoria": "Desidratados",
    "nome": "Mirtilos",
    "preco": 30,
@@ -977,53 +1033,21 @@
  },
  {
    "categoria": "Desidratados",
-   "nome": "Alperce ",
-   "preco": 27,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_98852edfc2bd49b5af19136939aa8794~mv2.jpg"
- },
- {
-   "categoria": "Desidratados",
-   "nome": "Ameixa s/ Caroço",
-   "preco": 12,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_0aba91e60651424c8f95a8565cbce4d0~mv2.jpg"
- },
- {
-   "categoria": "Desidratados",
-   "nome": "Arandos ",
-   "preco": 20,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_b561f2b34a574075a6162dccc418c256~mv2.jpg"
- },
- {
-   "categoria": "Desidratados",
-   "nome": "Banana Chips",
-   "preco": 12,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_d6aaeb4d94f04892889500c9868bd32d~mv2.jpg"
- },
- {
-   "categoria": "Desidratados",
-   "nome": "Gengibre Cubos",
-   "preco": 20,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_fd13a74747af444d99fc21ca51d22f0f~mv2.jpg"
- },
- {
-   "categoria": "Desidratados",
    "nome": "Passas Corintos",
    "preco": 12,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_9d17af877731427c894b4b3fb54bb0f3~mv2.jpg"
  },
- {
+  {
+   "categoria": "Desidratados",
+   "nome": "Sultanas",
+   "preco": 13,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_8639a4f0746a4e5ca798a6e95f4b6373~mv2.jpg"
+ },
+  {
    "categoria": "Desidratados",
    "nome": "Tâmaras Medjool",
    "preco": 26,
@@ -1033,52 +1057,27 @@
  },
  {
    "categoria": "Desidratados",
-   "nome": "Alho Laminado",
-   "preco": 18,
+   "nome": "Tomate Seco",
+   "preco": 30,
    "tipo": "gramas",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_dc4848020670411fb505eb0e68afc702~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_077a5b9f4454477da804a40bfbdc2436~mv2.jpg"
  },
- {
-   "categoria": "Desidratados",
-   "nome": "Cebola Desidratada",
-   "preco": 14,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_aa607318a83543f59be3ecf6538a1401~mv2.jpg"
- },
- {
-   "categoria": "Desidratados",
-   "nome": "Espinafre ",
-   "preco": 22.6,
-   "tipo": "gramas",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_6048da65d6384777950b29a4cb32c570~mv2.jpg"
- },
- {
-   "categoria": "Desidratados",
-   "nome": "Cogumelos Desidratados",
-   "preco": 6,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_884c2c50a7094952abfadae591ca2a69~mv2.avif"
- },
- {
-   "categoria": "Desidratados",
-   "nome": "Laranja Desidratada Rodelas",
-   "preco": 38,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_b7929cbd4df34f44886d3a646218a289~mv2.jpg"
- },
- {
-   "categoria": "Desidratados",
-   "nome": "Sultanas",
-   "preco": 13,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_8639a4f0746a4e5ca798a6e95f4b6373~mv2.jpg"
- },
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
  {
    "categoria": "Ervas Aromáticas",
    "nome": "Mistura Condimento Saladas",
