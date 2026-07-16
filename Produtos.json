@@ -839,15 +839,7 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_c2884f8d2a0445bfbfd8fbb56b16e1f0~mv2.jpg"
  },
- {
-   "categoria": "Chocolates",
-   "nome": "Tablete Viana",
-   "preco": 3.3,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_fe9d485ad51a41d7a5a981a4513ee334~mv2.jpg"
- },
- {
+  {
    "categoria": "Chocolates",
    "nome": "Amêndoas c/ Chocolate Negro",
    "preco": 6.9,
@@ -864,12 +856,44 @@
    "imagem": "https://static.wixstatic.com/media/16f718_092d425edccf40ac9b82b4d39e11c393~mv2.jpg"
  },
  {
+   "categoria": "Chocolates",
+   "nome": "Tablete Viana",
+   "preco": 3.3,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_fe9d485ad51a41d7a5a981a4513ee334~mv2.jpg"
+ },
+ {
    "categoria": "Compotas",
    "nome": "Ameixa Escorrida",
    "preco": 19.8,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_4705dbce6a434225a420cb941fe207cc~mv2.webp"
+ },
+ {
+   "categoria": "Compotas",
+   "nome": "Figo Escorrido",
+   "preco": 19.8,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_c647eb02015b4533b77c0eb9c91391f3~mv2.webp"
+ },
+  {
+   "categoria": "Compotas",
+   "nome": "Ameixa Calda",
+   "preco": 9.6,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_5304e5bdcbb04f9abfa3dff3894a39cc~mv2.jpg"
+ },
+  {
+   "categoria": "Compotas",
+   "nome": "Doce Ameixa",
+   "preco": 9.6,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_e3988370d3164d9984ebf969611d5869~mv2.webp"
  },
  {
    "categoria": "Compotas",
@@ -881,14 +905,6 @@
  },
  {
    "categoria": "Compotas",
-   "nome": "Geleia",
-   "preco": 5,
-   "tipo": "unidade",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_57b694844a324b1891faedd6be426f9a~mv2.jpg"
- },
- {
-   "categoria": "Compotas",
    "nome": "Doce de Ginja  ",
    "preco": 6.9,
    "tipo": "unidade",
@@ -897,35 +913,11 @@
  },
  {
    "categoria": "Compotas",
-   "nome": "Figo Escorrido",
-   "preco": 19.8,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_c647eb02015b4533b77c0eb9c91391f3~mv2.webp"
- },
- {
-   "categoria": "Compotas",
-   "nome": "Compota Pêssego",
-   "preco": 5,
-   "tipo": "unidade",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_babcc544653a44e28c359ba8249a9bf6~mv2.jpg"
- },
- {
-   "categoria": "Compotas",
    "nome": "Compota Tomate",
    "preco": 5,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_ef7ba942496845a5967cc45a27eb5d5f~mv2.jpg"
- },
- {
-   "categoria": "Compotas",
-   "nome": "Ameixa Calda",
-   "preco": 9.6,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_5304e5bdcbb04f9abfa3dff3894a39cc~mv2.jpg"
  },
  {
    "categoria": "Compotas",
