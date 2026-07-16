@@ -1,19 +1,27 @@
 [
  {
    "categoria": "Açúcar",
-   "nome": "Açúcar Mascavado",
-   "preco": 10,
-   "tipo": "gramas",
-  "stock": 1, 
-   "imagem": "https://static.wixstatic.com/media/16f718_57e9bb2e9c994a7b9cde3527e72b36e6~mv2.jpg"
- },
- {
-   "categoria": "Açúcar",
-   "nome": "Açúcar Coco",
+   "nome": "Açúcar de Coco",
    "preco": 18,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_31d610d0b11248f290f99f4615f2cfd8~mv2.jpg"
+ },
+ {
+   "categoria": "Açúcar",
+   "nome": "Açúcar Integral de Cana",
+   "preco": 9,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_723416f27656404e8e241030399c9edd~mv2.jpg"
+ },
+ {
+   "categoria": "Açúcar",
+   "nome": "Açúcar Mascavado de Cana",
+   "preco": 10,
+   "tipo": "gramas",
+  "stock": 1, 
+   "imagem": "https://static.wixstatic.com/media/16f718_57e9bb2e9c994a7b9cde3527e72b36e6~mv2.jpg"
  },
  {
    "categoria": "Açúcar",
@@ -22,22 +30,6 @@
    "tipo": "unidade",
   "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_883652265a9145c68d33829c06108fdc~mv2.jpg"
- },
- {
-   "categoria": "Açúcar",
-   "nome": "Açúcar Integral",
-   "preco": 9,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_723416f27656404e8e241030399c9edd~mv2.jpg"
- },
- {
-   "categoria": "Azeite",
-   "nome": "Azeite c/ Salicórnia",
-   "preco": 7.5,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_97b887c838d04b85b894be83dd7f454f~mv2.avif"
  },
  {
    "categoria": "Azeite",
@@ -49,19 +41,43 @@
  },
  {
    "categoria": "Azeite",
+   "nome": "Azeite c/ Salicórnia",
+   "preco": 7.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_97b887c838d04b85b894be83dd7f454f~mv2.avif"
+ },
+{
+   "categoria": "Azeite",
+   "nome": "Azeite Aromatizado - Carnes",
+   "preco": 7,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_e55689510a58439fa8aad2af31f1a493~mv2.jpg"
+ },
+{
+   "categoria": "Azeite",
+   "nome": "Azeite Aromatizado - Massas",
+   "preco": 7,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_5fa9490681a043afb71c938453a39453~mv2.jpg"
+ },
+ {
+   "categoria": "Azeite",
+   "nome": "Azeite Aromatizado - Peixe",
+   "preco": 7,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_2a5eff2c694c407b8ee08cdb49d931d7~mv2.jpg"
+ },
+ {
+   "categoria": "Azeite",
    "nome": "Azeite Aromatizado - Saladas",
    "preco": 7,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_9814e6c957ed40c99d2161ea64092ced~mv2.jpg"
- },
- {
-   "categoria": "Azeite",
-   "nome": "Óleo Coco",
-   "preco": 5.95,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_a0964118826c4e6d970b6e339dc04117~mv2.jpg"
  },
  {
    "categoria": "Azeite",
@@ -79,6 +95,14 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_583648c3d5eb4e50a9725b171e56f7d9~mv2.jpg"
  },
+{
+   "categoria": "Azeite",
+   "nome": "Óleo Coco",
+   "preco": 5.95,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_a0964118826c4e6d970b6e339dc04117~mv2.jpg"
+ },
  {
    "categoria": "Azeite",
    "nome": "Óleo Sésamo",
@@ -88,28 +112,12 @@
    "imagem": "https://static.wixstatic.com/media/16f718_043e61f187e546749e0f3c87556bb300~mv2.jpg"
  },
  {
-   "categoria": "Azeite",
-   "nome": "Azeite Aromatizado - Peixe",
-   "preco": 7,
+   "categoria": "Bebidas",
+   "nome": "Kombucha Cereja do Fundão",
+   "preco": 3.8,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_2a5eff2c694c407b8ee08cdb49d931d7~mv2.jpg"
- },
- {
-   "categoria": "Azeite",
-   "nome": "Azeite Aromatizado - Massas",
-   "preco": 7,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_5fa9490681a043afb71c938453a39453~mv2.jpg"
- },
- {
-   "categoria": "Azeite",
-   "nome": "Azeite Aromatizado - Carne",
-   "preco": 7,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_e55689510a58439fa8aad2af31f1a493~mv2.jpg"
+  "imagem": "https://static.wixstatic.com/media/16f718_4e2e20cc689748f9bb38f941b7016e16~mv2.png"
  },
  {
    "categoria": "Bebidas",
@@ -134,14 +142,6 @@
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_71b5ca43537247e9b457dd17f4e2ceaa~mv2.png"
- },
-{
-   "categoria": "Bebidas",
-   "nome": "Kombucha Cereja do Fundão",
-   "preco": 3.8,
-   "tipo": "unidade",
-  "stock": 1,
-  "imagem": "https://static.wixstatic.com/media/16f718_4e2e20cc689748f9bb38f941b7016e16~mv2.png"
  },
  {
    "categoria": "Bebidas",
@@ -175,31 +175,7 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_8553ec7b37c547cfbc093cb1c15c2738~mv2.png"
  },
- {
-   "categoria": "Bebidas",
-   "nome": "Vinho Porto",
-   "preco": 2.9,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_466a57c4bbf44081bbca1161bc6c47eb~mv2.jpg"
- },
- {
-   "categoria": "Bebidas",
-   "nome": "Licor Menta",
-   "preco": 10,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_0cdb4e7d528b47aca10d45ae416bbb77~mv2.jpg"
- },
- {
-   "categoria": "Bebidas",
-   "nome": "Licor Pessegueiro",
-   "preco": 10,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_ebd1d772dc3f4afcba60cfd8a444c62c~mv2.jpg"
- },
- {
+  {
    "categoria": "Bebidas",
    "nome": "Licor Figueira",
    "preco": 10,
@@ -207,7 +183,23 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_786f9013099842dd9a496f68cb91e113~mv2.jpg"
  },
- {
+  {
+   "categoria": "Bebidas",
+   "nome": "Licor Menta",
+   "preco": 10,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_0cdb4e7d528b47aca10d45ae416bbb77~mv2.jpg"
+ },
+  {
+   "categoria": "Bebidas",
+   "nome": "Licor Pessegueiro",
+   "preco": 10,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_ebd1d772dc3f4afcba60cfd8a444c62c~mv2.jpg"
+ },
+  {
    "categoria": "Bebidas",
    "nome": "Licor Café",
    "preco": 4.4,
@@ -215,7 +207,39 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_d52f313271fd403181678c907b92538e~mv2.jpg"
  },
- {
+  {
+   "categoria": "Bebidas",
+   "nome": "Licor Maracujá",
+   "preco": 4.4,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_63c6a2079d3a4871803943f97d1db116~mv2.jpg"
+ },
+  {
+   "categoria": "Bebidas",
+   "nome": "Licor Mirtilo",
+   "preco": 4.4,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_a4d8227131c04df0b4c2d95ff7dd6ef6~mv2.jpg"
+ },
+  {
+   "categoria": "Bebidas",
+   "nome": "Licor Tangerina",
+   "preco": 4.4,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_51c7e4eff89d4237a2da8bdf1e2eb9c1~mv2.jpg"
+ },
+  {
+   "categoria": "Bebidas",
+   "nome": "Licor Ginja Óbidos",
+   "preco": 6,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_4d8314ea097946dab5f2027cadeb5134~mv2.jpg"
+ },
+  {
    "categoria": "Bebidas",
    "nome": "Mateus Rosé",
    "preco": 2.85,
@@ -225,35 +249,11 @@
  },
  {
    "categoria": "Bebidas",
-   "nome": "Licor Tangerina",
-   "preco": 4.4,
+   "nome": "Vinho Porto",
+   "preco": 2.9,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_51c7e4eff89d4237a2da8bdf1e2eb9c1~mv2.jpg"
- },
- {
-   "categoria": "Bebidas",
-   "nome": "Licor Ginja Óbidos",
-   "preco": 6,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_4d8314ea097946dab5f2027cadeb5134~mv2.jpg"
- },
- {
-   "categoria": "Bebidas",
-   "nome": "Licor Maracujá",
-   "preco": 4.4,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_63c6a2079d3a4871803943f97d1db116~mv2.jpg"
- },
- {
-   "categoria": "Bebidas",
-   "nome": "Licor Mirtilo",
-   "preco": 4.4,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_a4d8227131c04df0b4c2d95ff7dd6ef6~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_466a57c4bbf44081bbca1161bc6c47eb~mv2.jpg"
  },
  {
    "categoria": "Bolachas",
