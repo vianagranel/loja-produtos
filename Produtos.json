@@ -639,6 +639,158 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_1a9e0c2d44e246aa8cc5031c025f6bb6~mv2.jpg"
  },
+  {
+   "categoria": "Chás",
+   "nome": "Camomila",
+   "preco": 50,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_0d4996b86aae4a74b4d386fcd2f37d4d~mv2.jpg"
+ },
+  {
+   "categoria": "Chás",
+   "nome": "Canela e Gengibre",
+   "preco": 37.5,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_c8efa27c1bd24aa697a5c45c1b7d5da0~mv2.jpg"
+ },
+  {
+   "categoria": "Chás",
+   "nome": "Carqueja",
+   "preco": 45,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_5888cf27ac71469f998cc858f4a58674~mv2.jpg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Cavalinha",
+   "preco": 25,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_3e2c18e5aa2143a1876997a59a83f3c1~mv2.jpg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Dente de Leão",
+   "preco": 35,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_a2f11d853751446a8d7742a5fcdd074b~mv2.jpg"
+ },
+{
+   "categoria": "Chás",
+   "nome": "Erva Cidreira",
+   "preco": 40,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_3bed8836d3374b49a4745b8bfa52963f~mv2.jpg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Erva Príncipe",
+   "preco": 30,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_ce83597164084f0da9ecb4a88e9d7554~mv2.jpg"
+ },
+  {
+   "categoria": "Chás",
+   "nome": "Hibisco",
+   "preco": 30,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_b5213540dec94ddf930c5db06966c689~mv2.jpg"
+ },
+  {
+   "categoria": "Chás",
+   "nome": "Laranja e Menta",
+   "preco": 50,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_d43bb5fcb64647628933791e71b3d1a5~mv2.jpg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Limão e Gengibre",
+   "preco": 75,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_8f1276f664e34502b7ba6862949079a3~mv2.jpg"
+ },
+  {
+   "categoria": "Chás",
+   "nome": "Limonete",
+   "preco": 50,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_4002789e432248668c442e99bfb230dc~mv2.jpg"
+ },
+  {
+   "categoria": "Chás",
+   "nome": "Tília",
+   "preco": 61,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_7c6712fd2835446dabacbf6fe9dddcc2~mv2.jpg"
+ },
+   {
+   "categoria": "Chás",
+   "nome": "Tisana Calmante",
+   "preco": 55,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_dff9d14657a94f17bfeec85bbff34d54~mv2.jpg"
+ },
+  {
+   "categoria": "Chás",
+   "nome": "Preto Assam",
+   "preco": 60,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_41d4cd055b044155ae1f0b67076949ab~mv2.jpg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Preto Himalaya",
+   "preco": 55,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_96596f1ea3e84441ae51ee83a79b3731~mv2.jpg"
+ },
+  {
+   "categoria": "Chás",
+   "nome": "Verde Sencha",
+   "preco": 60,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_410912248e1c45b1855de9abe5d55da9~mv2.jpg"
+ },
+ {
+   "categoria": "Chás",
+   "nome": "Infusão Banana/Baunilha",
+   "preco": 5.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_5e798f5a96844b5f8bb06b06139d9a0a~mv2.png"
+ },
+  {
+   "categoria": "Chás",
+   "nome": "Infusão Erva Doce",
+   "preco": 5.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_71f456bfc5ff41c39b4ce6e37d018946~mv2.jpeg"
+ },
+  {
+   "categoria": "Chás",
+   "nome": "Infusão Rooibos",
+   "preco": 5.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_dbddf18782b24356908b730afff28de9~mv2.jpeg"
+ },
  {
    "categoria": "Chás",
    "nome": "Caramelo Salgado",
@@ -657,141 +809,21 @@
  },
  {
    "categoria": "Chás",
-   "nome": "Infusão Erva Doce",
-   "preco": 5.5,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_71f456bfc5ff41c39b4ce6e37d018946~mv2.jpeg"
- },
- {
-   "categoria": "Chás",
    "nome": "Infusão Romã",
    "preco": 5.5,
    "tipo": "unidade",
   "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_fb69286d0ea044ea9f712b69d4c80709~mv2.jpeg"
  },
- {
+  {
    "categoria": "Chás",
-   "nome": "Infusor",
-   "preco": 2.9,
+   "nome": "Sombra do Sobreiro",
+   "preco": 4.9,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_c2884f8d2a0445bfbfd8fbb56b16e1f0~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_66eaf3ac11dc42d193cfbe67f29a25ef~mv2.jpg"
  },
- {
-   "categoria": "Chás",
-   "nome": "Erva Cidreira",
-   "preco": 40,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_3bed8836d3374b49a4745b8bfa52963f~mv2.jpg"
- },
- {
-   "categoria": "Chás",
-   "nome": "Limonete",
-   "preco": 50,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_4002789e432248668c442e99bfb230dc~mv2.jpg"
- },
- {
-   "categoria": "Chás",
-   "nome": "Verde Sencha",
-   "preco": 60,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_410912248e1c45b1855de9abe5d55da9~mv2.jpg"
- },
- {
-   "categoria": "Chás",
-   "nome": "Laranja e Menta",
-   "preco": 50,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_d43bb5fcb64647628933791e71b3d1a5~mv2.jpg"
- },
- {
-   "categoria": "Chás",
-   "nome": "Infusão Banana/Baunilha",
-   "preco": 5.5,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_5e798f5a96844b5f8bb06b06139d9a0a~mv2.png"
- },
- {
-   "categoria": "Chás",
-   "nome": "Infusão Rooibos",
-   "preco": 5.5,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_dbddf18782b24356908b730afff28de9~mv2.jpeg"
- },
- {
-   "categoria": "Chás",
-   "nome": "Erva Príncipe",
-   "preco": 30,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_ce83597164084f0da9ecb4a88e9d7554~mv2.jpg"
- },
- {
-   "categoria": "Chás",
-   "nome": "Canela e Gengibre",
-   "preco": 37.5,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_c8efa27c1bd24aa697a5c45c1b7d5da0~mv2.jpg"
- },
- {
-   "categoria": "Chás",
-   "nome": "Preto Assam",
-   "preco": 60,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_41d4cd055b044155ae1f0b67076949ab~mv2.jpg"
- },
- {
-   "categoria": "Chás",
-   "nome": "Preto Himalaya",
-   "preco": 55,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_96596f1ea3e84441ae51ee83a79b3731~mv2.jpg"
- },
- {
-   "categoria": "Chás",
-   "nome": "Camomila",
-   "preco": 50,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_0d4996b86aae4a74b4d386fcd2f37d4d~mv2.jpg"
- },
- {
-   "categoria": "Chás",
-   "nome": "Cavalinha",
-   "preco": 25,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_3e2c18e5aa2143a1876997a59a83f3c1~mv2.jpg"
- },
- {
-   "categoria": "Chás",
-   "nome": "Tília",
-   "preco": 61,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_7c6712fd2835446dabacbf6fe9dddcc2~mv2.jpg"
- },
- {
-   "categoria": "Chás",
-   "nome": "Carqueja",
-   "preco": 45,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_5888cf27ac71469f998cc858f4a58674~mv2.jpg"
- },
- {
+  {
    "categoria": "Chás",
    "nome": "Vento do Sul",
    "preco": 4.9,
@@ -801,35 +833,11 @@
  },
  {
    "categoria": "Chás",
-   "nome": "Sombra do Sobreiro",
-   "preco": 4.9,
+   "nome": "Infusor",
+   "preco": 2.9,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_66eaf3ac11dc42d193cfbe67f29a25ef~mv2.jpg"
- },
- {
-   "categoria": "Chás",
-   "nome": "Hibisco",
-   "preco": 30,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_b5213540dec94ddf930c5db06966c689~mv2.jpg"
- },
- {
-   "categoria": "Chás",
-   "nome": "Limão e Gengibre",
-   "preco": 75,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_8f1276f664e34502b7ba6862949079a3~mv2.jpg"
- },
-  {
-   "categoria": "Chás",
-   "nome": "Tisana Calmante",
-   "preco": 55,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_dff9d14657a94f17bfeec85bbff34d54~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_c2884f8d2a0445bfbfd8fbb56b16e1f0~mv2.jpg"
  },
  {
    "categoria": "Chocolates",
