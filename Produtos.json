@@ -431,17 +431,9 @@
   "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_373c2065e2a640ff8ef8fafac5b6edb3~mv2.jpg"
  },
- {
+  {
    "categoria": "Café",
-   "nome": "Café Grão - Príncipe",
-   "preco": 7.9,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_984fe3db57284fbd81fe98999b0b5ae6~mv2.jpeg"
- },
- {
-   "categoria": "Café",
-   "nome": "Café Grão - Loreto",
+   "nome": "Grão - Loreto",
    "preco": 7.9,
    "tipo": "unidade",
   "stock": 1,
@@ -449,15 +441,15 @@
  },
  {
    "categoria": "Café",
-   "nome": "Café Moído - Príncipe",
+   "nome": "Grão - Príncipe",
    "preco": 7.9,
    "tipo": "unidade",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_a6a684bc1d8e42a99ae3a33f8e628780~mv2.jpg"
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_984fe3db57284fbd81fe98999b0b5ae6~mv2.jpeg"
  },
  {
    "categoria": "Café",
-   "nome": "Café Moído - Loreto",
+   "nome": "Moído - Loreto",
    "preco": 7.9,
    "tipo": "unidade",
   "stock": 0,
@@ -465,7 +457,15 @@
  },
  {
    "categoria": "Café",
-   "nome": "Café Cápsulas - Honduras",
+   "nome": "Moído - Príncipe",
+   "preco": 7.9,
+   "tipo": "unidade",
+  "stock": 0,
+   "imagem": "https://static.wixstatic.com/media/16f718_a6a684bc1d8e42a99ae3a33f8e628780~mv2.jpg"
+ },
+ {
+   "categoria": "Café",
+   "nome": "Cápsulas - Honduras",
    "preco": 9,
    "tipo": "unidade",
   "stock": 1,
@@ -473,51 +473,35 @@
  },
  {
    "categoria": "Café",
-   "nome": "Café Cápsulas - Peru",
+   "nome": "Cápsulas - Peru",
    "preco": 9,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_1c1fe84de8964b8e93ac9bf78cce2564~mv2.jpg"
  },
- {
+  {
    "categoria": "Cereais",
-   "nome": "Arroz Vermelho",
-   "preco": 2.75,
-   "tipo": "unidade",
+   "nome": "Amaranto ",
+   "preco": 7.5,
+   "tipo": "gramas",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_d6bc2e13d4bd4e8787c7dbe466b26f38~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_17494216c2b54ca59119caf084cd9c7f~mv2.jpg"
  },
- {
+  {
    "categoria": "Cereais",
-   "nome": "Arroz Preto",
-   "preco": 3.2,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_a42d10d3ddc54c8e93c2ce4f827e9b98~mv2.jpg"
- },
- {
-   "categoria": "Cereais",
-   "nome": "Sêmola de Milho",
+   "nome": "Bulgur ",
    "preco": 6,
    "tipo": "gramas",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_719085fff4714affa61271b70b947e54~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_98d3c5d20e7b453c9ce4578c6ce7e651~mv2.jpg"
  },
- {
+  {
    "categoria": "Cereais",
-   "nome": "Quinoa Vermelha ",
-   "preco": 12,
+   "nome": "Couscous Trigo Integral",
+   "preco": 6,
    "tipo": "gramas",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_9a6a08db9f8948618dc5e07f853207ae~mv2.jpg"
- },
- {
-   "categoria": "Cereais",
-   "nome": "Arroz Jasmim ",
-   "preco": 2.85,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_546a2754d2e9457c8787a207d8507b8e~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_2fe036647a3a47cfb733ddc1ca85c13d~mv2.jpg"
  },
  {
    "categoria": "Cereais",
@@ -527,31 +511,7 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_d1fb962e3a5c4987a0c668a35794c742~mv2.jpg"
  },
- {
-   "categoria": "Cereais",
-   "nome": "Cuscuz Trigo Integral",
-   "preco": 6,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_2fe036647a3a47cfb733ddc1ca85c13d~mv2.jpg"
- },
- {
-   "categoria": "Cereais",
-   "nome": "Amaranto ",
-   "preco": 7.5,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_17494216c2b54ca59119caf084cd9c7f~mv2.jpg"
- },
- {
-   "categoria": "Cereais",
-   "nome": "Bulgur ",
-   "preco": 6,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_98d3c5d20e7b453c9ce4578c6ce7e651~mv2.jpg"
- },
- {
+  {
    "categoria": "Cereais",
    "nome": "Millet  ",
    "preco": 7,
@@ -559,7 +519,7 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_6c1d81f228b84ebbbac3d200bbddd01c~mv2.jpg"
  },
- {
+  {
    "categoria": "Cereais",
    "nome": "Quinoa Branca",
    "preco": 14,
@@ -567,7 +527,47 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_787bd1037b5b4765a4f611d8a4e23676~mv2.jpg"
  },
+  {
+   "categoria": "Cereais",
+   "nome": "Quinoa Vermelha ",
+   "preco": 12,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_9a6a08db9f8948618dc5e07f853207ae~mv2.jpg"
+ },
+  {
+   "categoria": "Cereais",
+   "nome": "Sêmola de Milho",
+   "preco": 6,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_719085fff4714affa61271b70b947e54~mv2.jpg"
+ },
+  {
+   "categoria": "Cereais",
+   "nome": "Arroz Jasmim ",
+   "preco": 2.85,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_546a2754d2e9457c8787a207d8507b8e~mv2.jpg"
+ },
+  {
+   "categoria": "Cereais",
+   "nome": "Arroz Preto",
+   "preco": 3.2,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_a42d10d3ddc54c8e93c2ce4f827e9b98~mv2.jpg"
+ },
  {
+   "categoria": "Cereais",
+   "nome": "Arroz Vermelho",
+   "preco": 2.75,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_d6bc2e13d4bd4e8787c7dbe466b26f38~mv2.jpg"
+ },
+  {
    "categoria": "Cereais Peq Almoço",
    "nome": "Corn Flakes ",
    "preco": 14,
@@ -612,7 +612,7 @@
    "nome": "Granola 3 Cereais",
    "preco": 17,
    "tipo": "gramas",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_93acf1176b794525a14143dd556a3128~mv2.jpg"
  },
  {
@@ -623,6 +623,14 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_3d8577ac21a2492d9ed2cafa496ad05b~mv2.jpg"
  },
+  {
+   "categoria": "Champô",
+   "nome": "Champô Sólido - Oleoso",
+   "preco": 6.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_a2cbbc1829ec4c7295c4718faa941365~mv2.jpg"
+ },
  {
    "categoria": "Champô",
    "nome": "Champô Sólido - Seco",
@@ -630,14 +638,6 @@
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_1a9e0c2d44e246aa8cc5031c025f6bb6~mv2.jpg"
- },
- {
-   "categoria": "Champô",
-   "nome": "Champô Sólido - Oleoso",
-   "preco": 6.5,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_a2cbbc1829ec4c7295c4718faa941365~mv2.jpg"
  },
  {
    "categoria": "Chás",
