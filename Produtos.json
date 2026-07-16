@@ -65,7 +65,7 @@
  },
  {
    "categoria": "Azeite",
-   "nome": "Azeite Aromatizado - Peixe",
+   "nome": "Azeite Aromatizado - Peixes",
    "preco": 7,
    "tipo": "unidade",
   "stock": 1,
@@ -263,37 +263,29 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_9fb66cbad3194cc0acc4d2528ed76791~mv2.jpg"
  },
- {
+  {
+   "categoria": "Bolachas",
+   "nome": "Biscoitos Aveia e Passas",
+   "preco": 4.75,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_ca3fc68aee474716ac74de3767b4ea81~mv2.jpg"
+ },
+  {
+   "categoria": "Bolachas",
+   "nome": "Biscoitos Canela",
+   "preco": 4.8,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_d68273b054324435bab33c74a0dce1ae~mv2.jpg"
+ },
+  {
    "categoria": "Bolachas",
    "nome": "Biscoitos Chocolate",
-   "preco": 5,
+   "preco": 4.8,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_dd04685a333c4501b4138ee40882dae3~mv2.webp"
- },
- {
-   "categoria": "Bolachas",
-   "nome": "Biscoitos Amêndoa",
-   "preco": 5,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_e68a52c8e3e044da9a55e076e97b7441~mv2.webp"
- },
- {
-   "categoria": "Bolachas",
-   "nome": "Biscoitos Ananás e Gengibre",
-   "preco": 5,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_0c8da4e533c84cfd9b3cbe71abb2dd98~mv2.webp"
- },
- {
-   "categoria": "Bolachas",
-   "nome": "Paciências",
-   "preco": 2.9,
-   "tipo": "unidade",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_2bc4c88f11a948359f07cece5a911819~mv2.webp"
+   "imagem": "https://static.wixstatic.com/media/16f718_4d195f5051d44cec8646ea3b3ad69b56~mv2.jpg"
  },
  {
    "categoria": "Bolachas",
@@ -305,69 +297,37 @@
  },
  {
    "categoria": "Bolachas",
-   "nome": "Ondina Alho e Oregãos",
-   "preco": 3,
+   "nome": "Biscoitos Amêndoa",
+   "preco": 5,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_7fc347f39d5941019354d13cfb7916da~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_e68a52c8e3e044da9a55e076e97b7441~mv2.webp"
  },
- {
+  {
    "categoria": "Bolachas",
-   "nome": "Palitos Simples",
-   "preco": 3,
+   "nome": "Biscoitos Ananás e Gengibre",
+   "preco": 5,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_ebc8b4e322f9496fbd4a0202172cf5d4~mv2.jpg"
- },
- {
-   "categoria": "Bolachas",
-   "nome": "Biscoitos Aveia e Passas",
-   "preco": 4.75,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_ca3fc68aee474716ac74de3767b4ea81~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_0c8da4e533c84cfd9b3cbe71abb2dd98~mv2.webp"
  },
  {
    "categoria": "Bolachas",
    "nome": "Biscoitos Chocolate",
-   "preco": 4.8,
+   "preco": 5,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_4d195f5051d44cec8646ea3b3ad69b56~mv2.jpg"
- },
- {
-   "categoria": "Bolachas",
-   "nome": "Palitos Azeitona",
-   "preco": 3,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_bf52025fd17c44ed818b3d15fb6dd771~mv2.jpg"
- },
- {
-   "categoria": "Bolachas",
-   "nome": "Palitos Alho",
-   "preco": 3,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_f105ae9ddbef47abb0cb2fbcb1e06f19~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_dd04685a333c4501b4138ee40882dae3~mv2.webp"
  },
   {
    "categoria": "Bolachas",
-   "nome": "Palitos Sésamo",
-   "preco": 3,
+   "nome": "Capinhas Chocolate",
+   "preco": 4,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_04c02657b2804d02b69292765efead2a~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_b2f029115bd543b4bfad73b771c4730c~mv2.jpg"
  },
- {
-   "categoria": "Bolachas",
-   "nome": "Biscoitos Canela",
-   "preco": 4.8,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_d68273b054324435bab33c74a0dce1ae~mv2.jpg"
- },
- {
+  {
    "categoria": "Bolachas",
    "nome": "Capinhas Doces",
    "preco": 3.5,
@@ -383,7 +343,15 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_c1a1a47aadef467db7bfe1afefd7a17f~mv2.jpg"
  },
-  {
+ {
+   "categoria": "Bolachas",
+   "nome": "Ondina Alho e Oregãos",
+   "preco": 3,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_7fc347f39d5941019354d13cfb7916da~mv2.jpg"
+ },
+   {
    "categoria": "Bolachas",
    "nome": "Capinhas Papoila",
    "preco": 3.5,
@@ -391,7 +359,7 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_aa2c4139d73245a2b0e3b4ba1f794b4a~mv2.jpg"
  },
- {
+  {
    "categoria": "Bolachas",
    "nome": "Ondina Malagueta",
    "preco": 3,
@@ -399,15 +367,7 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_f3053869a29c454686dee6ed29a1c817~mv2.jpg"
  },
-  {
-   "categoria": "Bolachas",
-   "nome": "Ondina Mar",
-   "preco": 3,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_babb8776205246848b355192c4321a25~mv2.jpg"
- },
-   {
+ {
    "categoria": "Bolachas",
    "nome": "Ondina Sésamo",
    "preco": 3,
@@ -415,23 +375,55 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_b550182277b14d83be675a2de16477cd~mv2.jpg"
  },
- {
+   {
    "categoria": "Bolachas",
-   "nome": "Bolacha Sete Folhas",
+   "nome": "Ondina Mar",
+   "preco": 3,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_babb8776205246848b355192c4321a25~mv2.jpg"
+ },
+  {
+   "categoria": "Bolachas",
+   "nome": "Sete Folhas",
    "preco": 3.5,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_a0b35f1307d949f89acdb4f7d2b199d4~mv2.jpg"
  },
- {
+  {
    "categoria": "Bolachas",
-   "nome": "Capinhas Chocolate",
-   "preco": 4,
+   "nome": "Palitos Alho",
+   "preco": 3,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_b2f029115bd543b4bfad73b771c4730c~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_f105ae9ddbef47abb0cb2fbcb1e06f19~mv2.jpg"
  },
   {
+   "categoria": "Bolachas",
+   "nome": "Palitos Azeitona",
+   "preco": 3,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_bf52025fd17c44ed818b3d15fb6dd771~mv2.jpg"
+ },
+  {
+   "categoria": "Bolachas",
+   "nome": "Palitos Sésamo",
+   "preco": 3,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_04c02657b2804d02b69292765efead2a~mv2.jpg"
+ },
+ {
+   "categoria": "Bolachas",
+   "nome": "Palitos Simples",
+   "preco": 3,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_ebc8b4e322f9496fbd4a0202172cf5d4~mv2.jpg"
+ },
+{
    "categoria": "Bolachas",
    "nome": "Rolo Goiabada",
    "preco": 11.8,
