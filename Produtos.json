@@ -1649,13 +1649,13 @@
  },
  {
    "categoria": "Frutos Secos",
-   "nome": "Miolo Noz Pecan",
-   "preco": 30,
+   "nome": "Amêndoa c/ Pele",
+   "preco": 20,
    "tipo": "gramas",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_77f3090437d2474f8e093d9b1f65af1f~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_0939b6f921dd4df687f675f3abe6fb54~mv2.jpg"
  },
- {
+  {
    "categoria": "Frutos Secos",
    "nome": "Amendoim Torrado",
    "preco": 13,
@@ -1663,15 +1663,7 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_f4a3d782dff74f56afd6d8eca0070a1b~mv2.jpg"
  },
- {
-   "categoria": "Frutos Secos",
-   "nome": "Amêndoa c/ Pele",
-   "preco": 20,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_0939b6f921dd4df687f675f3abe6fb54~mv2.jpg"
- },
- {
+  {
    "categoria": "Frutos Secos",
    "nome": "Avelã Torrada",
    "preco": 35,
@@ -1679,15 +1671,7 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_98a6d47c2e0d4b96a46cfd2654173f2e~mv2.jpg"
  },
- {
-   "categoria": "Frutos Secos",
-   "nome": "Caju Torrado",
-   "preco": 33,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_6f7a4525f3b149b98f143120bd43f7c2~mv2.jpg"
- },
- {
+  {
    "categoria": "Frutos Secos",
    "nome": "Caju Natural",
    "preco": 24,
@@ -1695,15 +1679,15 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_f712f00891e546f78a1c7619067efd1e~mv2.jpg"
  },
- {
+  {
    "categoria": "Frutos Secos",
-   "nome": "Miolo Noz",
-   "preco": 24,
+   "nome": "Caju Torrado",
+   "preco": 33,
    "tipo": "gramas",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_7a29dc143ab94a38b778b7f3fae8a19e~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_6f7a4525f3b149b98f143120bd43f7c2~mv2.jpg"
  },
- {
+  {
    "categoria": "Frutos Secos",
    "nome": "Castanha Maranhão",
    "preco": 41,
@@ -1713,19 +1697,123 @@
  },
   {
    "categoria": "Frutos Secos",
-   "nome": "Pistachio Torrado s/ Sal",
-   "preco": 29,
+   "nome": "Miolo Noz",
+   "preco": 24,
    "tipo": "gramas",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_43cb1c64cd104574a00397d141bf01ea~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_7a29dc143ab94a38b778b7f3fae8a19e~mv2.jpg"
  },
  {
+   "categoria": "Frutos Secos",
+   "nome": "Miolo Noz Pecan",
+   "preco": 30,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_77f3090437d2474f8e093d9b1f65af1f~mv2.jpg"
+ },
+{
    "categoria": "Frutos Secos",
    "nome": "Mix Japonês",
    "preco": 20,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_0a093fadad9b45eb918663d9d686fe8e~mv2.jpg"
+ },
+  {
+   "categoria": "Frutos Secos",
+   "nome": "Pistachio Torrado s/ Sal",
+   "preco": 29,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_43cb1c64cd104574a00397d141bf01ea~mv2.jpg"
+ },
+  {
+   "categoria": "Leguminosas",
+   "nome": "Ervilhas Secas",
+   "preco": 5.8,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_7c084dfe1683434e843257ae330fd82e~mv2.jpg"
+ },
+  {
+   "categoria": "Leguminosas",
+   "nome": "Feijão Azuki",
+   "preco": 8.5,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_68ea1c22c25643629ea1e01f7b71ee9f~mv2.jpg"
+ },
+  {
+   "categoria": "Leguminosas",
+   "nome": "Feijão Branco",
+   "preco": 6,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_fc3582ec08f24271ac6f26abbcf13809~mv2.jpg"
+ },
+  {
+   "categoria": "Leguminosas",
+   "nome": "Feijão Frade",
+   "preco": 5,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_25cc6b46299b4ade93568f67aeb26276~mv2.jpg"
+ },
+  {
+   "categoria": "Leguminosas",
+   "nome": "Feijão Manteiga",
+   "preco": 5,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_6e2b00a18cbc4681b2bcafd16e2c987f~mv2.jpg"
+ },
+  {
+   "categoria": "Leguminosas",
+   "nome": "Feijão Mung",
+   "preco": 10,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_363454bd178a4d14a211597169faea1c~mv2.jpg"
+ },
+  {
+   "categoria": "Leguminosas",
+   "nome": "Feijão Preto",
+   "preco": 5.5,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_55dc7be25b904287971e90b91c438e30~mv2.jpg"
+ },
+   {
+   "categoria": "Leguminosas",
+   "nome": "Feijão de Soja",
+   "preco": 6,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_dac926355f7c4e7d8944b4bba03677e6~mv2.jpg"
+ },
+  {
+   "categoria": "Leguminosas",
+   "nome": "Feijão Vermelho",
+   "preco": 5,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_d8bc2fc8fcea4c7f9ad401663ecb3b97~mv2.jpg"
+ },
+  {
+   "categoria": "Leguminosas",
+   "nome": "Feijoca",
+   "preco": 6,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_085d2d1181a343dbb9490c11159c4ac3~mv2.jpg"
+ },
+ {
+   "categoria": "Leguminosas",
+   "nome": "Grão de Bico",
+   "preco": 5,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_39ce5af937de406585261f73ba861160~mv2.jpg"
  },
  {
    "categoria": "Leguminosas",
@@ -1735,45 +1823,13 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_7e2edcec317f44af9adeaa0923c1ee4e~mv2.jpg"
  },
- {
+{
    "categoria": "Leguminosas",
-   "nome": "Feijão Azuki",
-   "preco": 8.5,
+   "nome": "Lentilha Castanha",
+   "preco": 7,
    "tipo": "gramas",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_68ea1c22c25643629ea1e01f7b71ee9f~mv2.jpg"
- },
- {
-   "categoria": "Leguminosas",
-   "nome": "Feijão Vermelho",
-   "preco": 5,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_d8bc2fc8fcea4c7f9ad401663ecb3b97~mv2.jpg"
- },
- {
-   "categoria": "Leguminosas",
-   "nome": "Feijão Branco",
-   "preco": 6,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_fc3582ec08f24271ac6f26abbcf13809~mv2.jpg"
- },
- {
-   "categoria": "Leguminosas",
-   "nome": "Feijão Preto",
-   "preco": 5.5,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_55dc7be25b904287971e90b91c438e30~mv2.jpg"
- },
- {
-   "categoria": "Leguminosas",
-   "nome": "Grão de Bico",
-   "preco": 5,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_39ce5af937de406585261f73ba861160~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_3d9a8f6c464240cc99f69c3c01e1f527~mv2.jpg"
  },
  {
    "categoria": "Leguminosas",
@@ -1790,62 +1846,6 @@
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_90728637586945bb8e60f9671838f5e7~mv2.jpg"
- },
- {
-   "categoria": "Leguminosas",
-   "nome": "Lentilha Castanha",
-   "preco": 7,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_3d9a8f6c464240cc99f69c3c01e1f527~mv2.jpg"
- },
- {
-   "categoria": "Leguminosas",
-   "nome": "Feijão Frade",
-   "preco": 5,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_25cc6b46299b4ade93568f67aeb26276~mv2.jpg"
- },
- {
-   "categoria": "Leguminosas",
-   "nome": "Feijão Manteiga",
-   "preco": 5,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_6e2b00a18cbc4681b2bcafd16e2c987f~mv2.jpg"
- },
- {
-   "categoria": "Leguminosas",
-   "nome": "Feijoca",
-   "preco": 6,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_085d2d1181a343dbb9490c11159c4ac3~mv2.jpg"
- },
- {
-   "categoria": "Leguminosas",
-   "nome": "Feijão de Soja",
-   "preco": 6,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_dac926355f7c4e7d8944b4bba03677e6~mv2.jpg"
- },
- {
-   "categoria": "Leguminosas",
-   "nome": "Ervilhas Secas",
-   "preco": 5.8,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_7c084dfe1683434e843257ae330fd82e~mv2.jpg"
- },
- {
-   "categoria": "Leguminosas",
-   "nome": "Feijão Mung",
-   "preco": 10,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_363454bd178a4d14a211597169faea1c~mv2.jpg"
  },
  {
    "categoria": "Massas",
