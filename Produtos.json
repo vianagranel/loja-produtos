@@ -2049,19 +2049,19 @@
  },
   {
    "categoria": "Refeições",
-   "nome": "Azeitona Verde",
-   "preco": 2.8,
-   "tipo": "unidade",
-   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_615941983eb6493786d9eaa7d5fbc060~mv2.jpg"
- },
- {
-   "categoria": "Refeições",
    "nome": "Azeitona Preta",
    "preco": 2.8,
    "tipo": "unidade",
    "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_55dee2aa00da4887a5945822c807954c~mv2.jpg"
+ },
+  {
+   "categoria": "Refeições",
+   "nome": "Azeitona Verde",
+   "preco": 2.8,
+   "tipo": "unidade",
+   "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_615941983eb6493786d9eaa7d5fbc060~mv2.jpg"
  },
  {
    "categoria": "Sabonetes",
@@ -2079,13 +2079,13 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_553a642c73504bce85599bcd4a4a2375~mv2.jpg"
  },
- {
+  {
    "categoria": "Sabonetes",
-   "nome": "Sabonete Carvão",
+   "nome": "Sabonete Campestre",
    "preco": 6,
    "tipo": "unidade",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_5fd57d04a7024b0587345ea076df15a7~mv2.jpg"
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_eb73b9e366bc40ef835def29a02a09a5~mv2.jpg"
  },
  {
    "categoria": "Sabonetes",
@@ -2094,14 +2094,6 @@
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_529df0cfd2a14e81a78c55c3b47f3773~mv2.jpg"
- },
- {
-   "categoria": "Sabonetes",
-   "nome": "Sabonete Campestre",
-   "preco": 6,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_eb73b9e366bc40ef835def29a02a09a5~mv2.jpg"
  },
  {
    "categoria": "Sabonetes",
@@ -2137,6 +2129,38 @@
  },
  {
    "categoria": "Sabonetes",
+   "nome": "Sabonete Azeite",
+   "preco": 4.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_d94077f55a0a49c6b94bb7aeaa5d0849~mv2.avif"
+ },
+  {
+   "categoria": "Sabonetes",
+   "nome": "Sabonete Jasmim",
+   "preco": 4.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_a8ca0904c29542f1813ef8ce22ee374d~mv2.avif"
+ },
+   {
+   "categoria": "Sabonetes",
+   "nome": "Sabonete Laranja",
+   "preco": 4.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_300b6d68a50143168dc5e0e454261676~mv2.avif"
+ },
+    {
+   "categoria": "Sabonetes",
+   "nome": "Sabonete Maresia",
+   "preco": 4.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_17f4abe7dffd4b11878f85ef842e7048~mv2.avif"
+ },
+ {
+   "categoria": "Sabonetes",
    "nome": "Sabonete Sal e Areia",
    "preco": 4.5,
    "tipo": "unidade",
@@ -2145,69 +2169,13 @@
  },
   {
    "categoria": "Sabonetes",
-   "nome": "Sabonete Laranja",
-   "preco": 4.5,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_300b6d68a50143168dc5e0e454261676~mv2.avif"
- },
-   {
-   "categoria": "Sabonetes",
-   "nome": "Sabonete Maresia",
-   "preco": 4.5,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_17f4abe7dffd4b11878f85ef842e7048~mv2.avif"
- },
-   {
-   "categoria": "Sabonetes",
-   "nome": "Sabonete Verbena",
-   "preco": 4.5,
-   "tipo": "unidade",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_52cea86349bd42bebe46786bbfd31cf2~mv2.avif"
- },
- {
-   "categoria": "Sabonetes",
-   "nome": "Sabonete Jasmim",
-   "preco": 4.5,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_a8ca0904c29542f1813ef8ce22ee374d~mv2.avif"
- },
- {
-   "categoria": "Sabonetes",
-   "nome": "Sabonete Azeite",
-   "preco": 4.5,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_d94077f55a0a49c6b94bb7aeaa5d0849~mv2.avif"
- },
- {
-   "categoria": "Sabonetes",
-   "nome": "Sabonete Vinho",
-   "preco": 3.9,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_e1fc5b2c92e6429fa125071baf47e95b~mv2.avif"
- },
- {
-   "categoria": "Sabonetes",
    "nome": "Sabonete Citrino",
    "preco": 3.9,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_9f7f918f706d4bd4b60fcf0c57e99cef~mv2.avif"
  },
- {
-   "categoria": "Sabonetes",
-   "nome": "Sabonete Pinho",
-   "preco": 3.9,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_67547dbb6e324ee491eff369520c2ddf~mv2.avif"
- },
- {
+  {
    "categoria": "Sabonetes",
    "nome": "Sabonete Figo",
    "preco": 3.9,
@@ -2217,6 +2185,30 @@
  },
  {
    "categoria": "Sabonetes",
+   "nome": "Sabonete Lavanda",
+   "preco": 3.9,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_f99f762bacd241a49fc4b16b8a2f8bfc~mv2.avif"
+ },
+   {
+   "categoria": "Sabonetes",
+   "nome": "Sabonete Mel",
+   "preco": 3.9,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_a55dd1636d794449a3fea63ea26dccfc~mv2.avif"
+ },
+ {
+   "categoria": "Sabonetes",
+   "nome": "Sabonete Pinho",
+   "preco": 3.9,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_67547dbb6e324ee491eff369520c2ddf~mv2.avif"
+ },
+  {
+   "categoria": "Sabonetes",
    "nome": "Sabonete Urtiga",
    "preco": 3.9,
    "tipo": "unidade",
@@ -2225,19 +2217,11 @@
  },
   {
    "categoria": "Sabonetes",
-   "nome": "Sabonete Lavanda",
+   "nome": "Sabonete Vinho",
    "preco": 3.9,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_f99f762bacd241a49fc4b16b8a2f8bfc~mv2.avif"
- },
-  {
-   "categoria": "Sabonetes",
-   "nome": "Sabonete Mel",
-   "preco": 3.9,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_a55dd1636d794449a3fea63ea26dccfc~mv2.avif"
+   "imagem": "https://static.wixstatic.com/media/16f718_e1fc5b2c92e6429fa125071baf47e95b~mv2.avif"
  },
  {
    "categoria": "Sal",
