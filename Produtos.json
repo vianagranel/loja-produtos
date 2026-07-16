@@ -1471,29 +1471,77 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_8f2e6237c61548e5918104d0e41fa10b~mv2.jpg"
  },
- {
+  {
    "categoria": "Farinhas",
-   "nome": "Farinha Espelta",
-   "preco": 2.85,
+   "nome": "Farinha Alfarroba",
+   "preco": 1.9,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_b38d1e019300482598f0bc53bd0c1bcf~mv2.webp"
+   "imagem": "https://static.wixstatic.com/media/16f718_207c6e31838647299dd6f8b9ff884d7f~mv2.jpg"
  },
- {
+  {
    "categoria": "Farinhas",
-   "nome": "Farinha Trigo Integral",
-   "preco": 1.8,
+   "nome": "Farinha Amêndoa",
+   "preco": 3.6,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_d5348ee842554940bb75b84040d46e1e~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_4d216f500bfa43ecaad9a2d15304f42e~mv2.jpg"
  },
- {
+  {
+   "categoria": "Farinhas",
+   "nome": "Farinha Aveia Integral",
+   "preco": 2.4,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_400e08912ce8409397750f3824098fc4~mv2.jpg"
+ },
+  {
+   "categoria": "Farinhas",
+   "nome": "Farinha Beterraba",
+   "preco": 4.9,
+   "tipo": "unidade",
+  "stock": 0,
+   "imagem": "https://static.wixstatic.com/media/16f718_99bc57c2615d4868a80d475dbe76a004~mv2.jpg"
+ },
+  {
    "categoria": "Farinhas",
    "nome": "Farinha Centeio Integral",
    "preco": 1.7,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_00ae9470b2cc43158f91b2295b47d29d~mv2.jpg"
+ },
+  {
+   "categoria": "Farinhas",
+   "nome": "Farinha Espelta Integral",
+   "preco": 2.85,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_b38d1e019300482598f0bc53bd0c1bcf~mv2.webp"
+ },
+  {
+   "categoria": "Farinhas",
+   "nome": "Farinha Grão Bico",
+   "preco": 6.4,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_453cd24e53924cb880fa2fd6e911066c~mv2.webp"
+ },
+   {
+   "categoria": "Farinhas",
+   "nome": "Farinha Milho",
+   "preco": 3.2,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_eb893c234aa14f45ba4bd2488e3aa466~mv2.jpg"
+ },
+  {
+   "categoria": "Farinhas",
+   "nome": "Farinha Trigo Integral",
+   "preco": 1.8,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_d5348ee842554940bb75b84040d46e1e~mv2.jpg"
  },
  {
    "categoria": "Farinhas",
@@ -1505,77 +1553,21 @@
  },
  {
    "categoria": "Farinhas",
-   "nome": "Farinha Aveia Integral",
-   "preco": 2.4,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_400e08912ce8409397750f3824098fc4~mv2.jpg"
- },
- {
-   "categoria": "Farinhas",
-   "nome": "Farinha Grão Bico",
-   "preco": 6.4,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_453cd24e53924cb880fa2fd6e911066c~mv2.webp"
- },
- {
-   "categoria": "Farinhas",
-   "nome": "Farinha Alfarroba",
-   "preco": 1.9,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_207c6e31838647299dd6f8b9ff884d7f~mv2.jpg"
- },
- {
-   "categoria": "Farinhas",
-   "nome": "Farinha Amêndoa",
-   "preco": 3.6,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_4d216f500bfa43ecaad9a2d15304f42e~mv2.jpg"
- },
- {
-   "categoria": "Farinhas",
-   "nome": "Farinha Beterraba",
-   "preco": 4.9,
-   "tipo": "unidade",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_99bc57c2615d4868a80d475dbe76a004~mv2.jpg"
- },
-  {
-   "categoria": "Farinhas",
-   "nome": "Farinha Milho",
-   "preco": 3.2,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_eb893c234aa14f45ba4bd2488e3aa466~mv2.jpg"
- },
- {
-   "categoria": "Farinhas",
    "nome": "Goma Xantana",
    "preco": 4.8,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_93e39de0b5534a1e8a5af97cb464cdf1~mv2.jpg"
  },
- {
-   "categoria": "Frescos",
-   "nome": "Veden Fumado",
-   "preco": 9.9,
+  {
+   "categoria": "Farinhas",
+   "nome": "Psyllium",
+   "preco": 4.9,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_0320ba70a7254cdb9aa0396ca572cf35~mv2.webp"
+   "imagem": "https://static.wixstatic.com/media/16f718_b3e6d93b979748f7b3fd911d6a614ef3~mv2.jpg"
  },
   {
-   "categoria": "Frescos",
-   "nome": "Veden",
-   "preco": 8.95,
-   "tipo": "unidade",
-   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_2edc177be9f946089eb3a1ec731a2f89~mv2.webp"
- },
- {
    "categoria": "Frescos",
    "nome": "Curado Boletos",
    "preco": 9.90,
@@ -1585,43 +1577,27 @@
  },
    {
    "categoria": "Frescos",
-   "nome": "Cremoso Fumado",
-   "preco": 5.50,
-   "tipo": "unidade",
-    "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_aa92e8c86b734ce59523b2d745471dbe~mv2.jpg"
- }, 
-    {
-   "categoria": "Frescos",
-   "nome": "Cremoso Alho e Ervas",
-   "preco": 5.50,
-   "tipo": "unidade",
-     "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_434f2117f8bc4cc2949af677cdd903b0~mv2.jpg"
- }, 
-     {
-   "categoria": "Frescos",
-   "nome": "Cajuberto",
-   "preco": 8.90,
-   "tipo": "unidade",
-      "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_c043d4c2d1374674a24b01adb949e7a5~mv2.webp"
- }, 
-      {
-   "categoria": "Frescos",
-   "nome": "Brito",
-   "preco": 8.90,
-   "tipo": "unidade",
-       "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_d7d9533fe4c94955a57cccf70cb26245~mv2.webp"
- }, 
-  {
-   "categoria": "Frescos",
-   "nome": "Tofu Primavera",
-   "preco": 2.75,
+   "nome": "Veden",
+   "preco": 8.95,
    "tipo": "unidade",
    "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_3dc09b19fafe49e3baea4f979471fa87~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_2edc177be9f946089eb3a1ec731a2f89~mv2.webp"
+ },
+ {
+   "categoria": "Frescos",
+   "nome": "Veden Fumado",
+   "preco": 9.9,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_0320ba70a7254cdb9aa0396ca572cf35~mv2.webp"
+ },
+ {
+  "categoria": "Frescos",
+   "nome": "Tofu Marinho",
+   "preco": 2.65,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_82eecf73f8fc49ca8299293b8a5871dc~mv2.jpg"
  },
  {
    "categoria": "Frescos",
@@ -1631,13 +1607,13 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_fbf813c320dd480c879b5bc2639ce643~mv2.jpg"
  },
- {
+   {
    "categoria": "Frescos",
-   "nome": "Tofu Marinho",
-   "preco": 2.65,
+   "nome": "Tofu Primavera",
+   "preco": 2.75,
    "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_82eecf73f8fc49ca8299293b8a5871dc~mv2.jpg"
+   "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_3dc09b19fafe49e3baea4f979471fa87~mv2.jpg"
  },
  {
    "categoria": "Frescos",
@@ -2487,14 +2463,7 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_d42c8ce39e9b4b38a2e580c5729a7a2b~mv2.jpg"
  },
- {
-   "categoria": "SuperAlimentos",
-   "nome": "Psyllium",
-   "preco": 4.9,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_b3e6d93b979748f7b3fd911d6a614ef3~mv2.jpg"
- },
+
  {
    "categoria": "SuperAlimentos",
    "nome": "Alga Kombu ",
