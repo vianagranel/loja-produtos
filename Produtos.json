@@ -1860,7 +1860,7 @@
    "nome": "Mel Rosmaninho ",
    "preco": 6.9,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_431116bc6bdc471a92d5b77dfd24edd1~mv2.jpg"
  },
  {
@@ -1868,7 +1868,7 @@
    "nome": "Mel Urze ",
    "preco": 6.9,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_70dec1f30d3449c4919a1a1aa33dd0ca~mv2.jpg"
  },
  {
@@ -1903,6 +1903,30 @@
   "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_688c9503bf96444ab666763852e65bad~mv2.jpg"
  },
+  {
+   "categoria": "Pão",
+   "nome": "Pão Aveia Integral",
+   "preco": 3.75,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_50bc4c2aa21845ec994fd9bfe59bd44c~mv2.jpg"
+ },
+  {
+   "categoria": "Pão",
+   "nome": "Pão Azeitonas",
+   "preco": 4.15,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_2089bf2c012043a9b7386fc17207e2dc~mv2.jpg"
+ },
+  {
+   "categoria": "Pão",
+   "nome": "Pão Batata Doce e Milho",
+   "preco": 3.75,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_6950311713be43d3a8e4aa635aab886d~mv2.jpg"
+ },
  {
    "categoria": "Pão",
    "nome": "Pão Cenoura",
@@ -1913,61 +1937,13 @@
  },
  {
    "categoria": "Pão",
-   "nome": "Pão Arroz integral",
-   "preco": 3.75,
-   "tipo": "unidade",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_5a463df30a064566b35103967cf1792f~mv2.jpg"
- },
- {
-   "categoria": "Pão",
-   "nome": "Pãp Espelta e Centeio Integral c/ Sementes",
-   "preco": 4.5,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_48251c3c19e845e784c5ab32af18b345~mv2.jpg"
- },
- {
-   "categoria": "Pão",
-   "nome": "Pão Avelã e Trigo Sarraceno",
-   "preco": 4,
-   "tipo": "unidade",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_ad22be215bf74e918ae58169afda0da3~mv2.jpg"
- },
- {
-   "categoria": "Pão",
-   "nome": "Pão Tâmara c/ Nozes",
-   "preco": 5.5,
-   "tipo": "unidade",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_c2800b269786495294668b6631417663~mv2.jpg"
- },
- {
-   "categoria": "Pão",
-   "nome": "Pão Alfarroba",
-   "preco": 5.25,
-   "tipo": "unidade",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_c4501cb3e52d437ba7607d4cc887ae50~mv2.jpg"
- },
- {
-   "categoria": "Pão",
-   "nome": "Pão Azeitonas",
-   "preco": 4.15,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_2089bf2c012043a9b7386fc17207e2dc~mv2.jpg"
- },
- {
-   "categoria": "Pão",
    "nome": "Pão Espelta",
    "preco": 3.75,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_48f83511fbf94e27b0562e25236f264a~mv2.jpg"
  },
- {
+  {
    "categoria": "Pão",
    "nome": "Pão Espelta e Centeio Integral",
    "preco": 3.5,
@@ -1977,27 +1953,19 @@
  },
  {
    "categoria": "Pão",
+   "nome": "Pãp Espelta e Centeio Integral c/ Sementes",
+   "preco": 4.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_48251c3c19e845e784c5ab32af18b345~mv2.jpg"
+ },
+{
+   "categoria": "Pão",
    "nome": "Pão Kamut c/ Sementes",
    "preco": 4.85,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_642156843b754aa0a678e4b1eb1310e1~mv2.jpg"
- },
- {
-   "categoria": "Pão",
-   "nome": "Pão Aveia Integral",
-   "preco": 3.75,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_50bc4c2aa21845ec994fd9bfe59bd44c~mv2.jpg"
- },
- {
-   "categoria": "Pão",
-   "nome": "Pão Batata Doce e Milho",
-   "preco": 3.75,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_6950311713be43d3a8e4aa635aab886d~mv2.jpg"
  },
  {
    "categoria": "Patês",
