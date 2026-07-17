@@ -2223,15 +2223,15 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_e1fc5b2c92e6429fa125071baf47e95b~mv2.avif"
  },
- {
+  {
    "categoria": "Sal",
-   "nome": "Sal Marinho Atlântico ",
-   "preco": 0.85,
+   "nome": "Salicórnia",
+   "preco": 6.5,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_34f3b99d7c744eea9835aeff916df1c4~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_143f5bce90844b26a08dae08568a0183~mv2.avif"
  },
- {
+  {
    "categoria": "Sal",
    "nome": "Flor de Sal - Copo",
    "preco": 5.8,
@@ -2239,7 +2239,7 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_d271cf63d4f842e1a51f0c85f97482e9~mv2.avif"
  },
- {
+  {
    "categoria": "Sal",
    "nome": "Flor Sal - Frasco",
    "preco": 3.9,
@@ -2249,21 +2249,13 @@
  },
  {
    "categoria": "Sal",
-   "nome": "Salicórnia",
-   "preco": 6.5,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_143f5bce90844b26a08dae08568a0183~mv2.avif"
- },
- {
-   "categoria": "Sal",
    "nome": "Flor Sal / 5 Pimentas",
    "preco": 3.95,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_8976da52b3e34d2489354556c811b253~mv2.avif"
  },
- {
+  {
    "categoria": "Sal",
    "nome": "Flor Sal / Ervas Aromáticas",
    "preco": 3.95,
@@ -2271,7 +2263,7 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_68a1a8ee29cb4e9db0d3e1d5e1cfe647~mv2.avif"
  },
- {
+  {
    "categoria": "Sal",
    "nome": "Flor Sal / Marrakech",
    "preco": 3.95,
@@ -2279,7 +2271,7 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_dd228672c45f4df8a99451cee2328273~mv2.avif"
  },
- {
+  {
    "categoria": "Sal",
    "nome": "Flor Sal / Meditarrânica",
    "preco": 3.95,
@@ -2287,15 +2279,15 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_05db9bcd2f5043269cd5d69f5c05f940~mv2.avif"
  },
- {
+  {
    "categoria": "Sal",
-   "nome": "Sal Rosa Himalaias Fino",
-   "preco": 1.8,
+   "nome": "Sal e Alecrim",
+   "preco": 4.7,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_abd2c7d41ff44c1f9929f89e569d3ae3~mv2.png"
+   "imagem": "https://static.wixstatic.com/media/16f718_fa0cbf71aee845b0879b7fddcd225a1d~mv2.jpg"
  },
- {
+  {
    "categoria": "Sal",
    "nome": "Sal e Oregãos",
    "preco": 4.7,
@@ -2313,21 +2305,29 @@
  },
  {
    "categoria": "Sal",
-   "nome": "Sal e Alecrim",
-   "preco": 4.7,
+   "nome": "Sal Marinho Atlântico ",
+   "preco": 0.85,
    "tipo": "unidade",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_fa0cbf71aee845b0879b7fddcd225a1d~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_34f3b99d7c744eea9835aeff916df1c4~mv2.jpg"
  },
  {
+   "categoria": "Sal",
+   "nome": "Sal Rosa Himalaias Fino",
+   "preco": 1.8,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_abd2c7d41ff44c1f9929f89e569d3ae3~mv2.png"
+ },
+  {
    "categoria": "Sementes",
-   "nome": "Trigo Sarraceno ",
-   "preco": 8,
+   "nome": "Sementes Abóbora ",
+   "preco": 11,
    "tipo": "gramas",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_515f5e1c25f046fc82c21134d84d6436~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_04659e4816f84252be1d259dd73e2896~mv2.jpg"
  },
- {
+  {
    "categoria": "Sementes",
    "nome": "Sementes Cânhamo ",
    "preco": 32,
@@ -2335,7 +2335,15 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_5c65904905e34f3e994e53a1dd79da2b~mv2.jpg"
  },
- {
+  {
+   "categoria": "Sementes",
+   "nome": "Sementes Chia ",
+   "preco": 14,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_90f09cfc5a2743aebc52588661023487~mv2.jpg"
+ },
+  {
    "categoria": "Sementes",
    "nome": "Sementes Girassol ",
    "preco": 8,
@@ -2351,31 +2359,7 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_64f17b44ff0f4c06b1742f69f08630f6~mv2.jpg"
  },
- {
-   "categoria": "Sementes",
-   "nome": "Sementes Sésamo ",
-   "preco": 10,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_bdea8e90afb84ee2877d4fffbf1b83b4~mv2.jpg"
- },
- {
-   "categoria": "Sementes",
-   "nome": "Sementes Chia ",
-   "preco": 14,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_90f09cfc5a2743aebc52588661023487~mv2.jpg"
- },
- {
-   "categoria": "Sementes",
-   "nome": "Sementes Abóbora ",
-   "preco": 11,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_04659e4816f84252be1d259dd73e2896~mv2.jpg"
- },
- {
+  {
    "categoria": "Sementes",
    "nome": "Sementes Linhaça Dourada",
    "preco": 6,
@@ -2383,7 +2367,7 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_78ad9a075e374ac9bf3e9358e6269520~mv2.jpg"
  },
- {
+  {
    "categoria": "Sementes",
    "nome": "Sementes Papoila",
    "preco": 15,
@@ -2391,7 +2375,15 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_01393dc91beb47479e24dac4326c49b6~mv2.jpg"
  },
- {
+  {
+   "categoria": "Sementes",
+   "nome": "Sementes Sésamo ",
+   "preco": 10,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_bdea8e90afb84ee2877d4fffbf1b83b4~mv2.jpg"
+ },
+  {
    "categoria": "Sementes",
    "nome": "Sementes Sésamo Negro",
    "preco": 13,
@@ -2400,22 +2392,13 @@
    "imagem": "https://static.wixstatic.com/media/16f718_b0be069a3851417a81f4b58d284a5a6a~mv2.jpg"
  },
  {
-   "categoria": "SuperAlimentos",
-   "nome": "Alga Nori",
-   "preco": 2.6,
-   "tipo": "unidade",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_6883d8786b9643198ffb87563694d1c5~mv2.jpg"
- },
- {
-   "categoria": "SuperAlimentos",
-   "nome": "Levedura Nutricional",
-   "preco": 6.2,
-   "tipo": "unidade",
+   "categoria": "Sementes",
+   "nome": "Trigo Sarraceno ",
+   "preco": 8,
+   "tipo": "gramas",
   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_d42c8ce39e9b4b38a2e580c5729a7a2b~mv2.jpg"
+   "imagem": "https://static.wixstatic.com/media/16f718_515f5e1c25f046fc82c21134d84d6436~mv2.jpg"
  },
-
  {
    "categoria": "SuperAlimentos",
    "nome": "Alga Kombu ",
@@ -2425,6 +2408,14 @@
    "imagem": "https://static.wixstatic.com/media/16f718_bd5e0762a2b24d16b84f3139590ffb2e~mv2.jpg"
  },
  {
+   "categoria": "SuperAlimentos",
+   "nome": "Levedura Nutricional",
+   "preco": 6.2,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_d42c8ce39e9b4b38a2e580c5729a7a2b~mv2.jpg"
+ },
+ {
    "categoria": "Vinagre",
    "nome": "Vinagre c/ Baunilha e Canela",
    "preco": 9.6,
@@ -2432,6 +2423,14 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_d150fbaaa4274dac9c756ef94b41203a~mv2.jpg"
  },
+  {
+   "categoria": "Vinagre",
+   "nome": "Vinagre Balsâmico",
+   "preco": 2.4,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_9c2e15c669ca4d38b8f0cf4299314812~mv2.jpg"
+ }
  {
    "categoria": "Vinagre",
    "nome": "Vinagre Maçã",
@@ -2440,12 +2439,4 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_4aded5d766b745a6b6df36b0f283fd7e~mv2.jpg"
  },
- {
-   "categoria": "Vinagre",
-   "nome": "Vinagre Balsâmico",
-   "preco": 2.4,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_9c2e15c669ca4d38b8f0cf4299314812~mv2.jpg"
- }
 ]
