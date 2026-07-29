@@ -481,7 +481,7 @@
  },
   {
    "categoria": "Cereais",
-   "nome": "Amaranto ",
+   "nome": "Amaranto",
    "preco": 7.5,
    "tipo": "gramas",
   "stock": 1,
@@ -489,7 +489,7 @@
  },
   {
    "categoria": "Cereais",
-   "nome": "Bulgur ",
+   "nome": "Bulgur",
    "preco": 6,
    "tipo": "gramas",
   "stock": 1,
@@ -505,7 +505,7 @@
  },
  {
    "categoria": "Cereais",
-   "nome": "Milho ",
+   "nome": "Milho",
    "preco": 4.8,
    "tipo": "gramas",
   "stock": 1,
@@ -513,7 +513,7 @@
  },
   {
    "categoria": "Cereais",
-   "nome": "Millet  ",
+   "nome": "Millet",
    "preco": 7,
    "tipo": "gramas",
   "stock": 1,
@@ -529,7 +529,7 @@
  },
   {
    "categoria": "Cereais",
-   "nome": "Quinoa Vermelha ",
+   "nome": "Quinoa Vermelha",
    "preco": 12,
    "tipo": "gramas",
   "stock": 1,
@@ -545,7 +545,7 @@
  },
   {
    "categoria": "Cereais",
-   "nome": "Arroz Jasmim ",
+   "nome": "Arroz Jasmim",
    "preco": 2.85,
    "tipo": "unidade",
   "stock": 1,
@@ -569,7 +569,7 @@
  },
   {
    "categoria": "Cereais Peq Almoço",
-   "nome": "Corn Flakes ",
+   "nome": "Corn Flakes",
    "preco": 14,
    "tipo": "gramas",
   "stock": 1,
@@ -1849,7 +1849,7 @@
  },
  {
    "categoria": "Massas",
-   "nome": "Espirais Tricolores ",
+   "nome": "Espirais Tricolores",
    "preco": 10,
    "tipo": "gramas",
   "stock": 0,
@@ -1857,7 +1857,7 @@
  },
  {
    "categoria": "Mel",
-   "nome": "Mel Rosmaninho ",
+   "nome": "Mel Rosmaninho",
    "preco": 6.9,
    "tipo": "unidade",
   "stock": 0,
@@ -1865,7 +1865,7 @@
  },
  {
    "categoria": "Mel",
-   "nome": "Mel Urze ",
+   "nome": "Mel Urze",
    "preco": 6.9,
    "tipo": "unidade",
   "stock": 0,
@@ -1873,7 +1873,7 @@
  },
  {
    "categoria": "Mel",
-   "nome": "Mel Castanheiro ",
+   "nome": "Mel Castanheiro",
    "preco": 6.9,
    "tipo": "unidade",
   "stock": 0,
@@ -1881,7 +1881,7 @@
  },
  {
    "categoria": "Mel",
-   "nome": "Mel Castanheiro ",
+   "nome": "Mel Castanheiro",
    "preco": 4.6,
    "tipo": "unidade",
   "stock": 1,
@@ -2113,7 +2113,7 @@
  },
  {
    "categoria": "Sabonetes",
-   "nome": "Sabonete Portugal ",
+   "nome": "Sabonete Portugal",
    "preco": 10,
    "tipo": "unidade",
   "stock": 1,
@@ -2305,7 +2305,7 @@
  },
  {
    "categoria": "Sal",
-   "nome": "Sal Marinho Atlântico ",
+   "nome": "Sal Marinho Atlântico",
    "preco": 0.85,
    "tipo": "unidade",
   "stock": 1,
@@ -2321,7 +2321,7 @@
  },
   {
    "categoria": "Sementes",
-   "nome": "Sementes Abóbora ",
+   "nome": "Sementes Abóbora",
    "preco": 11,
    "tipo": "gramas",
   "stock": 1,
@@ -2329,7 +2329,7 @@
  },
   {
    "categoria": "Sementes",
-   "nome": "Sementes Cânhamo ",
+   "nome": "Sementes Cânhamo",
    "preco": 32,
    "tipo": "gramas",
   "stock": 1,
@@ -2337,7 +2337,7 @@
  },
   {
    "categoria": "Sementes",
-   "nome": "Sementes Chia ",
+   "nome": "Sementes Chia",
    "preco": 14,
    "tipo": "gramas",
   "stock": 1,
@@ -2345,7 +2345,7 @@
  },
   {
    "categoria": "Sementes",
-   "nome": "Sementes Girassol ",
+   "nome": "Sementes Girassol",
    "preco": 8,
    "tipo": "gramas",
   "stock": 1,
@@ -2353,7 +2353,7 @@
  },
  {
    "categoria": "Sementes",
-   "nome": "Sementes Linhaça Castanha ",
+   "nome": "Sementes Linhaça Castanha",
    "preco": 6,
    "tipo": "gramas",
   "stock": 1,
@@ -2377,7 +2377,7 @@
  },
   {
    "categoria": "Sementes",
-   "nome": "Sementes Sésamo ",
+   "nome": "Sementes Sésamo",
    "preco": 10,
    "tipo": "gramas",
   "stock": 1,
@@ -2393,7 +2393,7 @@
  },
  {
    "categoria": "Sementes",
-   "nome": "Trigo Sarraceno ",
+   "nome": "Trigo Sarraceno",
    "preco": 8,
    "tipo": "gramas",
   "stock": 1,
@@ -2401,7 +2401,7 @@
  },
  {
    "categoria": "SuperAlimentos",
-   "nome": "Alga Kombu ",
+   "nome": "Alga Kombu",
    "preco": 2.8,
    "tipo": "unidade",
   "stock": 1,
@@ -2438,5 +2438,5 @@
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_4aded5d766b745a6b6df36b0f283fd7e~mv2.jpg"
- },
+ }
 ]
