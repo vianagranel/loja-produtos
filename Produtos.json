@@ -1191,6 +1191,14 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_57c93ec57aa04a0eaca2323369b3df94~mv2.jpg"
  },
+   {
+   "categoria": "Especiarias",
+   "nome": "Anis Estrelado",
+   "preco": 60,
+   "tipo": "gramas",
+   "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_7429c0f635014d308b59b66dc88c7c68~mv2.jpg"
+ },
  {
    "categoria": "Especiarias",
    "nome": "Bicarbonato de Sódio",
@@ -1454,14 +1462,6 @@
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_a205276d48714de48e4fb307299bfe05~mv2.jpg"
- },
-  {
-   "categoria": "Especiarias",
-   "nome": "Anis Estrelado",
-   "preco": 3.95,
-   "tipo": "unidade",
-   "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_7429c0f635014d308b59b66dc88c7c68~mv2.jpg"
  },
  {
    "categoria": "Especiarias",
