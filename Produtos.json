@@ -33,14 +33,6 @@
  },
  {
    "categoria": "Azeite",
-   "nome": "Azeite Virgem Extra Bio",
-   "preco": 14.4,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_2128f7ac9a9f41efb493fe480a67756d~mv2.jpg"
- },
- {
-   "categoria": "Azeite",
    "nome": "Azeite c/ Salicórnia",
    "preco": 7.5,
    "tipo": "unidade",
@@ -156,7 +148,7 @@
    "nome": "Märzen | Rubi",
    "preco": 2.8,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_18552a97b71c433aab4f5ca24fd547d5~mv2.png"
  },
  {
@@ -284,7 +276,7 @@
    "nome": "Biscoitos Chocolate",
    "preco": 4.8,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_4d195f5051d44cec8646ea3b3ad69b56~mv2.jpg"
  },
  {
@@ -910,14 +902,6 @@
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_2d67010ad56c40a3981957b935f3331b~mv2.jpg"
- },
- {
-   "categoria": "Compotas",
-   "nome": "Compota Tomate",
-   "preco": 5,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_ef7ba942496845a5967cc45a27eb5d5f~mv2.jpg"
  },
  {
    "categoria": "Compotas",
@@ -1564,7 +1548,7 @@
    "nome": "Psyllium",
    "preco": 4.9,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_b3e6d93b979748f7b3fd911d6a614ef3~mv2.jpg"
  },
   {
@@ -1596,7 +1580,7 @@
    "nome": "Tofu Marinho",
    "preco": 2.65,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_82eecf73f8fc49ca8299293b8a5871dc~mv2.jpg"
  },
  {
@@ -1604,7 +1588,7 @@
    "nome": "Tofu Natural",
    "preco": 2.50,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_fbf813c320dd480c879b5bc2639ce643~mv2.jpg"
  },
    {
@@ -1612,7 +1596,7 @@
    "nome": "Tofu Primavera",
    "preco": 2.75,
    "tipo": "unidade",
-   "stock": 1,
+   "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_3dc09b19fafe49e3baea4f979471fa87~mv2.jpg"
  },
  {
@@ -1620,7 +1604,7 @@
    "nome": "Seitan",
    "preco": 3,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_e01fb486a0cf4920bcebf5467b3ac688~mv2.jpg"
  },
  {
@@ -1820,7 +1804,7 @@
    "nome": "Lentilha Branca",
    "preco": 5,
    "tipo": "gramas",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_7e2edcec317f44af9adeaa0923c1ee4e~mv2.jpg"
  },
 {
@@ -1828,7 +1812,7 @@
    "nome": "Lentilha Castanha",
    "preco": 7,
    "tipo": "gramas",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_3d9a8f6c464240cc99f69c3c01e1f527~mv2.jpg"
  },
  {
@@ -1884,7 +1868,7 @@
    "nome": "Mel Castanheiro",
    "preco": 4.6,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_1fb0b17ccd0f4b23b4c67f2419aad990~mv2.jpg"
  },
  {
@@ -1908,7 +1892,7 @@
    "nome": "Pão Aveia Integral",
    "preco": 3.75,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_50bc4c2aa21845ec994fd9bfe59bd44c~mv2.jpg"
  },
   {
@@ -1916,7 +1900,7 @@
    "nome": "Pão Azeitonas",
    "preco": 4.15,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_2089bf2c012043a9b7386fc17207e2dc~mv2.jpg"
  },
   {
@@ -1924,7 +1908,7 @@
    "nome": "Pão Batata Doce e Milho",
    "preco": 3.75,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_6950311713be43d3a8e4aa635aab886d~mv2.jpg"
  },
  {
@@ -1932,7 +1916,7 @@
    "nome": "Pão Cenoura",
    "preco": 5.2,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_2f3323da8e554e2d9fb244bd4d964f64~mv2.jpg"
  },
  {
@@ -1940,7 +1924,7 @@
    "nome": "Pão Espelta",
    "preco": 3.75,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_48f83511fbf94e27b0562e25236f264a~mv2.jpg"
  },
   {
@@ -1948,7 +1932,7 @@
    "nome": "Pão Espelta e Centeio Integral",
    "preco": 3.5,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_06f8d985f456497dbc2f1a6bfb0c4b01~mv2.jpg"
  },
  {
@@ -1956,7 +1940,7 @@
    "nome": "Pãp Espelta e Centeio Integral c/ Sementes",
    "preco": 4.5,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_48251c3c19e845e784c5ab32af18b345~mv2.jpg"
  },
 {
@@ -1964,7 +1948,7 @@
    "nome": "Pão Kamut c/ Sementes",
    "preco": 4.85,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_642156843b754aa0a678e4b1eb1310e1~mv2.jpg"
  },
  {
@@ -1972,7 +1956,7 @@
    "nome": "Pasta Azeitona Galega",
    "preco": 2.8,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_0552660b1b1441679fd63969175fe001~mv2.jpg"
  },
  {
