@@ -904,6 +904,22 @@
    "imagem": "https://static.wixstatic.com/media/16f718_ce5405f40123483dbdde87b7e4c6d040~mv2.webp"
  },
   {
+   "categoria": "Compotas",
+   "nome": "Papinha de Maçã",
+   "preco": 3.4,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_a304df54fb5f4bd78640362a9248be67~mv2.webp"
+ },
+  {
+   "categoria": "Compotas",
+   "nome": "Papinha de Pêra",
+   "preco": 3.4,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_416d2835ce0f4674a13d6de1f25e4a1c~mv2.webp"
+ },
+   {
    "categoria": "Desidratados",
    "nome": "Alho Laminado",
    "preco": 18,
@@ -1636,7 +1652,7 @@
    "nome": "Seitan",
    "preco": 3,
    "tipo": "unidade",
-  "stock": 0,
+  "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_e01fb486a0cf4920bcebf5467b3ac688~mv2.jpg"
  },
  {
