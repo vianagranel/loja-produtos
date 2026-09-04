@@ -90,7 +90,7 @@
 {
    "categoria": "Azeite",
    "nome": "Óleo Coco",
-   "preco": 5.95,
+   "preco": 5.6,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_a0964118826c4e6d970b6e339dc04117~mv2.jpg"
@@ -124,7 +124,7 @@
    "nome": "Kombucha Limão e Hortelã",
    "preco": 3.8,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_6c14afdeb4df40b8b80ad05b77a13d5e~mv2.png"
  },
 {
@@ -252,7 +252,7 @@
    "nome": "Biscoito Amêndoa",
    "preco": 5.8,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_9fb66cbad3194cc0acc4d2528ed76791~mv2.jpg"
  },
   {
@@ -292,7 +292,7 @@
    "nome": "Biscoitos Amêndoa",
    "preco": 5,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_e68a52c8e3e044da9a55e076e97b7441~mv2.webp"
  },
   {
@@ -436,7 +436,7 @@
    "nome": "Grão - Príncipe",
    "preco": 7.9,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_984fe3db57284fbd81fe98999b0b5ae6~mv2.jpeg"
  },
  {
@@ -743,14 +743,6 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_41d4cd055b044155ae1f0b67076949ab~mv2.jpg"
  },
- {
-   "categoria": "Chás",
-   "nome": "Preto Himalaya",
-   "preco": 55,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_96596f1ea3e84441ae51ee83a79b3731~mv2.jpg"
- },
   {
    "categoria": "Chás",
    "nome": "Verde Sencha",
@@ -898,7 +890,7 @@
  {
    "categoria": "Compotas",
    "nome": "Doce de Ginja  ",
-   "preco": 6.9,
+   "preco": 7,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_2d67010ad56c40a3981957b935f3331b~mv2.jpg"
@@ -1471,6 +1463,14 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_4d216f500bfa43ecaad9a2d15304f42e~mv2.jpg"
  },
+ {
+   "categoria": "Farinhas",
+   "nome": "Farinha de Arroz",
+   "preco": 1.2,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_87b1a0f67acf49c4a4dd391edc1e4678~mv2.jpg"
+ },
   {
    "categoria": "Farinhas",
    "nome": "Farinha Aveia Integral",
@@ -1484,7 +1484,7 @@
    "nome": "Farinha Beterraba",
    "preco": 4.9,
    "tipo": "unidade",
-  "stock": 0,
+  "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_99bc57c2615d4868a80d475dbe76a004~mv2.jpg"
  },
   {
@@ -1524,7 +1524,7 @@
    "nome": "Farinha Trigo Integral",
    "preco": 1.8,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_d5348ee842554940bb75b84040d46e1e~mv2.jpg"
  },
  {
@@ -1548,8 +1548,40 @@
    "nome": "Psyllium",
    "preco": 4.9,
    "tipo": "unidade",
-  "stock": 0,
+  "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_b3e6d93b979748f7b3fd911d6a614ef3~mv2.jpg"
+ },
+ {
+   "categoria": "Frescos",
+   "nome": "Brito",
+   "preco": 8.90,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_d7d9533fe4c94955a57cccf70cb26245~mv2.webp"
+ },
+ {
+   "categoria": "Frescos",
+   "nome": "Cajuberto",
+   "preco": 8.90,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_c043d4c2d1374674a24b01adb949e7a5~mv2.webp"
+ },
+  {
+   "categoria": "Frescos",
+   "nome": "Cremoso Alho e Ervas",
+   "preco": 5.50,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_434f2117f8bc4cc2949af677cdd903b0~mv2.jpg"
+ },
+ {
+   "categoria": "Frescos",
+   "nome": "Cremoso Fumado",
+   "preco": 5.50,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_aa92e8c86b734ce59523b2d745471dbe~mv2.jpg"
  },
   {
    "categoria": "Frescos",
@@ -1580,7 +1612,7 @@
    "nome": "Tofu Marinho",
    "preco": 2.65,
    "tipo": "unidade",
-  "stock": 0,
+  "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_82eecf73f8fc49ca8299293b8a5871dc~mv2.jpg"
  },
  {
@@ -1588,7 +1620,7 @@
    "nome": "Tofu Natural",
    "preco": 2.50,
    "tipo": "unidade",
-  "stock": 0,
+  "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_fbf813c320dd480c879b5bc2639ce643~mv2.jpg"
  },
    {
@@ -1596,7 +1628,7 @@
    "nome": "Tofu Primavera",
    "preco": 2.75,
    "tipo": "unidade",
-   "stock": 0,
+   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_3dc09b19fafe49e3baea4f979471fa87~mv2.jpg"
  },
  {
@@ -2055,14 +2087,6 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_9eb39a90c6b848b6ab740b3cc850117b~mv2.jpg"
  },
- {
-   "categoria": "Sabonetes",
-   "nome": "Sabonete Pedras Pomes",
-   "preco": 2.5,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_553a642c73504bce85599bcd4a4a2375~mv2.jpg"
- },
   {
    "categoria": "Sabonetes",
    "nome": "Sabonete Campestre",
@@ -2398,14 +2422,6 @@
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_d42c8ce39e9b4b38a2e580c5729a7a2b~mv2.jpg"
- },
- {
-   "categoria": "Vinagre",
-   "nome": "Vinagre c/ Baunilha e Canela",
-   "preco": 9.6,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_d150fbaaa4274dac9c756ef94b41203a~mv2.jpg"
  },
   {
    "categoria": "Vinagre",
