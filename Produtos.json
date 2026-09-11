@@ -746,7 +746,7 @@
   {
    "categoria": "Chás",
    "nome": "Verde Sencha",
-   "preco": 60,
+   "preco": 65,
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_410912248e1c45b1855de9abe5d55da9~mv2.jpg"
@@ -942,6 +942,14 @@
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_0aba91e60651424c8f95a8565cbce4d0~mv2.jpg"
+ },
+ {
+   "categoria": "Desidratados",
+   "nome": "Ananás em Cubos",
+   "preco": 30,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_4b3fceb05029478399ff1cf44ac8ef1f~mv2.jpg"
  },
   {
    "categoria": "Desidratados",
@@ -1318,6 +1326,14 @@
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_1baed0b8cebf4e88b6272596df2c12b4~mv2.jpg"
+ },
+ {
+   "categoria": "Especiarias",
+   "nome": "Mistura Bolonhesa",
+   "preco": 36,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_b2640925bf8048a78b8cd65bb62dfea9~mv2.jpg"
  },
    {
    "categoria": "Especiarias",
