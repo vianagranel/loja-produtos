@@ -689,6 +689,14 @@
  },
   {
    "categoria": "Chás",
+   "nome": "Erva São Roberto",
+   "preco": 40,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_edceedb87d9d488499073162f561ca57~mv2.jpg"
+ },
+  {
+   "categoria": "Chás",
    "nome": "Hibisco",
    "preco": 30,
    "tipo": "gramas",
@@ -1462,6 +1470,14 @@
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_0031245b5fb0496eb1668123158db44a~mv2.jpg"
+ },
+   {
+   "categoria": "Especiarias",
+   "nome": "Sumac",
+   "preco": 30,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_53fe9c6a6ac248e4bffd87f2a5595fb3~mv2.jpg"
  },
   {
    "categoria": "Especiarias",
