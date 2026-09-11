@@ -428,7 +428,7 @@
    "nome": "Grão - Loreto",
    "preco": 7.9,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_9f6d925a259a44289ad920c107c5bed6~mv2.jpeg"
  },
  {
@@ -756,7 +756,7 @@
    "nome": "Infusão Banana/Baunilha",
    "preco": 5.5,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_5e798f5a96844b5f8bb06b06139d9a0a~mv2.png"
  },
   {
@@ -1580,7 +1580,7 @@
    "nome": "Psyllium",
    "preco": 4.9,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_b3e6d93b979748f7b3fd911d6a614ef3~mv2.jpg"
  },
  {
