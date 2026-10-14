@@ -20,7 +20,7 @@
    "nome": "Açúcar Mascavado de Cana",
    "preco": 10,
    "tipo": "gramas",
-  "stock": 0, 
+  "stock": 1, 
    "imagem": "https://static.wixstatic.com/media/16f718_57e9bb2e9c994a7b9cde3527e72b36e6~mv2.jpg"
  },
  {
@@ -86,6 +86,30 @@
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_583648c3d5eb4e50a9725b171e56f7d9~mv2.jpg"
+ },
+  {
+   "categoria": "Azeite",
+   "nome": "Quinta S.Braz Organic - 750ml",
+   "preco": 16.9,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_b5f744ed733a4a7882a106c556366a21~mv2.png"
+ },
+  {
+   "categoria": "Azeite",
+   "nome": "Quinta S.Braz Classico - 500ml",
+   "preco": 13.9,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_b4281a5ff0e54dc89d60492c23ad6d3b~mv2.png"
+ },
+  {
+   "categoria": "Azeite",
+   "nome": "Quinta S.Braz Premium - 500ml",
+   "preco": 15.9,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_b6b2caf24fa44ac79646acebcf46973a~mv2.png"
  },
 {
    "categoria": "Azeite",
