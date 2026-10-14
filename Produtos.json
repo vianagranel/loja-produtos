@@ -324,7 +324,7 @@
    "nome": "Biscoitos Ananás e Gengibre",
    "preco": 5,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_0c8da4e533c84cfd9b3cbe71abb2dd98~mv2.webp"
  },
  {
@@ -1060,7 +1060,7 @@
    "nome": "Mirtilos",
    "preco": 30,
    "tipo": "gramas",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_c5d6a0f78d154e3a99e613c6fabd5492~mv2.jpg"
  },
   {
@@ -1548,7 +1548,7 @@
    "nome": "Farinha Beterraba",
    "preco": 4.9,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_99bc57c2615d4868a80d475dbe76a004~mv2.jpg"
  },
   {
@@ -1604,7 +1604,7 @@
    "nome": "Goma Xantana",
    "preco": 4.8,
    "tipo": "unidade",
-  "stock": 1,
+  "stock":0,
    "imagem": "https://static.wixstatic.com/media/16f718_93e39de0b5534a1e8a5af97cb464cdf1~mv2.jpg"
  },
   {
@@ -1612,7 +1612,7 @@
    "nome": "Psyllium",
    "preco": 4.9,
    "tipo": "unidade",
-  "stock": 0,
+  "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_b3e6d93b979748f7b3fd911d6a614ef3~mv2.jpg"
  },
  {
@@ -1628,7 +1628,7 @@
    "nome": "Cajuberto",
    "preco": 8.90,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_c043d4c2d1374674a24b01adb949e7a5~mv2.webp"
  },
   {
@@ -1676,7 +1676,7 @@
    "nome": "Tofu Marinho",
    "preco": 2.65,
    "tipo": "unidade",
-  "stock": 0,
+  "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_82eecf73f8fc49ca8299293b8a5871dc~mv2.jpg"
  },
  {
@@ -1684,7 +1684,7 @@
    "nome": "Tofu Natural",
    "preco": 2.50,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_fbf813c320dd480c879b5bc2639ce643~mv2.jpg"
  },
    {
@@ -1812,7 +1812,7 @@
    "nome": "Ervilhas Secas",
    "preco": 5.8,
    "tipo": "gramas",
-  "stock": 0,
+  "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_7c084dfe1683434e843257ae330fd82e~mv2.jpg"
  },
   {
@@ -1884,7 +1884,7 @@
    "nome": "Feijoca",
    "preco": 6,
    "tipo": "gramas",
-  "stock": 0,
+  "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_085d2d1181a343dbb9490c11159c4ac3~mv2.jpg"
  },
  {
@@ -1916,7 +1916,7 @@
    "nome": "Lentilha Coral",
    "preco": 6,
    "tipo": "gramas",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_d3d2287b98f24ddaa7623749465be764~mv2.jpg"
  },
  {
@@ -1924,7 +1924,7 @@
    "nome": "Lentilha Verde",
    "preco": 5,
    "tipo": "gramas",
-  "stock": 0,
+  "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_90728637586945bb8e60f9671838f5e7~mv2.jpg"
  },
  {
