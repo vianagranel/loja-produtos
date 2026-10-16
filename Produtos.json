@@ -9,14 +9,6 @@
  },
  {
    "categoria": "Açúcar",
-   "nome": "Açúcar Integral de Cana",
-   "preco": 9,
-   "tipo": "gramas",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_723416f27656404e8e241030399c9edd~mv2.jpg"
- },
- {
-   "categoria": "Açúcar",
    "nome": "Açúcar Mascavado de Cana",
    "preco": 10,
    "tipo": "gramas",
@@ -116,7 +108,7 @@
    "nome": "Óleo Coco",
    "preco": 5.6,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_a0964118826c4e6d970b6e339dc04117~mv2.jpg"
  },
  {
@@ -164,7 +156,7 @@
    "nome": "Pale Lager | Bio",
    "preco": 3.3,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_f800776a524943af97788187193e5ef7~mv2.png"
  },
  {
@@ -833,8 +825,56 @@
  },
   {
    "categoria": "Chás",
+   "nome": "Aconchego",
+   "preco": 5.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_97f1375418ad4dbe8b0266734a994bab~mv2.jpg"
+ },
+   {
+   "categoria": "Chás",
+   "nome": "Boom",
+   "preco": 5.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_8c4175daaf8e46e085f7b6dab1572ed8~mv2.jpg"
+ },
+   {
+   "categoria": "Chás",
+   "nome": "Galo Barnabé",
+   "preco": 5.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_f01ef3e2515b445eb45cc4cf6c800dbb~mv2.jpg"
+ },
+    {
+   "categoria": "Chás",
+   "nome": "Memórias Infância",
+   "preco": 5.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_db23e3427f4547abae257d092ecc8f07~mv2.jpg"
+ },
+  {
+   "categoria": "Chás",
+   "nome": "Partida Largada Fugida",
+   "preco": 5.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_818d356c89e64ba2824e4228b22db610~mv2.jpg"
+ },
+  {
+   "categoria": "Chás",
+   "nome": "Segredo da Lua",
+   "preco": 5.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_032c393b899f436398fc2e196d22bade~mv2.jpg"
+ },
+  {
+   "categoria": "Chás",
    "nome": "Sombra do Sobreiro",
-   "preco": 4.9,
+   "preco": 5.5,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_66eaf3ac11dc42d193cfbe67f29a25ef~mv2.jpg"
@@ -842,10 +882,18 @@
   {
    "categoria": "Chás",
    "nome": "Vento do Sul",
-   "preco": 4.9,
+   "preco": 5.5,
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_b4103629fa3848eb9a69983a53268191~mv2.jpg"
+ },
+   {
+   "categoria": "Chás",
+   "nome": "Xi-Coração",
+   "preco": 5.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_fc5d11be13a54dd19de6c6e9e8897290~mv2.jpg"
  },
  {
    "categoria": "Chás",
