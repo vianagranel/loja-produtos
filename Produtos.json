@@ -2425,6 +2425,14 @@
  },
   {
    "categoria": "Sabonetes",
+   "nome": "Sabonete Sal e Arruda",
+   "preco": 3.9,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "​https://static.wixstatic.com/media/16f718_20ca4b05742f4579abcc04d6dd50e797~mv2.avif"
+ },
+  {
+   "categoria": "Sabonetes",
    "nome": "Sabonete Urtiga",
    "preco": 3.9,
    "tipo": "unidade",
