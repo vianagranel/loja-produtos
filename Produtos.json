@@ -1692,7 +1692,7 @@
    "nome": "Farinha Espelta Integral",
    "preco": 2.85,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_b38d1e019300482598f0bc53bd0c1bcf~mv2.webp"
  },
   {
@@ -2065,35 +2065,35 @@
  },
  {
    "categoria": "Mel",
-   "nome": "Mel Rosmaninho",
-   "preco": 6.9,
+   "nome": "Mel Rosmaninho - 500gr",
+   "preco": 9,
    "tipo": "unidade",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_431116bc6bdc471a92d5b77dfd24edd1~mv2.jpg"
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_cab6b206ec2d402d9999965d9e0b496e~mv2.jpg"
  },
  {
    "categoria": "Mel",
-   "nome": "Mel Urze",
-   "preco": 6.9,
+   "nome": "Mel Rosmaninho - 350gr",
+   "preco": 6.5,
    "tipo": "unidade",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_70dec1f30d3449c4919a1a1aa33dd0ca~mv2.jpg"
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_ce5981b551b34403b6cc2d4e3a48c16f~mv2.jpg"
  },
  {
    "categoria": "Mel",
-   "nome": "Mel Castanheiro",
-   "preco": 6.9,
+   "nome": "Mel Multifloral - 500gr",
+   "preco": 9,
    "tipo": "unidade",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_650d6c130b934e388c61453e91c73a4e~mv2.jpg"
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_0d27c2f13e1341838cea2bc2c48cbc41~mv2.jpg"
  },
  {
    "categoria": "Mel",
-   "nome": "Mel Castanheiro",
-   "preco": 4.6,
+   "nome": "Mel Multifloral - 350gr",
+   "preco": 6.5,
    "tipo": "unidade",
-  "stock": 0,
-   "imagem": "https://static.wixstatic.com/media/16f718_1fb0b17ccd0f4b23b4c67f2419aad990~mv2.jpg"
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_724fe6fff33b4eebafeb5aa28e02e115~mv2.jpg"
  },
  {
    "categoria": "Mel",
@@ -2478,14 +2478,6 @@
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_05db9bcd2f5043269cd5d69f5c05f940~mv2.avif"
- },
-  {
-   "categoria": "Sal",
-   "nome": "Sal e Alecrim",
-   "preco": 4.7,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_fa0cbf71aee845b0879b7fddcd225a1d~mv2.jpg"
  },
   {
    "categoria": "Sal",
