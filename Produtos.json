@@ -2199,6 +2199,22 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_3f7d5a8cd25b430db6da1815db650506~mv2.jpg"
  },
+  {
+   "categoria": "Patês",
+   "nome": "Patê Azeitona c/ Pimento Vermelho",
+   "preco": 6,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_ee0d1d8cc9ce4ee1bfcff421ae73ada7~mv2.jpg"
+ },
+  {
+   "categoria": "Patês",
+   "nome": "PatÊ Azeitona c/ Amêndoa Torrada",
+   "preco": 6,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_0d7039c55d1e43feb35f9b664d549b7c~mv2.jpg"
+ },
  {
    "categoria": "Perfumaria",
    "nome": "Colónia Lavanda",
