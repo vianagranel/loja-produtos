@@ -999,6 +999,86 @@
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_416d2835ce0f4674a13d6de1f25e4a1c~mv2.webp"
  },
+  {
+   "categoria": "Compotas",
+   "nome": "Compota de Abóbora c/ Raspa Laranja",
+   "preco": 5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_f8e8f1dd626648dcae16bdda140cf208~mv2.jpg"
+ },
+  {
+   "categoria": "Compotas",
+   "nome": "Compota de Abóbora e Canela",
+   "preco": 5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_06e59233872d4704afef3031f5850125~mv2.jpg"
+ },
+ {
+   "categoria": "Compotas",
+   "nome": "Compota de Frutos Silvestres",
+   "preco": 5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_58a7ebcbe0c24f82ab0d79f0ea7352e8~mv2.jpg"
+ },
+  {
+   "categoria": "Compotas",
+   "nome": "Compota de Maçã e Canela",
+   "preco": 5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_5957164883b448ceb1fc8a8967cd1dfc~mv2.jpg"
+ },
+   {
+   "categoria": "Compotas",
+   "nome": "Compota de Morango",
+   "preco": 5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_0903b57302f140db8c82b117747a8dbd~mv2.jpg"
+ },
+    {
+   "categoria": "Compotas",
+   "nome": "Compota de Pera, Limão e Gengibre",
+   "preco": 5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_0edacf8399434a068c76060930a43d15~mv2.jpg"
+ },
+  {
+   "categoria": "Compotas",
+   "nome": "Compota de Tomate",
+   "preco": 5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_46059e502a5d4ffaadba21512b4af2a6~mv2.jpg"
+ },
+ {
+   "categoria": "Compotas",
+   "nome": "Compota Três Pimentos",
+   "preco": 5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_a6c6c592a37a40a198170cc3ffae9290~mv2.jpg"
+ },
+  {
+   "categoria": "Compotas",
+   "nome": "Geleia",
+   "preco": 7,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_0299bd00ca96493c9c0dc599a1b537c0~mv2.jpg"
+ },
+  {
+   "categoria": "Compotas",
+   "nome": "Tigela Marmelada",
+   "preco": 8,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_fe3a1e1b56c94620b220d02fc7664786~mv2.jpg"
+ },
    {
    "categoria": "Desidratados",
    "nome": "Alho Laminado",
