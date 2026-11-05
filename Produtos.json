@@ -44,7 +44,7 @@
    "nome": "Azeite Aromatizado - Massas",
    "preco": 7,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_5fa9490681a043afb71c938453a39453~mv2.jpg"
  },
  {
@@ -60,7 +60,7 @@
    "nome": "Azeite Aromatizado - Saladas",
    "preco": 7,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_9814e6c957ed40c99d2161ea64092ced~mv2.jpg"
  },
  {
@@ -106,9 +106,9 @@
 {
    "categoria": "Azeite",
    "nome": "Óleo Coco",
-   "preco": 5.6,
+   "preco": 5.8,
    "tipo": "unidade",
-  "stock": 0,
+  "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_a0964118826c4e6d970b6e339dc04117~mv2.jpg"
  },
  {
@@ -172,7 +172,7 @@
    "nome": "Schwarzbier | Preta",
    "preco": 2.8,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_71b16cadd7754461be377b62b93e98f2~mv2.png"
  },
  {
@@ -225,14 +225,6 @@
  },
   {
    "categoria": "Bebidas",
-   "nome": "Licor Mirtilo",
-   "preco": 4.4,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_a4d8227131c04df0b4c2d95ff7dd6ef6~mv2.jpg"
- },
-  {
-   "categoria": "Bebidas",
    "nome": "Licor Tangerina",
    "preco": 4.4,
    "tipo": "unidade",
@@ -276,7 +268,7 @@
    "nome": "Biscoitos Aveia e Passas",
    "preco": 4.75,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_ca3fc68aee474716ac74de3767b4ea81~mv2.jpg"
  },
   {
@@ -284,7 +276,7 @@
    "nome": "Biscoitos Canela",
    "preco": 4.8,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_d68273b054324435bab33c74a0dce1ae~mv2.jpg"
  },
   {
@@ -372,7 +364,7 @@
    "nome": "Ondina Malagueta",
    "preco": 3,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_f3053869a29c454686dee6ed29a1c817~mv2.jpg"
  },
  {
@@ -1188,7 +1180,7 @@
    "nome": "Mirtilos",
    "preco": 30,
    "tipo": "gramas",
-  "stock": 0,
+  "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_c5d6a0f78d154e3a99e613c6fabd5492~mv2.jpg"
  },
   {
@@ -1676,7 +1668,7 @@
    "nome": "Farinha Beterraba",
    "preco": 4.9,
    "tipo": "unidade",
-  "stock": 0,
+  "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_99bc57c2615d4868a80d475dbe76a004~mv2.jpg"
  },
   {
@@ -1730,7 +1722,7 @@
  {
    "categoria": "Farinhas",
    "nome": "Goma Xantana",
-   "preco": 4.8,
+   "preco": 4.9,
    "tipo": "unidade",
   "stock":0,
    "imagem": "https://static.wixstatic.com/media/16f718_93e39de0b5534a1e8a5af97cb464cdf1~mv2.jpg"
@@ -1764,7 +1756,7 @@
    "nome": "Cremoso Alho e Ervas",
    "preco": 5.50,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_434f2117f8bc4cc2949af677cdd903b0~mv2.jpg"
  },
  {
@@ -1772,7 +1764,7 @@
    "nome": "Cremoso Fumado",
    "preco": 5.50,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_aa92e8c86b734ce59523b2d745471dbe~mv2.jpg"
  },
   {
@@ -1804,7 +1796,7 @@
    "nome": "Tofu Marinho",
    "preco": 2.65,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_82eecf73f8fc49ca8299293b8a5871dc~mv2.jpg"
  },
  {
@@ -1820,7 +1812,7 @@
    "nome": "Tofu Primavera",
    "preco": 2.75,
    "tipo": "unidade",
-   "stock": 1,
+   "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_3dc09b19fafe49e3baea4f979471fa87~mv2.jpg"
  },
  {
@@ -1828,7 +1820,7 @@
    "nome": "Seitan",
    "preco": 3,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_e01fb486a0cf4920bcebf5467b3ac688~mv2.jpg"
  },
  {
@@ -2044,7 +2036,7 @@
    "nome": "Lentilha Coral",
    "preco": 6,
    "tipo": "gramas",
-  "stock": 0,
+  "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_d3d2287b98f24ddaa7623749465be764~mv2.jpg"
  },
  {
@@ -2294,22 +2286,6 @@
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_9eb39a90c6b848b6ab740b3cc850117b~mv2.jpg"
- },
-  {
-   "categoria": "Sabonetes",
-   "nome": "Sabonete Campestre",
-   "preco": 6,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_eb73b9e366bc40ef835def29a02a09a5~mv2.jpg"
- },
- {
-   "categoria": "Sabonetes",
-   "nome": "Sabonete Mel",
-   "preco": 6,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_529df0cfd2a14e81a78c55c3b47f3773~mv2.jpg"
  },
  {
    "categoria": "Sabonetes",
