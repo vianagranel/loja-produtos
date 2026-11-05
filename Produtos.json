@@ -321,6 +321,46 @@
  },
   {
    "categoria": "Bolachas",
+   "nome": "Biscoitos Chocolate e Avelã",
+   "preco": 4.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_dd62091df71041f6910df9f26d6a5b36~mv2.jpg"
+ },
+  {
+   "categoria": "Bolachas",
+   "nome": "Biscoitos Gengibre",
+   "preco": 4.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_7361fe57b3be457c83ff4cbae4315632~mv2.jpg"
+ },
+  {
+   "categoria": "Bolachas",
+   "nome": "Biscoitos Maçã e Canela",
+   "preco": 4.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_8ae564e3ba654296b15b8b7485548c13~mv2.jpg"
+ },
+  {
+   "categoria": "Bolachas",
+   "nome": "Biscoitos Nozes e Passas",
+   "preco": 4.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_6c72eac8864048599dd0330337146445~mv2.jpg"
+ },
+  {
+   "categoria": "Bolachas",
+   "nome": "Biscoitos Pastel Nata",
+   "preco": 4.5,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_070aab27b84f474bbbdc28f300ee4004~mv2.jpg"
+ },
+  {
+   "categoria": "Bolachas",
    "nome": "Capinhas Chocolate",
    "preco": 4,
    "tipo": "unidade",
