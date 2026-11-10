@@ -52,7 +52,7 @@
    "nome": "Azeite Aromatizado - Peixes",
    "preco": 7,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_2a5eff2c694c407b8ee08cdb49d931d7~mv2.jpg"
  },
  {
@@ -318,6 +318,14 @@
    "tipo": "unidade",
   "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_dd04685a333c4501b4138ee40882dae3~mv2.webp"
+ },
+  {
+   "categoria": "Bolachas",
+   "nome": "Bolachas de Amendoim e Cacau",
+   "preco": 3.8,
+   "tipo": "unidade",
+  "stock": 1,
+   "imagem": "https://static.wixstatic.com/media/16f718_1c6519fa7b4a46a1b3b3602f7b286fc0~mv2.jpg"
  },
   {
    "categoria": "Bolachas",
@@ -662,14 +670,6 @@
    "tipo": "unidade",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_3d8577ac21a2492d9ed2cafa496ad05b~mv2.jpg"
- },
-  {
-   "categoria": "Champô",
-   "nome": "Champô Sólido - Oleoso",
-   "preco": 6.5,
-   "tipo": "unidade",
-  "stock": 1,
-   "imagem": "https://static.wixstatic.com/media/16f718_a2cbbc1829ec4c7295c4718faa941365~mv2.jpg"
  },
  {
    "categoria": "Champô",
@@ -1044,7 +1044,7 @@
    "nome": "Compota de Abóbora e Canela",
    "preco": 5,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_06e59233872d4704afef3031f5850125~mv2.jpg"
  },
  {
@@ -1060,7 +1060,7 @@
    "nome": "Compota de Maçã e Canela",
    "preco": 5,
    "tipo": "unidade",
-  "stock": 1,
+  "stock": 0,
    "imagem": "https://static.wixstatic.com/media/16f718_5957164883b448ceb1fc8a8967cd1dfc~mv2.jpg"
  },
    {
@@ -1662,6 +1662,14 @@
    "tipo": "gramas",
   "stock": 1,
    "imagem": "https://static.wixstatic.com/media/16f718_a205276d48714de48e4fb307299bfe05~mv2.jpg"
+ },
+   {
+   "categoria": "Especiarias",
+   "nome": "Zaatar",
+   "preco": 34,
+   "tipo": "gramas",
+  "stock": 1,
+   "imagem": "​https://static.wixstatic.com/media/16f718_8f5bfe39ce8d46c2aa6a571f2cea6a80~mv2.jpg"
  },
  {
    "categoria": "Especiarias",
